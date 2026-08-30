@@ -34,6 +34,9 @@ das bereits Geschriebene ist der Maßstab, nicht die Theorie.
   entsteht der Witz (Milch-Dialog, Boonies „kurze Sache").
 - Kinder sind schlagfertig, aber altersecht: Yuna wörtlich und pragmatisch,
   Nele lakonisch und präzise.
+- Nele spricht selten und spät. Wenn sie spricht, ist es oft der Satz, der
+  die Szene entscheidet. Höchstens ein Nele-Satz pro Szene — aber der sitzt.
+  Yuna trägt das Tempo, Nele das Gewicht.
 
 ## Bauform
 

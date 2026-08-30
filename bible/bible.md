@@ -78,6 +78,8 @@ Basketball, ab 16 Co-Trainerin einer Jugendmannschaft.
 
 Weil sie beobachtet, merkt sie Dinge, die Jack übersieht. Sie führt Buch über seine Verspätungen.
 
+**Neles Gewicht:** Sie ist die leise Denkerin und die Vernunft der Familie — im Hintergrund, aber gerade durch ihre Art dominant. In Gesprächen zwischen Jack und Yuna hört sie zu und gibt manchmal, nicht immer, den entscheidenden Hinweis oder Kommentar. Faustregel fürs Schreiben: höchstens ein Nele-Satz pro Szene, aber der sitzt. Ihr Schweigen ist Präsenz, nicht Abwesenheit.
+
 ### Yuna Verbeek, 9 (Band 1)
 
 Die Pfiffige. Löst alles. Findet alles wieder, was im Haus verschwunden ist, meistens in unter einer Minute. Hilft gern im Haushalt und beim Kochen, ist dabei aber selbst vollkommen unordentlich. Pragmatisch bis zur Härte.
@@ -223,6 +225,8 @@ Sein eigener Code. Das ist seine Schuld — und gleichzeitig der einzige Grund, 
 Also verbessert er Menschen. Er tötet sie höflich und lässt die bessere Version weiterleben. Er hält sich für einen Wohltäter, und in einer Szene wird der Leser ihm für drei Sätze zustimmen.
 
 Nicht blutrünstig. Zutiefst falsch.
+
+**Fontaines Firmen:** Die alte Firma hieß **Encore** — Trauer-Avatare für Hinterbliebene, nach dem Tod des Sohnes aufgelöst, Fontaines Name aus den Registern getilgt. Der heutige Tarnmantel heißt **Continuité**: „digitale Nachlass- und Kontinuitätsvorsorge", verkauft nicht an Privatleute, sondern über Arbeitgeber als Fürsorge-Baustein für Auslandsentsandte — genau die Menschen, die allein und weit weg sterben. Die Einwilligung zur Verarbeitung der Kommunikationsdaten steckt im Kleingedruckten; so kommt das System legal an seine viertausend Stunden.
 
 ### Handlungsverlauf
 

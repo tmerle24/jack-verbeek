@@ -47,7 +47,7 @@ dürfen sich nie gleich anfühlen.
 
 ## Offene Punkte (Band 1)
 
-- Name der Nachlass-Firma (Fontaines alte Firma)
+- ~~Name der Nachlass-Firma~~ → festgelegt (Kap 8): **Continuité** (aktueller Tarnmantel, Vertrieb über Arbeitgeber), **Encore** (Fontaines alte, aufgelöste Avatar-Firma, Spur für Kap 16). Details in der Bible beim Antagonisten.
 - Name + Profil des Feldmanns
 - Wie genau „hat das System Hände" (Feldmann vor Ort vs. lokale Helfer) — spätestens Kap 15 festlegen
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
