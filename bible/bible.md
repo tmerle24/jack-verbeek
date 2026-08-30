@@ -177,7 +177,13 @@ Immer da, und beide noch mitten im Leben — der Vater hat Jack mit zwanzig beko
 
 ### Jacks Bruder (ab Band 3)
 
-Sechs Jahre jünger als Jack (in Band 1: 36). Zieht in die zweite vermietete Wohnung. Bis dahin bewusst als Karte zurückgehalten.
+Sechs Jahre jünger als Jack (in Band 1: 36). Eine gute Seele.
+
+Lebt bis Band 3 in Leipzig. Hin und wieder wird er besucht — Jack mit den Mädchen, mal mit den Eltern, mal alle zusammen. Diese Trips sind immer schön, und hinterher vermissen sie alle: die ganze Familie zusammen, an einem Ort, der nicht der Alltag ist. Alle freuen sich, wenn die Familie beisammen ist; der Bruder ist der Grund, warum das dort mühelos gelingt.
+
+Ab Band 3 zieht er in die zweite vermietete Wohnung. Yuna findet das zuerst gar nicht gut — „dann können wir ihn ja nicht mehr besuchen".
+
+Als Figur auf der Seite bis Band 3 bewusst zurückgehalten: Erwähnungen und Leipzig-Besuche sind erlaubt, aber er bekommt vorher keine eigene Szene und keinen Dialog.
 
 ---
 
