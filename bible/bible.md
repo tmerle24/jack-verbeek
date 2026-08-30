@@ -103,7 +103,9 @@ Beide sind sehr selbstständig. Zur Schule fahren sie eigentlich immer mit dem F
 
 ### Thea Han-Verbeek, 40 — Mutter der Kinder
 
-Halb koreanisch (Mutter aus Seoul, Familie heute in Frankfurt). Physiotherapeutin. Trennung von Jack vor drei Jahren, freundschaftlich, aber nicht schmerzfrei. Wohnt vierhundert Meter weiter unten in derselben Straße.
+Halb koreanisch (Mutter aus Seoul, Familie heute in Frankfurt). Physiotherapeutin. Trennung von Jack vor drei Jahren, freundschaftlich, aber nicht schmerzfrei. Wohnt hundertfünfzig Meter Luftlinie weiter unten in derselben Straße; man sieht ihr Dach von Jacks Terrasse.
+
+**Logistik zwischen den Häusern:** Übergaben gibt es nicht. Die Kinder laufen mit ihrem Gepäck einfach runter oder rauf; die Räder holen sie später oder morgens für den Schulweg. Wenn etwas vergessen wurde, kommen sie noch einmal vorbei — oder nur, um Gute Nacht zu sagen. Sind sie bei Thea, tauchen sie trotzdem oft bei Jack auf: nach der Schule, oder morgens früh, wenn etwas beim Papa liegt. Dann wacht Jack manchmal davon auf, obwohl er in Mama-Wochen eigentlich länger schlafen könnte.
 
 **Wesen:** Verrückte Realistin. Sie stellt sich gern öffentlich dar — soziale Netzwerke, Auftritte, einmal ein Jahr lang **Waldkönigin** der Region, mit Krone, Schärpe und Zeitungsfoto. Sie ist laut, warm, unterhaltsam und moralisch sehr präsent: Sie weiß, was richtig ist, und sagt es. Genau das mag Lucie nicht.
 

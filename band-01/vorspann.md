@@ -14,7 +14,7 @@ status: entwurf
 
 Zweiundvierzig. Ein Meter achtundachtzig. Selbstständiger IT-Spezialist mit Kunden auf vier Kontinenten und einer Ablage, die aus einem Schuhkarton besteht.
 
-Wohnt in Sankt Ilgen im Südschwarzwald, in einem Haus mit drei Wohnungen, von denen er zwei vermietet, einem Garten und einem Grill, der zu oft läuft. Vierhundert Meter weiter unten in derselben Straße wohnt die Mutter seiner Töchter.
+Wohnt in Sankt Ilgen im Südschwarzwald, in einem Haus mit drei Wohnungen, von denen er zwei vermietet, einem Garten und einem Grill, der zu oft läuft. Hundertfünfzig Meter weiter unten in derselben Straße wohnt die Mutter seiner Töchter.
 
 Vater von Nele, dreizehn, die alles sieht und wenig sagt, und Yuna, neun, die alles findet und nichts für sich behält.
 
