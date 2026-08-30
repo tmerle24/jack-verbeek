@@ -218,6 +218,8 @@ Vor zwölf Jahren, in seinen Guadeloupe-Jahren, schrieb er für eine Bank in Poi
 
 Sein eigener Code. Das ist seine Schuld — und gleichzeitig der einzige Grund, warum er das System schlagen kann: Er weiß, wo er damals geschlampt hat.
 
+Die Bibliothek heißt **Colibri** (Jacks Name von damals, nach dem Vogel auf Guadeloupe). Bekannte Schlampereien des jungen Jack, alle an einem Freitagabend entstanden: Tippfehler als Zufallsrauschen statt als Gewohnheit (Gewichte 60/30/10, frei erfunden), Korrekturlatenz hart drei bis fünf Sekunden, und die Zeile „alles, was kein Wort ist, ist Rauschen" — der Grund, warum das System Jacks Husten überging. Diese Lückenliste ist Jacks Waffe.
+
 ### Der Antagonist
 
 **Emil Fontaine**, 46, Franzose. Charmant, leise, entschuldigt sich viel. Baute vor Jahren eine Firma für digitale Nachlässe — Avatare für Hinterbliebene. Dann starb sein eigener Sohn, und Fontaine kam zu dem Schluss, den niemand aussprechen soll: dass die Kopie besser ist als der Mensch. Sie wird nicht müde, nicht wütend, verlässt niemanden.
