@@ -1,6 +1,7 @@
 # Jack Verbeek — Story Bible
 
 **Reihe:** Krimi-Action-Thriller, open end, eigenständige Fälle in fester Chronologie
+**Autor:** Till Merlé
 **Stand:** August 2026
 
 ---
@@ -66,7 +67,7 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 - Reist ständig: mit dem VW-Bus durch Europa, mit dem Flugzeug um die Welt
 - **Ukulele.** Abends auf der Terrasse, im Hotelzimmer, am Strand. Zum Runterkommen und zum Fröhlichwerden. Die Ukulele ist immer im Handgepäck (siehe „Das Musikritual")
 
-**Wohnsituation:** Eigenes Haus am Hang in Sankt Ilgen, mit zwei Einliegerwohnungen. Eine bewohnt eine befreundete getrennte Familie, die zweite übernimmt ab Band 3 Jacks Bruder.
+**Wohnsituation:** Eigenes Haus am Hang in Sankt Ilgen, aufgeteilt in drei Wohnungen: In einer wohnt Jack mit den Mädchen, zwei vermietet er — eine an eine befreundete getrennte Familie, die andere übernimmt ab Band 3 Jacks Bruder. Im Laufe der Bände baut Jack im Untergeschoss eine vierte Wohnung aus: für Gäste, für Feste, und manchmal einfach für sich, zum Zurückziehen.
 
 ---
 
@@ -168,7 +169,7 @@ Immer da. Der Vater schneidet Hecken, die niemand geschnitten haben wollte. Die 
 
 ### Jacks Bruder (ab Band 3)
 
-Zieht in die zweite Einliegerwohnung. Bis dahin bewusst als Karte zurückgehalten.
+Zieht in die zweite vermietete Wohnung. Bis dahin bewusst als Karte zurückgehalten.
 
 ---
 
@@ -272,6 +273,6 @@ Das ist der Schluss. Nicht der Sieg — das Danach.
 - Nachname für Lucie prüfen (aktuell Brennan)
 - Namen für Lucies Töchter
 - Name für Jacks Bruder
-- Name der befreundeten Familie in der ersten Einliegerwohnung
+- Name der befreundeten Familie in der ersten vermieteten Wohnung
 - Sind die Waldkönigin-Fotos ein wiederkehrender Running Gag oder eine einmalige Sache?
 - Wie viel weiß Thea über die Werkstatt, und ab wann?
