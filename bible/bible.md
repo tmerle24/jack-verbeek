@@ -105,7 +105,9 @@ Beide sind sehr selbstständig. Zur Schule fahren sie eigentlich immer mit dem F
 
 Halb koreanisch (Mutter aus Seoul, Familie heute in Frankfurt). Physiotherapeutin. Trennung von Jack vor drei Jahren, freundschaftlich, aber nicht schmerzfrei. Wohnt hundertfünfzig Meter Luftlinie weiter unten in derselben Straße; man sieht ihr Dach von Jacks Terrasse.
 
-**Logistik zwischen den Häusern:** Übergaben gibt es nicht. Die Kinder laufen mit ihrem Gepäck einfach runter oder rauf; die Räder holen sie später oder morgens für den Schulweg. Wenn etwas vergessen wurde, kommen sie noch einmal vorbei — oder nur, um Gute Nacht zu sagen. Sind sie bei Thea, tauchen sie trotzdem oft bei Jack auf: nach der Schule, oder morgens früh, wenn etwas beim Papa liegt. Dann wacht Jack manchmal davon auf, obwohl er in Mama-Wochen eigentlich länger schlafen könnte.
+**Logistik zwischen den Häusern:** Der Wechsel ist immer Montag auf Montag, seit der Trennung, und so bleibt es. Übergaben gibt es nicht: Die Kinder trudeln am Wechseltag einfach irgendwann ein, mit ihrem Gepäck, locker, ohne Zwang und ohne Zeremonie — alle sind dabei entspannt. Die Räder holen sie später oder morgens für den Schulweg. Wenn etwas vergessen wurde, kommen sie noch einmal vorbei — oder nur, um Gute Nacht zu sagen. Sind sie bei Thea, tauchen sie trotzdem oft bei Jack auf: nach der Schule, oder morgens früh, wenn etwas beim Papa liegt. Dann wacht Jack manchmal davon auf, obwohl er in Mama-Wochen eigentlich länger schlafen könnte.
+
+Es fühlt sich an wie Nachbarschaft mit der Mama, und das ist es auch: Familie, erweitert in der Straße. Die Mädchen sind glücklich damit — beide Eltern sind immer da, und jeden Tag gibt es die Wahl, den anderen zu sehen, zu besuchen oder einfach Zeit zu verbringen.
 
 **Wesen:** Verrückte Realistin. Sie stellt sich gern öffentlich dar — soziale Netzwerke, Auftritte, einmal ein Jahr lang **Waldkönigin** der Region, mit Krone, Schärpe und Zeitungsfoto. Sie ist laut, warm, unterhaltsam und moralisch sehr präsent: Sie weiß, was richtig ist, und sagt es. Genau das mag Lucie nicht.
 
