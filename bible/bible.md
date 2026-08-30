@@ -181,6 +181,8 @@ Sechs Jahre jünger als Jack (in Band 1: 36). Eine gute Seele.
 
 Lebt bis Band 3 in Leipzig. Hin und wieder wird er besucht — Jack mit den Mädchen, mal mit den Eltern, mal alle zusammen. Diese Trips sind immer schön, und hinterher vermissen sie alle: die ganze Familie zusammen, an einem Ort, der nicht der Alltag ist. Alle freuen sich, wenn die Familie beisammen ist; der Bruder ist der Grund, warum das dort mühelos gelingt.
 
+Zu den Besuchen gehört hin und wieder ein geliehenes Hausboot: drei, vier Tage auf dem Wasser im Leipziger Seenland, die ganze Familie an Bord — eine der Reisen, von denen hinterher alle noch wochenlang reden.
+
 Ab Band 3 zieht er in die zweite vermietete Wohnung. Yuna findet das zuerst gar nicht gut — „dann können wir ihn ja nicht mehr besuchen".
 
 Als Figur auf der Seite bis Band 3 bewusst zurückgehalten: Erwähnungen und Leipzig-Besuche sind erlaubt, aber er bekommt vorher keine eigene Szene und keinen Dialog.
@@ -279,6 +281,8 @@ Das ist der Schluss. Nicht der Sieg — das Danach.
 | 6 | Namibia, Südafrika | Gesichtserkennung und ein alter Mordfall | Die Werkstatt will Jack fest verpflichten. |
 
 **Zurückgehalten für Band 7/8:** Ein System, das Menschen führt, ohne dass sie es merken — jede Einzelhandlung legal, die Summe ein Verbrechen. Braucht eine etablierte Reihe, damit der Leser Jack gut genug kennt, um mitzuerschrecken, wenn dieser gesteuert wird.
+
+**Vorgemerkter Familien-Trip (für viel später):** Ein Winter in Nordnorwegen, alle zusammen — Eltern, Bruder, Kinder. Huskys, Wale, Polarlichter, Eis. Bewusster Kontrast zu den sonst tropischen Schauplätzen der Reihe. (Wale und Polarlichter im Winter = Tromsø/Vesterålen; echte Eisberge bräuchten einen Abstecher Richtung Spitzbergen — beim Ausarbeiten entscheiden.)
 
 ---
 
