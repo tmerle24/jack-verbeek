@@ -46,6 +46,9 @@ das bereits Geschriebene ist der Maßstab, nicht die Theorie.
   und muss allein stehen können.
 - Ein präzises, sinnliches Detail pro Kapitel (Ventilatorschatten alle drei
   Sekunden; der Tippfehler im Namen). Nicht mehr.
+- Höchstens eine bewusst poetische Stelle pro Kapitel — gesetzt, nicht
+  passiert. Bei Fontaine besonders streng: Seine Kapitel dürfen elegant
+  sein, aber nie lyrisch. Er beschönigt nicht, auch nicht im Erzählton.
 - Technik nur als Handlung. Wenn erklärt werden muss, erklärt Jack es Yuna,
   und sie macht sich über die Antwort lustig.
 
