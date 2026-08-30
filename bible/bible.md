@@ -18,6 +18,8 @@ Jedes Buch enthält:
 
 **Ton:** Schnell, kurze Kapitel, warm, oft komisch. Die Hoffnung auf das gute Ende wird über das Buch hinweg immer unwahrscheinlicher, löst sich aber am Schluss. Jack steht nie im Mittelpunkt, will keine Anerkennung, taucht in keinem Bericht auf. Anti-Held.
 
+**Lebensgefahr:** Jack gerät immer wieder in echte Lebensgefahr — mehrfach pro Band. Diese Szenen so schreiben, dass der Leser das Überleben nicht für garantiert hält: Jack überlebt irgendwie immer, aber nie souverän, immer knapp, immer mit Kosten. Kein Plot-Armor-Gefühl. Das Gegengewicht dazu sind die Eltern (siehe dort): Nach der Gefahr kommt der Alltag und holt ihn ein.
+
 **Erzählweise:** Multiperspektivisch.
 
 | Strang | Form | Funktion |
@@ -165,11 +167,17 @@ Boonie ist das Ventil des Buches. Wenn es zu dunkel wird, kommt Boonie.
 
 ### Jacks Eltern
 
-Immer da. Der Vater schneidet Hecken, die niemand geschnitten haben wollte. Die Mutter friert Essen ein und stellt es in Jacks Kühlschrank, wenn er im Ausland ist. Beide räumen auf, weil Jack im Alltag nie hinterherkommt.
+Immer da, und beide noch mitten im Leben — der Vater hat Jack mit zwanzig bekommen, die Mutter war da fünf Jahre älter. In Band 1: Vater 62, Mutter 67.
+
+**Die Mutter — Grundschullehrerin.** Verlängert ihren Renteneintritt immer wieder um ein, zwei Jahre, weil sie den Job liebt: das Erziehen, nicht nur das Unterrichten. Die Stütze der Grundschule, der Kinder und der Eltern — streng, aber gut, alte Schule. Friert Essen ein und stellt es in Jacks Kühlschrank, wenn er im Ausland ist.
+
+**Der Vater — Krankenpfleger.** Arbeitet auch noch, in der Ambulanz, und kümmert sich dort um alles und alle: von echten Notfällen bis zu Notfällen in Beziehungen, zwischenmenschlich oder in der Liebe. Die Stütze der Klinik — Patienten, Ärzte, Kollegen, alle Angestellten. Einmal die Woche steht er abends hinter der Theke einer Bar, als Ausgleich und weil er gern mit Menschen zu tun hat. Schneidet Hecken, die niemand geschnitten haben wollte.
+
+**Funktion in der Reihe:** Die Eltern sind die Erdung. Sie kümmern sich, nehmen Jack aber auch aufs Korn und pieksen ihn — sie sind Eltern, er bleibt das Kind, egal was er treibt und welche Abenteuer er tatsächlich erlebt. Sie neutralisieren die große Gefahr mit den irdischen Alltagsproblemen, um die Jack sich gefälligst auch kümmern soll (der Zaun, die Steuer, der Zahnarzttermin), immer auf die witzige Art. Bauform: Nach jeder Lebensgefahr steht irgendwann ein Elternteil in der Küche und fragt etwas vollkommen Banales. Beide räumen auf, weil Jack im Alltag nie hinterherkommt.
 
 ### Jacks Bruder (ab Band 3)
 
-Zieht in die zweite vermietete Wohnung. Bis dahin bewusst als Karte zurückgehalten.
+Sechs Jahre jünger als Jack (in Band 1: 36). Zieht in die zweite vermietete Wohnung. Bis dahin bewusst als Karte zurückgehalten.
 
 ---
 
