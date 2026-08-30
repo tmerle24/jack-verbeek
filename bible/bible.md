@@ -54,6 +54,8 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 
 **Sport:** Kitesurfen, Surfen, Mountainbike, Skateboard, Joggen, Basketball.
 
+**Alter und Zeitrechnung:** In Band 1 ist Jack 42. Mit Anfang zwanzig nach dem Studium nach Guadeloupe, acht Jahre dort, Rückkehr vor zwölf Jahren. Colibri schrieb er mit 30, im letzten Guadeloupe-Jahr.
+
 **Vergangenheit:** Nach dem Studium acht Jahre auf **Guadeloupe** gelebt. Diese Jahre sind sein Sehnsuchtsort und die Quelle vieler alter Kontakte, alter Schulden und alter Fehler. Aus dieser Zeit stammt auch der Code, der ihn in Band 1 einholt.
 
 **Alltag und Rituale:**

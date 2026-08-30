@@ -27,6 +27,14 @@ nach Bedarf. Nie zwei Fremd-POVs direkt hintereinander.
 **Musikritual:** dreimal offiziell (Kap 3 ✅ / ~54 / 100), Miniaturen erlaubt,
 dürfen sich nie gleich anfühlen.
 
+**Countdown:** Kap 10 setzt die Uhr — Grundlinie Verbeek in 21 Tagen
+vollständig. Midpoint (~Kap 50) und Eskalation laufen gegen dieses Datum.
+
+**Kalender:** Handlungsbeginn Dienstag, 22. September (BW: zweite Woche
+nach Schulanfang). Fernzugang verlängert bis 25.03. Fund „sechs Wochen zu
+früh" (Kap 6) = erwartete Übergabe Ende Oktober. Neue Datumsangaben
+hiergegen prüfen.
+
 ## Aktueller Block: Kapitel 6–20
 
 - **6 — Fontaine.** Der Fund des Körpers erreicht das System; Protokoll „Nachlass": geordneter Rückzug aus Kolbes Leben. Fontaine ordnet an, Verbeek zu modellieren — das System beginnt in dieser Nacht, Jack zu lernen.
@@ -36,9 +44,9 @@ dürfen sich nie gleich anfühlen.
 - **10 — Fontaine.** Wie das System lernt: Jacks alte Spuren, Foren, Commits. Fontaine liest den Code des jungen Verbeek mit Zärtlichkeit — der einzige Ebenbürtige. Erster Anflug seines Gedankens, Jack nicht zu beseitigen, sondern zu „verbessern".
 - **11 — Jack.** Kolbes Firma bittet Jack, die Anlage auf Martinique geordnet zu übergeben; Marie bittet ihn, sich dort umzusehen. Er bringt die Mädchen zu Thea und sagt ihr nicht, was los ist (Familienbogen).
 - **12 — Jack, Ende Akt 1.** Packabend, Ukulele ins Handgepäck. Marie ruft an: Das System hat allen einen vordatierten Abschiedsbrief geschickt, „gefunden im Entwurfsordner" — und er ist wunderschön. Kante: Die Maschine schreibt bessere Abschiede als Menschen.
-- **13 — Jack.** Ankunft Fort-de-France, Hitze, zwölf Jahre Erinnerung. Die Halle über Le Marin: der Deckenventilator aus dem Call, real. Der Call-Hintergrund war echt — das System hatte Augen vor Ort.
+- **13 — Jack.** Ankunft Fort-de-France, Hitze, zwölf Jahre Erinnerung. Die Halle über Le Marin: Jack sieht sofort, dass der Ventilator den Drei-Sekunden-Metronomschatten aus dem Call gar nicht werfen kann — der Call-Hintergrund war eine Rekonstruktion. Er hat in eine gerenderte Halle gesehen. (Wichtig: Das System hat KEINE Live-Augen vor Ort — sonst hätte es den Fund am Dienstag miterlebt, Widerspruch zu Kap 6.)
 - **14 — Fontaine.** Das System meldet: Verbeek ist auf der Insel. Fontaine schickt seinen Feldmann (Figur + Name offen; kalt, höflich, kein Schläger).
-- **15 — Jack.** Kolbes Quartier, die Fischfotos: Die Bilder der letzten zwölf Tage sind frisch aufgenommen, vor Ort. Kante: Das System hat nicht nur Augen. Es hat Hände.
+- **15 — Jack.** Kolbes Quartier, die Fischfotos: Die Bilder der zwölf Tage sind echt, aber alt — nie gesendete Fotos aus Kolbes eigener Sammlung (Cloud der Kamera), posthum als neu verschickt. Kante: Das System hat keine Hände. Es plündert die Erinnerungen des Toten.
 - **16 — Marie.** Karlsruhe: Die Nachlass-Klausel führt zu einer aufgelösten Firma für Trauer-Avatare und deren Gründer, dessen Name in keiner Akte mehr steht. Marie kommt Fontaines Vergangenheit näher als Jack.
 - **17 — Jack.** Der alte Bankkontakt aus Pointe-à-Pitre (per Telefon/Fähre angebahnt): Die Bank hat die Bibliothek vor Jahren verkauft — an eine Firma für digitale Nachlässe. Die zwei Spuren treffen sich.
 - **18 — Jack.** Jack merkt die Beschattung durch den Feldmann — nicht als Action, sondern als Logik (dieselbe Mietwagenfarbe, zweimal falsches Timing). Erste physische Bedrohungsahnung, kalt.
@@ -49,5 +57,7 @@ dürfen sich nie gleich anfühlen.
 
 - ~~Name der Nachlass-Firma~~ → festgelegt (Kap 8): **Continuité** (aktueller Tarnmantel, Vertrieb über Arbeitgeber), **Encore** (Fontaines alte, aufgelöste Avatar-Firma, Spur für Kap 16). Details in der Bible beim Antagonisten.
 - Name + Profil des Feldmanns
-- Wie genau „hat das System Hände" (Feldmann vor Ort vs. lokale Helfer) — spätestens Kap 15 festlegen
+- ~~Wie genau „hat das System Hände"~~ → gelöst: Es hat keine. Fotos aus Kolbes Cloud (Kap 15), Call-Hintergrund gerendert (Kap 13). Der Feldmann (ab Kap 14) ist die erste echte Hand — vorher war alles nur Software.
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
+- Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna, ~Kap 12–17 (Kaltleser-Befund: „Tür aufgehalten" trägt bisher mehr, als gezeigt ist)
+- Kap 11 muss zwei offene Fäden aufnehmen: Neles unbeantwortete Frage („Gegen wen spielen wir?") und die Leserfrage „Warum keine Polizei?"
