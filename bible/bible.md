@@ -90,6 +90,8 @@ Sie ist die Figur, der Jack Technik erklärt, weil sie so lange nachfragt, bis e
 
 Beide Mädchen sind auffallend hübsch. Beide zu einem Viertel koreanisch.
 
+Beide sind sehr selbstständig. Zur Schule fahren sie eigentlich immer mit dem Fahrrad, bei jedem Wetter — auch bei Dauerregen oder zehn bis fünfzehn Zentimetern Schnee. Bus oder Elterntaxi sind die Ausnahme, nicht die Regel.
+
 ---
 
 ### Thea Han-Verbeek, 40 — Mutter der Kinder
