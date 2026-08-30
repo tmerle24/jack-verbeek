@@ -3,6 +3,14 @@
 Destilliert aus der Bible und aus Kapitel 1–5. Bei Widerspruch gilt:
 das bereits Geschriebene ist der Maßstab, nicht die Theorie.
 
+## Klang-Leitbild
+
+Cool, souverän, einfach — der Ton eines Actionfilms. Kurze Wege, klare
+Bilder, keine Dichterprosa. Jeder Satz muss beim ersten Lesen sitzen:
+Die Reihe ist für ein breites Publikum, Leser sollen mitfiebern und sich
+identifizieren, nicht interpretieren. Poesie nur wohldosiert (siehe
+Budget-Regel unten). Im Zweifel immer die einfachere Formulierung.
+
 ## Jacks Stimme (Ich, Präteritum)
 
 - Kurze Absätze, klare Hauptsätze. Ein langer Satz ist erlaubt, wenn er
