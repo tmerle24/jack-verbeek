@@ -11,6 +11,10 @@ Die Reihe ist für ein breites Publikum, Leser sollen mitfiebern und sich
 identifizieren, nicht interpretieren. Poesie nur wohldosiert (siehe
 Budget-Regel unten). Im Zweifel immer die einfachere Formulierung.
 
+Die Emotion kommt aus Figuren und Situationen — der Erzähler bleibt cool.
+Gerade dadurch trifft es: Der Leser soll mitleiden, sich freuen, trauern
+und hoffen, ohne dass der Text ihm je sagt, was er fühlen soll.
+
 ## Jacks Stimme (Ich, Präteritum)
 
 - Kurze Absätze, klare Hauptsätze. Ein langer Satz ist erlaubt, wenn er
