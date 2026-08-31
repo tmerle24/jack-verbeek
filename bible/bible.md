@@ -229,6 +229,8 @@ Warum Südschwarzwald statt Mitte:
 
 **Sainte-Anne (Guadeloupe) und die Küste danach:** Jacks altes Revier. Vom Kitestrand führt der lange Strandspaziergang in die Mangroven, über kleine Holzbrücken, dann auf schmalen Pfaden an Felsen und Klippen entlang zu einem einsamen Traumstrand — feiner weißer Sand, Palmen, kleine Felsnischen (Band 1: der Ort mit Solène). Wer weitergeht, erreicht die große Klippe, an der eine Welle perfekt in eine Bucht aus Stein- und Sandstrand bricht: der Surfstrand, mit kleinen mobilen Surfschulen und einer Community, die am Strand Barbecue macht und Lagerfeuer. (Vorgemerkt für später — Kandidat: Voss spricht Jack an einem dieser Lagerfeuer an.)
 
+**Scheveningen (Den Haag) — Jacks Nordsee-Spot:** Er kitet gern draußen in Monster oder direkt in der Bucht am Leuchtturm; am Leuchtturm gibt es Wellen, dort surft er auch mal mit dem „normalen" Surfboard, wie zu guten alten Zeiten. Das Longboard dient zum Cruisen auf der Strandpromenade, vom Camper zum Café. Übernachtet wird immer im VW Bus am Strand. Strandbars und -cafés (Morgen-Café-Routine), abends romantische Lagerfeuer unter Sternenhimmel, die Brandung rauscht. Praktisch für die Reihe: Die Werkstatt sitzt in Den Haag — Treffen mit Voss können an diesem Strand stattfinden, zwischen Session, Feuerkorb und Bus. (Vorgemerkt für viel später: Jack bringt Lucie hierher, um ihr Kitesurfen beizubringen, im VW California Beach.)
+
 **Wiederkehrende Regionen:**
 - Französische Karibik: Guadeloupe, Martinique
 - Südamerika: Französisch-Guayana, Surinam, Brasilien, Peru, Bolivien
@@ -248,6 +250,10 @@ Die Konstruktion löst mehrere Probleme auf einmal: Sie erklärt, warum ein deut
 Jack bleibt selbstständiger IT-Spezialist und macht die Zusatzausbildung später, nebenher, widerwillig.
 
 **Hendrik Voss**, 55, Niederländer, Jacks Führungsoffizier. Ruhig, unbequem, väterlich. Kauft Jack zu enge Schuhe für Empfänge.
+
+**Femke** (Nachname offen), Voss' beste Analystin. Fand den Türen-Tell der Werkstatt: Tote gehen nicht mehr durch Türen — Zugangs- und Bewegungsdaten als Lebendig-Beweis. Daraus entstand der interne Vermerk-Humor: „geht noch durch Türen" als höchstes Lob.
+
+**Der Werkstatt-Einstieg in Band 1:** **Lucas Maes**, EU-Beamter mit Zeichnungsrecht (Förderprogramme für Überseegebiete), auf Dienstreise verschwunden, digital voll aktiv — einer der 28 Läufe, ohne dass die Werkstatt von den anderen weiß. Kein Leichnam, kein Beweis: nur ein Mann, der seit Monaten durch keine Tür mehr gegangen ist.
 
 ---
 
