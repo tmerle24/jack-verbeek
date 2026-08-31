@@ -40,7 +40,7 @@ Karibik-Block ist die Bühne: Kite-Session nach zwölf Jahren (Kap 17 oder 19),
 Meer und Küste als erlebter Ort, nicht als Kulisse. Nie mehr als zwei
 techniklastige Kapitel am Stück.
 
-## Aktueller Block: Kapitel 6–22
+## Aktueller Block: Kapitel 6–24
 
 - **6 — Fontaine.** Der Fund des Körpers erreicht das System; Protokoll „Nachlass": geordneter Rückzug aus Kolbes Leben. Fontaine ordnet an, Verbeek zu modellieren — das System beginnt in dieser Nacht, Jack zu lernen.
 - **7 — Jack.** Jack führt mit den Mädchen ein Codewort ein, verkauft es als Spiel; Yuna liebt es und macht sich über seine Erklärung lustig (Technik-für-Yuna-Szene), Nele durchschaut, dass es kein Spiel ist. Kante: Neles Frage an der Tür.
@@ -55,10 +55,12 @@ techniklastige Kapitel am Stück.
 - **16 — Marie.** Karlsruhe: Die Nachlass-Klausel führt zu einer aufgelösten Firma für Trauer-Avatare und deren Gründer, dessen Name in keiner Akte mehr steht. Marie kommt Fontaines Vergangenheit näher als Jack.
 - **17 — Jack.** ✅ Anders gelöst als geplant: Croissant-Routine (Roche nah), Kite-Session, Erkenntnis auf dem Wasser — die eigene Grundlinie als Tarnung. Kontakt zur Bank läuft über Solène (alte Freundin, damals Projektkollegin bei der Bank), sozial getarnt, nichts am Telefon. Der Verkaufs-Reveal wandert zum persönlichen Treffen (Kap 19).
 - **18 — Jack.** Freitag: Übergabe abgeschlossen. Feierabend-Törn mit Rémy (Katamaran/Segelboot) Richtung Rocher du Diamant — kurz nach der Hafenausfahrt begleitet ein einzelner Delfin den Bug; auf See ein stiller Abschied für „Monsieur Reiner" (ein Rum ins Meer). Dagegen geschnitten: Jack denkt die halbe Sekunde aus dem Café zu Ende und erkennt die Beschattung — nicht als Action, sondern als Logik (das gebügelte Hemd, zweimal, falsches Timing). Erste physische Bedrohungsahnung, kalt.
-- **19 — Jack.** Überfahrt nach Guadeloupe (Samstag, erste Fähre), Solènes Restaurant am alten Hafen, das Wiedersehen — und von ihr der Reveal: Die Bank hat Colibri vor Jahren verkauft, an eine Firma für digitale Nachlässe (Encore — die Spuren von Marie und Jack treffen sich, ohne dass die beiden es schon wissen). Das alte Haus am Strand von Sainte-Anne (kleiner Pool, „Salzwasser in Süßwasser"), der Kitestrand vor der Tür — hier begann einst Thea. Ritual-Miniatur: Ukulele allein im Dunkeln auf einer fremden Veranda.
+- **19 — Jack.** ✅ Fähre (bar bezahlt; kein Schatten sichtbar — schlimmer), Wiedersehen mit Solène, Encore-Reveal („Ich lachte an der richtigen Stelle"). Wanderung für Sonntag gepflanzt.
 - **20 — Jack.** Sonntag: Wanderung mit Solène durch den Regenwald von Basse-Terre — abgelegen, ein Wasserfall, der in ein kleines Bassin mündet, reinspringen, Erfrischung, Urwaldriesen und Lianen (botanisch: Fromager/Kapok mit Brettwurzeln — wirken wie Mammutbäume, so nennen wir sie nicht). Romantik warm, ohne Zukunft; ein Stück Solène-Gegenwart. Natur trägt das Kapitel.
 - **21 — Jack.** Montag, Sainte-Anne: das alte Haus (kleiner Pool), der Kitestrand — Thea nur als nostalgischer Halbsatz. Dann der lange Küstenspaziergang mit Solène (Restaurant-Ruhetag): Mangroven mit Holzbrücken, Klippenpfade, der einsame Traumstrand mit den Felsnischen — heiß und romantisch, mit Schnitt statt Details („was dann geschah, gehört uns"). Abschied im Uhrzeit-Motiv. Abends Ritual-Miniatur: Ukulele allein auf der Veranda — niemand da, der einen Takt wartet. Kante: Maries Nachricht „Ich habe auch etwas gefunden."
-- **22 — Voss (Strangwechsel).** Den Haag: Die Werkstatt jagt dieselbe Anomalie von der anderen Seite — einer der 28 Läufe war ein EU-Beamter mit Zeichnungsrecht. Voss' Liste möglicher Zivilexperten endet auf einem Namen, den der Leser kennt.
+- **22 — Fontaine.** Roches Wochenbericht: wer wirklich auf der Fähre war, Jacks Woche aus der Außensicht — und ein neuer Name in der Akte: Solène. Die Romantik bekommt rückwirkend einen Schatten; löst die Kante aus Kap 18 ein. (Fontaine war seit Kap 14 stumm — POV-Takt wiederherstellen.)
+- **23 — Voss (Strangwechsel).** Den Haag: Die Werkstatt jagt dieselbe Anomalie von der anderen Seite — einer der 28 Läufe war ein EU-Beamter mit Zeichnungsrecht. Voss' Liste möglicher Zivilexperten endet auf einem Namen, den der Leser kennt.
+- **24 — Jack.** Dienstag: Rückflug und Heimkehr (Bible-Regel: ein neues Heimat-Detail). Treffen mit Marie, Austausch der Funde — Encore von beiden Seiten. Beiläufig fällt: Ihre Mutter ist seit Jahren tot — und „Meine Frau sagt das auch" (Kap 1) detoniert nachträglich als übersehener Systemfehler. Hier auch das nachgeholte Yuna-Fenster (Fernzugangs-Nutzen erklären).
 
 ## Offene Punkte (Band 1)
 
@@ -66,6 +68,7 @@ techniklastige Kapitel am Stück.
 - ~~Name + Profil des Feldmanns~~ → festgelegt (Kap 14): **Denis Roche**, „Bestandspflege" — Details in der Bible beim Antagonisten. Kap 14 pflanzt außerdem die Midpoint-Mechanik: Freigabe für Jacks Stimme.
 - ~~Wie genau „hat das System Hände"~~ → gelöst: Es hat keine. Fotos aus Kolbes Cloud (Kap 15), Call-Hintergrund gerendert (Kap 13). Der Feldmann (ab Kap 14) ist die erste echte Hand — vorher war alles nur Software.
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
-- Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna, ~Kap 12–17 (Kaltleser-Befund: „Tür aufgehalten" trägt bisher mehr, als gezeigt ist)
+- Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna. Fenster 12–17 verpasst, neu eingeplant: Kap 24.
+- **„Meine Frau sagt das auch" (Kap 1) NICHT ändern** — bewusst stehen gelassener Systemfehler: Kolbes Frau ist tot (Kap 8/11), der Satz stammt aus dem alten Archiv. Payoff Kap 24: Marie erwähnt beiläufig den Tod der Mutter, Jack wird rückwirkend kalt.
 - ~~Kap 11 muss zwei offene Fäden aufnehmen~~ → erledigt in Kap 11.
 - ~~Romantik-Faden Band 1~~ → festgelegt (Kap 17): **Solène** — Details in der Bible bei Band 1. Warm, offen, ohne Zukunft; weckt Jacks stillen Wunsch, ohne ihn auszusprechen.
