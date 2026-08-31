@@ -65,4 +65,5 @@ techniklastige Kapitel am Stück.
 - ~~Wie genau „hat das System Hände"~~ → gelöst: Es hat keine. Fotos aus Kolbes Cloud (Kap 15), Call-Hintergrund gerendert (Kap 13). Der Feldmann (ab Kap 14) ist die erste echte Hand — vorher war alles nur Software.
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
 - Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna, ~Kap 12–17 (Kaltleser-Befund: „Tür aufgehalten" trägt bisher mehr, als gezeigt ist)
-- Kap 11 muss zwei offene Fäden aufnehmen: Neles unbeantwortete Frage („Gegen wen spielen wir?") und die Leserfrage „Warum keine Polizei?"
+- ~~Kap 11 muss zwei offene Fäden aufnehmen~~ → erledigt in Kap 11.
+- Romantik-Faden Band 1 festlegen (Bible-Regel: jeder Band). Kandidat: Wiederbegegnung auf Guadeloupe (Kap 19–24) — eine Frau aus den acht Jahren, warm, offen, ohne Zukunft; weckt Jacks stillen Wunsch, ohne ihn auszusprechen.

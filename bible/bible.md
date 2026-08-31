@@ -37,6 +37,8 @@ Jedes Buch enthält:
 
 **Gefühlsführung:** Der Leser muss mitfühlen können — mitleiden, sich freuen, traurig sein und bis zum Schluss hoffen müssen, dass alles gut geht. Diese Emotion entsteht nie durch Pathos, sondern durch Figuren, Situationen und Fallhöhe. Der neutrale, coole Stil und die Abwechslung sind kein Gegensatz dazu, sondern der Träger: Gerade weil der Erzähler nicht drückt, kommt das Gefühl beim Leser an — bei allen Lesern, nicht nur bei denen, die gern gerührt werden.
 
+**Romantik und Liebe:** Extrem wichtig — bekommt in jedem Band ihren Platz. Der Leser soll sich durchgehend wünschen, dass Jack nach dem Verlust der letzten Liebe die Liebe seines Lebens wiederfindet. Jack ist über Thea hinweg, wünscht sich aber insgeheim wieder eine funktionierende Familie mit einer Frau an seiner Seite — das wird nur angedeutet, nie zu tief ausgespielt. Zunächst trägt die Romantik selbst: Begegnungen, Flirts, Möglichkeiten, Wärme. Ab Band 2 kommt Lucie, die neue große Liebe mit dem langen Bogen (siehe Figuren).
+
 **Natur und Fernweh:** Die Schauplätze sind nie Kulisse. Strand, Meer, Dünen, Wälder, Berge, Flüsse, Seen — Landschaft bekommt Raum, Tiefe und Emotion. Der Leser soll Lust bekommen, dort zu sein und bleiben zu wollen; Fernweh ist ein Versprechen der Reihe, gleichberechtigt mit der Spannung. Faustregel: In jedem Auswärts-Kapitel mindestens ein Moment, in dem der Ort selbst die Szene trägt — nicht als Beschreibungsblock, sondern erlebt: Jack im Wasser, auf dem Trail, auf dem Grat, im Fluss. Der Schwarzwald ist dabei gleichwertig exotisch: Nebelmeer, Serpentinen, Hochweiden, kalte Bäche.
 
 **Heimat als Anker:** Trotz allem Fernweh, allen Orten und Abenteuern — der Anker ist die Heimat, und die Rückkehr ist immer wieder schön: Familie, Freunde, Grillabende, Feste und die Routinen, die Spaß machen und wiederkommen. Sankt Ilgen wird nie abgehakt erzählt: Mit jeder Rückkehr und über die Bände hinweg kommen mehr Details heraus, warum es dort so schön ist — ein Ort mehr, ein Nachbar mehr, ein Ritual mehr. Faustregel: Jede Heimkehr zeigt mindestens ein neues Heimat-Detail. Fernweh und Heimatgefühl sind kein Widerspruch, sondern zusammen die Basis für ein abwechslungsreiches Leben — und der Grund, warum das gute Ende jedes Bandes hier wohnt: Grill, Küche, Kinder.
@@ -207,6 +209,8 @@ Als Figur auf der Seite bis Band 3 bewusst zurückgehalten: Erwähnungen und Lei
 
 **Heimat: Sankt Ilgen**, fiktives Dorf, 1.400 Einwohner, Südschwarzwald unterhalb des Kandels, bei Freiburg.
 Kirche, Bäcker, Vereinsheim, Gasthaus *Hirschen*, drei Kilometer Serpentinen bis zur Hauptstraße. Jacks Haus am Hang am Ortsrand, Garten, Grill, Blick über die Nebelschwaden im Tal.
+
+**Dorfleben und Netzwerk:** Die meisten kennen sich, und man profitiert vom Netzwerk. Details, die nach und nach herauskommen: Wälder, Berge, Wasserfälle, Flüsse, Felder, die Ruhe — und Dorffeste, Traditionen, Märkte, Cafés, der Tratsch. Wer sich verletzt, landet in der Ambulanz bei Jacks Vater; dort darf es hin und wieder dramatisch zugehen. Die Mutter kennt als Lehrerin halbe Generationen des Orts. Neue Figuren aus der Heimat werden immer wieder eingeführt — das Dorf ist ein Ensemble, das langsam wächst.
 
 Warum Südschwarzwald statt Mitte:
 - Französische Grenze zwanzig Minuten entfernt — Elsass, Colmar, Märkte, passt zu Jacks Herkunft
