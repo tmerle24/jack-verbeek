@@ -27,8 +27,9 @@ nach Bedarf. Nie zwei Fremd-POVs direkt hintereinander.
 **Musikritual:** dreimal offiziell (Kap 3 ✅ / ~54 / 100), Miniaturen erlaubt,
 dürfen sich nie gleich anfühlen.
 
-**Countdown:** Kap 10 setzt die Uhr — Grundlinie Verbeek in 21 Tagen
-vollständig. Midpoint (~Kap 50) und Eskalation laufen gegen dieses Datum.
+**Countdown:** Kap 10 setzt die Uhr — Grundlinie Verbeek in 22 Tagen
+vollständig, Ziellinie **Sa 17.10.** (K10 22 Tage / K14 18 / K22 11 / K26 8 —
+alle auf 17.10. gerechnet). Grundlinie an dem Samstag vollständig (K35).
 
 **Kalender:** Handlungsbeginn Dienstag, 22. September (BW: zweite Woche
 nach Schulanfang). Fernzugang verlängert bis 25.03. Fund „sechs Wochen zu
