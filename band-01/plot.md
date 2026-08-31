@@ -56,7 +56,7 @@ hiergegen prüfen.
 ## Offene Punkte (Band 1)
 
 - ~~Name der Nachlass-Firma~~ → festgelegt (Kap 8): **Continuité** (aktueller Tarnmantel, Vertrieb über Arbeitgeber), **Encore** (Fontaines alte, aufgelöste Avatar-Firma, Spur für Kap 16). Details in der Bible beim Antagonisten.
-- Name + Profil des Feldmanns
+- ~~Name + Profil des Feldmanns~~ → festgelegt (Kap 14): **Denis Roche**, „Bestandspflege" — Details in der Bible beim Antagonisten. Kap 14 pflanzt außerdem die Midpoint-Mechanik: Freigabe für Jacks Stimme.
 - ~~Wie genau „hat das System Hände"~~ → gelöst: Es hat keine. Fotos aus Kolbes Cloud (Kap 15), Call-Hintergrund gerendert (Kap 13). Der Feldmann (ab Kap 14) ist die erste echte Hand — vorher war alles nur Software.
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
 - Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna, ~Kap 12–17 (Kaltleser-Befund: „Tür aufgehalten" trägt bisher mehr, als gezeigt ist)

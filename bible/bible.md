@@ -251,6 +251,8 @@ Also verbessert er Menschen. Er tötet sie höflich und lässt die bessere Versi
 
 Nicht blutrünstig. Zutiefst falsch.
 
+**Denis Roche, 51 — Fontaines Feldmann.** Titel bei Continuité: „Bestandspflege". Dreißig Jahre Schadensregulierer einer großen Versicherung, der beste, den sie je hatte: Er droht nicht, lügt nicht, drängt nicht — er sitzt höflich und vollständig informiert da, stellt Fragen in einer Reihenfolge, die man erst hinterher versteht, und am Ende unterschreiben die Leute. Hat in einunddreißig Berufsjahren keinen Menschen angefasst; das ist keine Schwäche, das ist die Pointe. Wohnt seit sechs Jahren in Fort-de-France, betreut die Antillen. Schreibt mit Bleistift (läuft im Klima nicht aus), wiederholt Aufträge wörtlich zurück wie ein Formular, meldet sich nach dem zweiten Klingeln, legt ohne Grußformel auf. Die erste echte Hand des Systems — vor ihm war alles nur Software.
+
 **Fontaines Firmen:** Die alte Firma hieß **Encore** — Trauer-Avatare für Hinterbliebene, nach dem Tod des Sohnes aufgelöst, Fontaines Name aus den Registern getilgt. Der heutige Tarnmantel heißt **Continuité**: „digitale Nachlass- und Kontinuitätsvorsorge", verkauft nicht an Privatleute, sondern über Arbeitgeber als Fürsorge-Baustein für Auslandsentsandte — genau die Menschen, die allein und weit weg sterben. Die Einwilligung zur Verarbeitung der Kommunikationsdaten steckt im Kleingedruckten; so kommt das System legal an seine viertausend Stunden.
 
 ### Handlungsverlauf
