@@ -77,7 +77,7 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 
 **Alter und Zeitrechnung:** In Band 1 ist Jack 42. Mit Anfang zwanzig nach dem Studium nach Guadeloupe, acht Jahre dort, Rückkehr vor zwölf Jahren. Colibri schrieb er mit 30, im letzten Guadeloupe-Jahr.
 
-**Vergangenheit:** Nach dem Studium acht Jahre auf **Guadeloupe** gelebt. Diese Jahre sind sein Sehnsuchtsort und die Quelle vieler alter Kontakte, alter Schulden und alter Fehler. Aus dieser Zeit stammt auch der Code, der ihn in Band 1 einholt.
+**Vergangenheit:** Nach dem Studium acht Jahre auf **Guadeloupe** gelebt. Er wohnte in **Sainte-Anne**, in einem Haus direkt am Strand — Kiten und Surfen vor der Haustür, dahinter ein kleiner Pool, „um nach der Session Salzwasser in Süßwasser zu verwandeln". In diese Jahre gehören erst die große Insel-Liebe Solène (siehe Band 1), deren Ende ihm wehtat — und dann kam Thea (Vorgeschichte siehe dort). Diese Jahre sind sein Sehnsuchtsort und die Quelle vieler alter Kontakte, alter Schulden und alter Fehler. Aus dieser Zeit stammt auch der Code, der ihn in Band 1 einholt.
 
 **Alltag und Rituale:**
 - Gemeinsames Frühstück, wann immer möglich, auch wenn morgens Chaos herrscht
@@ -128,6 +128,10 @@ Halb koreanisch (Mutter aus Seoul, Familie heute in Frankfurt). Physiotherapeuti
 Es fühlt sich an wie Nachbarschaft mit der Mama, und das ist es auch: Familie, erweitert in der Straße. Die Mädchen sind glücklich damit — beide Eltern sind immer da, und jeden Tag gibt es die Wahl, den anderen zu sehen, zu besuchen oder einfach Zeit zu verbringen.
 
 **Wesen:** Verrückte Realistin. Sie stellt sich gern öffentlich dar — soziale Netzwerke, Auftritte, einmal ein Jahr lang **Waldkönigin** der Region, mit Krone, Schärpe und Zeitungsfoto. Sie ist laut, warm, unterhaltsam und moralisch sehr präsent: Sie weiß, was richtig ist, und sagt es. Genau das mag Lucie nicht.
+
+**Vorgeschichte mit Jack:** Erste Freundin, erster Freund — achte Klasse, zehn Monate, und insgesamt neun Jahre in derselben Klasse. Nach der Schule aus den Augen verloren. Fast zehn Jahre später standen sie sich am Strand von Sainte-Anne plötzlich gegenüber — für Jack ein magischer Zufall, Gänsehaut, bis heute die Familienlegende vom Schicksal. In Wahrheit hatte Thea auf einem Klassentreffen gehört, dass Jack in der Karibik lebt, und war mit einer Freundin hingeflogen. Ob und wann Jack das je erfährt: bewusst offene Karte für spätere Bände. Zeitrechnung: Wiedersehen mit ~29/27, Nele kommt schnell, Rückkehr nach Deutschland als junge Familie (Jack 30).
+
+**Dosierung:** Diese Geschichte wird in Band 1 nur angedeutet — in Jacks Gedanken und Nostalgie, wenn er an den alten Orten ist (das Haus in Sainte-Anne). Ein Blick, ein halber Satz, nicht mehr. Voll erzählt wird sie erst in einem späteren Band.
 
 Jack und Thea gehen vernünftig und respektvoll miteinander um. Aber nie so, wie Jack es sich erträumt hat.
 
@@ -277,7 +281,7 @@ Nicht blutrünstig. Zutiefst falsch.
 
 ### Solène (Band 1)
 
-Jacks alte Freundin aus den Guadeloupe-Jahren — und der Romantik-Faden von Band 1: warm, offen, ohne Zukunft; sie weckt seinen stillen Wunsch nach einer Frau an seiner Seite, ohne dass er ihn ausspricht. Damals Projektkollegin bei der Bank in Pointe-à-Pitre (sie kennt Colibri aus erster Hand und ist Jacks sozial getarnter Weg zur Verkaufskette). Ihre Familie führt seit Jahrzehnten ein Restaurant am alten Hafen, Festnetz inklusive. Aus ihrem Kreis stammt Jacks alter Spitzname **ti-colibri**. Sie sagt Sätze wie Diagnosen und hat das Handtuch über der Schulter, wenn etwas ihre volle Aufmerksamkeit verlangt.
+Jacks große Insel-Liebe der Guadeloupe-Jahre — die Beziehung ging damals zu Ende, leider; kurz danach kam Thea. Heute der Romantik-Faden von Band 1: warm, offen, ohne Zukunft; das Wiedersehen weckt Jacks stillen Wunsch nach einer Frau an seiner Seite, ohne dass er ihn ausspricht. Damals Projektkollegin bei der Bank in Pointe-à-Pitre (sie kennt Colibri aus erster Hand und ist Jacks sozial getarnter Weg zur Verkaufskette). Ihre Familie führt seit Jahrzehnten ein Restaurant am alten Hafen, Festnetz inklusive. Aus ihrem Kreis stammt Jacks alter Spitzname **ti-colibri**. Sie sagt Sätze wie Diagnosen und hat das Handtuch über der Schulter, wenn etwas ihre volle Aufmerksamkeit verlangt.
 
 ### Handlungsverlauf
 
