@@ -227,6 +227,8 @@ Warum Südschwarzwald statt Mitte:
 - EuroAirport Basel eine Stunde, Zürich anderthalb — nötig für jemanden, der ständig nach Fort-de-France oder Bangkok fliegt
 - „Black Forest" versteht jeder Leser weltweit
 
+**Sainte-Anne (Guadeloupe) und die Küste danach:** Jacks altes Revier. Vom Kitestrand führt der lange Strandspaziergang in die Mangroven, über kleine Holzbrücken, dann auf schmalen Pfaden an Felsen und Klippen entlang zu einem einsamen Traumstrand — feiner weißer Sand, Palmen, kleine Felsnischen (Band 1: der Ort mit Solène). Wer weitergeht, erreicht die große Klippe, an der eine Welle perfekt in eine Bucht aus Stein- und Sandstrand bricht: der Surfstrand, mit kleinen mobilen Surfschulen und einer Community, die am Strand Barbecue macht und Lagerfeuer. (Vorgemerkt für später — Kandidat: Voss spricht Jack an einem dieser Lagerfeuer an.)
+
 **Wiederkehrende Regionen:**
 - Französische Karibik: Guadeloupe, Martinique
 - Südamerika: Französisch-Guayana, Surinam, Brasilien, Peru, Bolivien
