@@ -53,9 +53,9 @@ techniklastige Kapitel am Stück.
 - **14 — Fontaine.** Das System meldet: Verbeek ist auf der Insel. Fontaine schickt seinen Feldmann (Figur + Name offen; kalt, höflich, kein Schläger).
 - **15 — Jack.** Kolbes Quartier, die Fischfotos: Die Bilder der zwölf Tage sind echt, aber alt — nie gesendete Fotos aus Kolbes eigener Sammlung (Cloud der Kamera), posthum als neu verschickt. Kante: Das System hat keine Hände. Es plündert die Erinnerungen des Toten.
 - **16 — Marie.** Karlsruhe: Die Nachlass-Klausel führt zu einer aufgelösten Firma für Trauer-Avatare und deren Gründer, dessen Name in keiner Akte mehr steht. Marie kommt Fontaines Vergangenheit näher als Jack.
-- **17 — Jack.** Der alte Bankkontakt aus Pointe-à-Pitre (per Telefon/Fähre angebahnt): Die Bank hat die Bibliothek vor Jahren verkauft — an eine Firma für digitale Nachlässe. Die zwei Spuren treffen sich.
+- **17 — Jack.** ✅ Anders gelöst als geplant: Croissant-Routine (Roche nah), Kite-Session, Erkenntnis auf dem Wasser — die eigene Grundlinie als Tarnung. Kontakt zur Bank läuft über Solène (alte Freundin, damals Projektkollegin bei der Bank), sozial getarnt, nichts am Telefon. Der Verkaufs-Reveal wandert zum persönlichen Treffen (Kap 19).
 - **18 — Jack.** Jack merkt die Beschattung durch den Feldmann — nicht als Action, sondern als Logik (dieselbe Mietwagenfarbe, zweimal falsches Timing). Erste physische Bedrohungsahnung, kalt.
-- **19 — Jack.** Überfahrt nach Guadeloupe, das alte Haus, der Kitestrand. Ritual-Miniatur: Ukulele allein im Dunkeln auf einer fremden Veranda. Die Vergangenheit ist keine Kulisse, sie ist Beweismittel.
+- **19 — Jack.** Überfahrt nach Guadeloupe (Samstag, erste Fähre), Solènes Restaurant am alten Hafen, das Wiedersehen — und von ihr der Reveal: Die Bank hat Colibri vor Jahren verkauft, an eine Firma für digitale Nachlässe (Encore — die Spuren von Marie und Jack treffen sich, ohne dass die beiden es schon wissen). Das alte Haus, der Kitestrand. Ritual-Miniatur: Ukulele allein im Dunkeln auf einer fremden Veranda.
 - **20 — Voss (Strangwechsel).** Den Haag: Die Werkstatt jagt dieselbe Anomalie von der anderen Seite — einer der 28 Läufe war ein EU-Beamter mit Zeichnungsrecht. Voss' Liste möglicher Zivilexperten endet auf einem Namen, den der Leser kennt.
 
 ## Offene Punkte (Band 1)
@@ -66,4 +66,4 @@ techniklastige Kapitel am Stück.
 - Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
 - Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna, ~Kap 12–17 (Kaltleser-Befund: „Tür aufgehalten" trägt bisher mehr, als gezeigt ist)
 - ~~Kap 11 muss zwei offene Fäden aufnehmen~~ → erledigt in Kap 11.
-- Romantik-Faden Band 1 festlegen (Bible-Regel: jeder Band). Kandidat: Wiederbegegnung auf Guadeloupe (Kap 19–24) — eine Frau aus den acht Jahren, warm, offen, ohne Zukunft; weckt Jacks stillen Wunsch, ohne ihn auszusprechen.
+- ~~Romantik-Faden Band 1~~ → festgelegt (Kap 17): **Solène** — Details in der Bible bei Band 1. Warm, offen, ohne Zukunft; weckt Jacks stillen Wunsch, ohne ihn auszusprechen.

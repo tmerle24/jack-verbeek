@@ -273,6 +273,10 @@ Nicht blutrünstig. Zutiefst falsch.
 
 **Fontaines Firmen:** Die alte Firma hieß **Encore** — Trauer-Avatare für Hinterbliebene, nach dem Tod des Sohnes aufgelöst, Fontaines Name aus den Registern getilgt. Der heutige Tarnmantel heißt **Continuité**: „digitale Nachlass- und Kontinuitätsvorsorge", verkauft nicht an Privatleute, sondern über Arbeitgeber als Fürsorge-Baustein für Auslandsentsandte — genau die Menschen, die allein und weit weg sterben. Die Einwilligung zur Verarbeitung der Kommunikationsdaten steckt im Kleingedruckten; so kommt das System legal an seine viertausend Stunden.
 
+### Solène (Band 1)
+
+Jacks alte Freundin aus den Guadeloupe-Jahren — und der Romantik-Faden von Band 1: warm, offen, ohne Zukunft; sie weckt seinen stillen Wunsch nach einer Frau an seiner Seite, ohne dass er ihn ausspricht. Damals Projektkollegin bei der Bank in Pointe-à-Pitre (sie kennt Colibri aus erster Hand und ist Jacks sozial getarnter Weg zur Verkaufskette). Ihre Familie führt seit Jahrzehnten ein Restaurant am alten Hafen, Festnetz inklusive. Aus ihrem Kreis stammt Jacks alter Spitzname **ti-colibri**. Sie sagt Sätze wie Diagnosen und hat das Handtuch über der Schulter, wenn etwas ihre volle Aufmerksamkeit verlangt.
+
 ### Handlungsverlauf
 
 **Auslöser:** Ein Kunde von Jack, Ingenieur aus Karlsruhe, ist seit Wochen in einem Projekt auf Martinique und schreibt täglich. Bei einem Videocall stimmt etwas nicht. Jack schiebt es auf die Leitung. Zwei Tage später ruft die Tochter des Mannes an.
