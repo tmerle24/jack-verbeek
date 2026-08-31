@@ -70,8 +70,8 @@ Papa-Woche ab Mo 12.10.
 - ~~Name der Nachlass-Firma~~ → festgelegt (Kap 8): **Continuité** (aktueller Tarnmantel, Vertrieb über Arbeitgeber), **Encore** (Fontaines alte, aufgelöste Avatar-Firma, Spur für Kap 16). Details in der Bible beim Antagonisten.
 - ~~Name + Profil des Feldmanns~~ → festgelegt (Kap 14): **Denis Roche**, „Bestandspflege" — Details in der Bible beim Antagonisten. Kap 14 pflanzt außerdem die Midpoint-Mechanik: Freigabe für Jacks Stimme.
 - ~~Wie genau „hat das System Hände"~~ → gelöst: Es hat keine. Fotos aus Kolbes Cloud (Kap 15), Call-Hintergrund gerendert (Kap 13). Der Feldmann (ab Kap 14) ist die erste echte Hand — vorher war alles nur Software.
-- Wo genau Voss Jack anspricht (Guadeloupe oder Martinique, ~Kap 26–30)
-- Nutzen der Fernzugangs-Verlängerung fürs System konkret machen — Jack erklärt es Yuna. Fenster 12–17 verpasst, neu eingeplant: Kap 24.
+- ~~Wo genau Voss Jack anspricht~~ → festgelegt: Scheveningen, am Feuerkorb (Kap 27) — die Bible-Vormerkung eingelöst.
+- ~~Nutzen der Fernzugangs-Verlängerung~~ → erledigt in Kap 24 (Yunas Schlüssel-Gleichnis).
 - **„Meine Frau sagt das auch" (Kap 1) NICHT ändern** — bewusst stehen gelassener Systemfehler: Kolbes Frau starb vor sechs Jahren, VOR Beginn der Continuité-Datensammlung (drei Jahre) — sie kommt im ganzen Korpus nicht vor. Das System hat sie ERFUNDEN, als generisches Plausibilitätsdetail. Payoff Kap 24: Marie erwähnt den Tod der Mutter, Jack wird kalt — und gewinnt die Waffe: Das Ding erfindet, wo es nichts weiß. Man kann es an datenarme Orte locken.
 - ~~Kap 11 muss zwei offene Fäden aufnehmen~~ → erledigt in Kap 11.
 - ~~Romantik-Faden Band 1~~ → festgelegt (Kap 17): **Solène** — Details in der Bible bei Band 1. Warm, offen, ohne Zukunft; weckt Jacks stillen Wunsch, ohne ihn auszusprechen.
