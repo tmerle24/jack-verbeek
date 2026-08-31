@@ -63,6 +63,10 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 
 **Der Kern:** Jack ist **Idealist, nicht Realist.** Er träumt von der perfekten Patchwork-Familie, in der alle an einem Tisch sitzen. Genau das gelingt nie ganz. Irgendwo rumpelt es immer. Das ist der stille Schmerz, der die Reihe trägt.
 
+**Jacks Elemente:** Meer und Strand sind das Wichtigste — dort baumelt die Seele, dort ist er er selbst. Danach kommen Berge, Seen und Flüsse. Er liebt auch Bayern ungeheuerlich und konnte sich früher nie zwischen Bayern und der Karibik entscheiden; sogar Skandinavien war mal im Spiel (beides Ideen für spätere Bände und Szenarien). Verlässt er Meer und Strand für längere Zeit, ist er meist traurig — und zugleich glücklich, dort gewesen zu sein. Letztlich lebt er im Jetzt und ist immer wieder glücklich, wo er gerade ist; wie sehr, hängt vom Umkreis ab, der ihn umgibt: Familie, Freunde, Bekannte, Begegnungen.
+
+**Jacks Weltbild:** Er liebt das Leben, Abenteuer, Neues — und Routinen: sich morgens an einem neuen Ort in ein Café setzen, Croissants essen, mit der Bedienung Französisch oder Spanisch reden. Glücklich, einfach da sein zu können, und dankbar für das Glück, das alles machen zu dürfen. Aber gelegentlich kommen Störenfriede, Bösewichte, die genau das zerstören wollen. Dann muss Gerechtigkeit geschaffen werden. Die Welt muss in die Balance — immer wieder. Das ist der Motor der Reihe: Jack kämpft nicht für Ruhm, sondern für den Zustand, in dem alle einfach da sein können.
+
 **Beruf:** Selbstständiger IT-Spezialist, arbeitet in ungewöhnlichen Projekten für Kunden in tropischen und abgelegenen Regionen. Später zusätzlich Mitarbeiter der Werkstatt (siehe 4.).
 
 **Sprachen:** Deutsch, Englisch, Französisch fließend. Spanisch im Aufbau. Ein wenig Koreanisch von Thea und deren Familie.
@@ -222,7 +226,7 @@ Warum Südschwarzwald statt Mitte:
 - Südamerika: Französisch-Guayana, Surinam, Brasilien, Peru, Bolivien
 - Afrika: Südafrika, Namibia, Tansania, Sansibar
 - Asien: Thailand, Indonesien/Bali, Korea
-- Europa: Kanaren, Barcelona, Portugal
+- Europa: Kanaren, Barcelona, Portugal — dazu Bayern und Skandinavien als Kandidaten späterer Bände (Jacks zweite Liebe neben der Karibik)
 - USA: Springfield, Illinois
 
 ---
