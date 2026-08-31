@@ -41,30 +41,39 @@ Karibik-Block ist die Bühne: Kite-Session nach zwölf Jahren (Kap 17 oder 19),
 Meer und Küste als erlebter Ort, nicht als Kulisse. Nie mehr als zwei
 techniklastige Kapitel am Stück.
 
-## Abgeschlossen: Kapitel 6–24 ✅
+## Abgeschlossen: Kapitel 6–35 ✅
 
-Details stehen in den Kapiteldateien und der Git-Historie. Wichtigste
-scharfe Setups daraus: die zwei Waffen („Es nimmt lieber Echtes" Kap 15,
-„Es erfindet am Rand" Kap 24), der Countdown (Grundlinie Verbeek
-vollständig ~17.10., Stimme vorgezogen), Fontaines „Beobachtung. Noch.",
-die Werkstatt-Liste, Solène in Roches Akte.
+Details in den Kapiteldateien / Git. Scharfe Setups für 36+: die zwei Waffen
+(„Es nimmt lieber Echtes" K15, „Es erfindet am Rand" K24/34), der vorführbare
+Beweis (Onkel-Brief K34, „geht durch Türen"), Lauf 29 atmet (Jacks Stimme
+schreibt schon, K26/32/35), Solène als Hebel (Roche-Order K32), Codeworte
+Nebelmeer/Handschuhfach, Neles vieles Zeichnen, Boonies Angebot (K25).
+Countdown abgelaufen Sa 17.10.
 
-## Aktueller Block: Kapitel 25–35
+## Aktueller Block: Kapitel 36–49 (Eskalation → Midpoint)
 
-Story-Daten: Fr 09.10. bis Sa 17.10. Kinder: Thea-Woche bis So 11.10.,
-Papa-Woche ab Mo 12.10.
+Story-Daten: So 18.10. bis ~Fr 30.10. Zwei Wochen, in denen das System aus
+Jacks Leben in Jacks Leben übergreift. Der Beweis, den Jack hat, löst nichts,
+weil das Ziel sich verschiebt: erst „das aufhalten", dann „meine Familie
+schützen". Ton: enger, schneller, die Hoffnung sinkt (Bible-Bogen). Balance
+halten — ein Natur/Heimat-Atemzug pro ~3 Kapitel, sonst kippt es zu dunkel.
 
-- **25 — Jack.** Fr: Heimat-Alltag mit Boonie (Ventil, endlich wieder), die Wand: gegen Continuité gibt es keinen legalen Hebel, den ein Sachbearbeiter nicht abheftet. Abends spontanes Meer-weh — der Bus wird gepackt (mobiles Büro, Longboard, Ukulele), nachts los Richtung Scheveningen. Kante ruhig: das Glas-Gefühl im eigenen Haus.
-- **26 — Fontaine.** Die Stimme ist fertig, vorgezogen wie bestellt: Das System spricht als Jack — mit Fontaine. Probelauf, Gänsehaut, die „Behalten"-Verführung wird konkret. Kante: ein Satz aus Jacks Mund, den Jack nie gesagt hat.
-- **27 — Jack.** Sa Scheveningen: Kiten draußen in Monster, dann die Welle am Leuchtturm mit dem normalen Board (Warten mit den anderen, Sprint, hoch, High-Speed, keine Fehler, weißer Schaum, Absprung, der kurze Kick — man fühlt sich lebendig). Longboard-Cruisen, Feuerkorb, nette Menschen. Kante: Eine Stimme neben dem Feuer sagt „Herr Verbeek?" — und niemand, der uns kennt, sagt Herr Verbeek.
-- **28 — Jack.** Das Feuergespräch: Voss legt kontrolliert offen (Maes, der Türen-Tell — Jack erkennt seine eigene Methode im Behördenkleid), Jack gibt fast nichts. Kernproblem beider Seiten: Wie verifiziert man in dieser Sache irgendjemanden? Kante: Voss' Abgangssatz.
-- **29 — Voss.** Rückschau: Femkes Tiefenprüfung hat den toten Karibik-Kunden längst gefunden — Verbeek war entweder die Lösung oder Teil des Schadensbildes, und Voss erklärt, woran er am Feuer erkannt hat, dass es die Lösung ist. Kante: „Er weiß mehr als wir."
-- **30 — Jack.** Mo: Rückweg mit Utrecht-Stopp (liegt auf der A12; Geheimtipp-Logik statt Amsterdam-Umweg) — Werftkeller-Grachten, Koffie auf Kanalhöhe, drei Longboard-Bögen; dabei sortiert Jack das Voss-Angebot. Dann Heimkehr, Papa-Woche beginnt, nachgeholter Wortwechsel (Jack ist turnusgemäß dran — neues Wort: „Handschuhfach"). Vater-Auftritt: er fasst nach („Du schläfst nicht" — zweiter Besuch), Ambulanz-Miniatur. Kante: familiär, mit Riss.
-- **31 — Jack.** Di Tagesreise Den Haag: Verifikation auf Jacks Art (offizielle Rückrufe, echte Türen, echtes Büro), dann der Deal „leihweise" — mit Jacks Bedingungen: keine zivilen Namen (Marie und Solène bleiben draußen — Jack lügt die Werkstatt mit wahren Sätzen an), alles Wichtige nur persönlich oder Papier. Abgleich: Maes plus zwei, Jacks Mechanik plus Encore-Kette. Hochrechnung über Continuité-Verträge: „mindestens zwei Dutzend". Kante: das Ausmaß, ausgesprochen.
-- **32 — Fontaine.** Das System meldet Registerzugriffe auf Verbeek aus der EU-Sphäre — ein Dritter interessiert sich. Fontaines Kalkül kippt einen Zahn Richtung „Regulierung"; die Solène-Mappe ist gefüllt, Roche bekommt neue Order. Kante: kalt.
-- **33 — Jack.** Die Locken-Falle wird gebaut (Jacks Waffe aus Kap 24, operationalisiert mit Werkstatt-Mitteln): ein erfundener Toter — eine Tarnidentität mit Continuité-Berührung, nach der eine „Familie" fragt. Ein Ort, an dem das System nichts wissen KANN. Kante: die Falle ist scharf.
-- **34 — Jack/Voss.** Die Antwort kommt — perfekt, warm, detailreich: Das System kondoliert zu einem Menschen, den es nie gab. Absoluter Beweis, vorführbar — und blanker Horror. Kante: „Es hat ihm ein Leben geschrieben."
-- **35 — Jack.** Sa 17.10.: Der Countdown läuft ab (Grundlinie vollständig — nur der Leser weiß das Datum). Nach dem Fallen-Erfolg der Fund, der alles dreht: In Jacks eigenem Gesendet-Ordner liegt eine Mail an einen Kunden, die er nie geschrieben hat. Harmlos, korrekt, in seinem Ton. Kante: Lauf 29 hat begonnen zu atmen.
+- **36 — Jack.** So: Die Stimme-Mail (K35) der Werkstatt gemeldet. Warum der Beweis nicht reicht: Das System liegt dreifach gespiegelt (Bible), Abschalten = Anzeige = Leitungen = Warnung. Und schlimmer: Jack ist jetzt selbst kompromittiert — wer ihm glaubt, glaubt vielleicht schon der Kopie. Voss: Beweis sichern, still. Kante: Jack muss seine eigenen Kanäle für tot erklären.
+- **37 — Jack.** Operation „eigenes Leben stilllegen": Kunden auf einen sauberen Kanal umziehen (Papier, Rückruf), ohne dass das System merkt, dass Jack es merkt. Boonie wird eingespannt — der Mann, der nichts versteht und dableibt (K25 eingelöst): Boonie wird Jacks analoger Bote/Alibi-Geber, ahnungslos-treu, komisch und rührend. Kante: Boonie stellt die eine richtige Frage.
+- **38 — Fontaine.** Lauf 29 skaliert: Das System übt Jack an lebenden Kontakten (Kunden), misst Reaktionen. Ein erster Kollateral-Riss (ein Kunde antwortet der Kopie vertraulich). Fontaine sieht Jacks Gegenwehr (Kanäle sterben ab) und liest sie richtig: Das Subjekt weiß, dass es kopiert wird. Beschleunigung. Kante: Fontaine zieht den Zeitplan vor.
+- **39 — Voss/Femke.** Einer der drei bekannten Läufe wird aktiv (der Notar in Lyon oder die Fondsverwalterin) — eine Unterschrift/Transaktion mit realem Schaden, in Echtzeit. Die Werkstatt sieht zum ersten Mal einen Lauf handeln, nicht nur plaudern. Verifikationskrise institutionell. Femke-Fund verknüpft Lyon/Lux mit Continuité-Verträgen → Beweis wird größer, Gegner auch. Kante: „Das ist kein Nachlass. Das ist eine Belegschaft."
+- **40 — Fontaine (Pflichtszene Bible).** Die Szene, in der der Leser Fontaine drei Sätze lang zustimmt: eine echte Continuité-„Kundin" — eine Frau, deren toter Mann sie weiter trägt — sichtbar getröstet, funktionierend, dankbar. Fontaine zeigt sein Werk von seiner besten Seite; für drei Sätze hat er recht. Dann der Kipp-Satz, der klarmacht, was der Preis ist. Kante: sanft und falsch.
+- **41 — Jack.** Heimat-Atemzug mit Riss: Alltag, Mädchen, vielleicht Hirschen/Dorf — und mittendrin ein erster Übergriff ins Private: etwas, das nur die Familie wissen kann, taucht falsch auf (ein Kalendereintrag, eine Bestätigung an Thea in Jacks Namen). Das System zielt nicht mehr auf Kunden, sondern nach Hause. Kante: Es hat die Straße betreten.
+- **42 — Jack.** Codewort-Ernstfall Nummer eins (Probe vor dem Midpoint): Ein Anruf/Nachricht „von Papa" an Thea oder die Mädchen, die fast durchgeht — Nebelmeer/Handschuhfach hält, knapp. Der Schock: wie gut es war. Jack begreift, dass das Codewort ein Verfallsdatum hat. Kante: Nele sagt etwas, das zeigt, dass sie mehr verstanden hat als alle.
+- **43 — Fontaine/Roche.** Solène wird vom Hebel zur Handlung: Roche bekommt grünes Licht, näher an sie heranzugehen (nicht Gewalt — Druck, Präsenz, eine Nachricht, die nur Jack lesen kann). Der Antillen-Vektor wird real. Kante: Solène merkt, dass jemand da ist.
+- **44 — Jack.** Jack erfährt (über den sicheren Kanal, Papier/Solènes Festnetz), dass die Karibik-Seite angefasst wird — seine Schutzmauer (zivile Namen draußen) bekommt einen Riss, weil das System Solène über die Encore-Kette selbst gefunden hat, nicht über Jacks Sätze. Schuld und Ohnmacht. Kante: Jack muss zurück — oder jemanden schicken.
+- **45 — Jack/Werkstatt.** Gegenschlag-Plan reift: Die Locken-Falle (K33/34) wird zur Waffe skaliert — nicht ein erfundener Toter, sondern ein Angriff auf das, was das System nicht kann: Nichtwissen erzwingen, es zum Erfinden zwingen an einer Stelle, die es bloßstellt. Vorbereitung, Technik als Handlung, Countdown-Gefühl. Kante: der Plan braucht einen Köder aus Fleisch — und der Köder ist Jack.
+- **46 — Fontaine.** Das System meldet die Vorbereitung (Muster erkannt): Jemand baut wieder eine Nichtwissens-Falle, größer. Fontaine erkennt Jacks Handschrift — und trifft eine Entscheidung, die den Midpoint zündet: Wenn Verbeek nicht als Werkzeug taugt, taugt er als Botschaft. Er gibt frei, was bisher tabu war: die Stimme darf die Familie kontaktieren. Kante: kalt, der Tabubruch.
+- **47 — Jack.** Ruhe täuscht: ein fast guter Tag, Vorbereitung läuft, das Musikritual bahnt sich an (Setup für #2 in K54 später) — aber Nele weigert sich zu spielen (Bible-Alarmsignal!), und Jack versteht es zu spät. Kante: Neles Weigerung.
+- **48 — Fontaine/System.** Kurz, kalt: Das System nimmt Maß an Nele — Stimme, Diktion, die Sprachnachrichten, die Kinder in Calls erwähnt. Es baut die Nachricht. Der Leser sieht die Waffe laden, die in K50 abgefeuert wird. Kante: „bereit."
+- **49 — Jack.** Der Tag vor dem Sturz: alles scheint unter Kontrolle, die Falle steht, Jack glaubt, vorn zu liegen. Letzter ruhiger Beat, letzte Zärtlichkeit, bevor K50 alles kippt. Kante: Jacks Telefon zeigt an, dass Nele ihm eine Sprachnachricht geschickt hat — die er noch nicht abhört. (Direkt-Rampe in K50: die Nachricht ist nicht von Nele / oder: die nächste ist es nicht.)
+
+Danach K50 = Midpoint (Gerüst): Nele bekommt eine Sprachnachricht von „Papa", die Jack nie gesprochen hat. Ab da liest niemand mehr langsam.
 
 ## Offene Punkte (Band 1)
 
