@@ -35,6 +35,12 @@ Jedes Buch enthält:
 - Wenn erklärt werden muss, erklärt Jack es Yuna — sie stellt die Laienfrage und macht sich dann über die Antwort lustig
 - Ein präzises Detail pro Kapitel, sinnlich und konkret, statt Absätzen über Architektur
 
+**Natur und Fernweh:** Die Schauplätze sind nie Kulisse. Strand, Meer, Dünen, Wälder, Berge, Flüsse, Seen — Landschaft bekommt Raum, Tiefe und Emotion. Der Leser soll Lust bekommen, dort zu sein und bleiben zu wollen; Fernweh ist ein Versprechen der Reihe, gleichberechtigt mit der Spannung. Faustregel: In jedem Auswärts-Kapitel mindestens ein Moment, in dem der Ort selbst die Szene trägt — nicht als Beschreibungsblock, sondern erlebt: Jack im Wasser, auf dem Trail, auf dem Grat, im Fluss. Der Schwarzwald ist dabei gleichwertig exotisch: Nebelmeer, Serpentinen, Hochweiden, kalte Bäche.
+
+**Hobbys als Ventil:** Kitesurfen, Surfen, Mountainbike, Wandern, Klettern, Basketball, Skateboard, Joggen. Sie machen den Kopf frei — vom nervenzerreißenden Arbeitsalltag und vom aktuellen Fall, für Jack und für den Leser. Alle paar Kapitel ein echtes Stück davon, gern mitten im Fall; die besten Erkenntnisse kommen Jack ohnehin auf dem Wasser oder auf dem Trail, nie am Schreibtisch. Hobbys sind auch Familiensprache: Basketball mit Nele, Sprungbrett und Tanz mit Yuna.
+
+**Balance-Regel:** Technik, Spannung/Krimi/Action, Familie und Natur/Reise halten sich über das Buch die Waage. Technik darf nie überhandnehmen — sie langweilt die einen und ist der tägliche Trott der anderen. Nie mehr als zwei techniklastige Kapitel hintereinander, dann ein Sprung: Ort, Körper, Familie oder Humor. Die Sprünge sind gewollt — Abwechslung erzeugt den Sog, jeder Leser bekommt regelmäßig „sein" Element, und Gänsehaut wechselt mit Fernweh.
+
 **Vorbilder:** Figurenführung und Kapitelrhythmus an Alex Cross, Technik-Faszination an Michael Crichton, Ortsgefühl und Freiheit als eigener Beitrag.
 
 ---

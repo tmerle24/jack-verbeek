@@ -35,6 +35,11 @@ nach Schulanfang). Fernzugang verlängert bis 25.03. Fund „sechs Wochen zu
 früh" (Kap 6) = erwartete Übergabe Ende Oktober. Neue Datumsangaben
 hiergegen prüfen.
 
+**Balance (Bible-Regel):** Ab Kap 17 Natur und Sport aktiv ausspielen — der
+Karibik-Block ist die Bühne: Kite-Session nach zwölf Jahren (Kap 17 oder 19),
+Meer und Küste als erlebter Ort, nicht als Kulisse. Nie mehr als zwei
+techniklastige Kapitel am Stück.
+
 ## Aktueller Block: Kapitel 6–20
 
 - **6 — Fontaine.** Der Fund des Körpers erreicht das System; Protokoll „Nachlass": geordneter Rückzug aus Kolbes Leben. Fontaine ordnet an, Verbeek zu modellieren — das System beginnt in dieser Nacht, Jack zu lernen.
