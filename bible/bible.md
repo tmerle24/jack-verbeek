@@ -77,7 +77,7 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 
 **Temperament:** Jack bleibt meist ruhig und gelassen. Bringt man ihn aus der Fassung, kippt er nicht in Panik, sondern in Aktivität: sehr schnell, sehr lösungsgetrieben, das Adrenalin als Treibstoff.
 
-**Sport:** Kitesurfen, Surfen, Mountainbike, Skateboard, Joggen, Basketball.
+**Sport:** Kitesurfen, Surfen, Mountainbike, Skateboard, Joggen, Basketball. Dazu Tauchen — am liebsten Apnoe, seine Form von Stille (die Tauch-Metaphern in seinen Gedanken kommen daher). Und Klettern: gelegentlich Boulderhalle mit der Familie, später auch mit dem Bruder. **Reihen-Karte:** Das Klettern zahlt sich irgendwann in einem Fall aus — ein Hang, ein Canyon, eine Wand; ebenso die Apnoe (lange Stille unter Wasser, wenn es darauf ankommt).
 
 **Kampfkunst:** Über zwanzig Jahre asiatische Kampfkunst — Fundament Karate seit Studententagen, auf Reisen ergänzt um Pencak-Silat-Einflüsse aus Indonesien (zahlt später auf Band 4 ein). Er kann bis heute Spagat. Mit den Mädchen trainiert er manchmal spielerisch — er will, dass sie stark werden und sich selbst verteidigen können. **Vorgemerkte Reihen-Karte:** Irgendwann rettet Nele oder Yuna Jack mit dem Gelernten aus einer lebensbedrohlichen Situation — die heldenhafte Umkehrung des Trainings.
 
