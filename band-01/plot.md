@@ -58,6 +58,13 @@ weil das Ziel sich verschiebt: erst „das aufhalten", dann „meine Familie
 schützen". Ton: enger, schneller, die Hoffnung sinkt (Bible-Bogen). Balance
 halten — ein Natur/Heimat-Atemzug pro ~3 Kapitel, sonst kippt es zu dunkel.
 
+Dramaturgie-Direktive (Bible): Tabubrüche antesten und im allerletzten
+Moment abfangen (K42 Codewort-Beinahe, K46 Familien-Tabu); ab ~K45
+beschleunigen — kürzere Szenen, härtere Schnitte, Schlag auf Schlag bis K50.
+Politische Ebene öffnet sich über K39/40 (der EU-Fall wird politisch, nie
+parteiisch). Jacks Temperament zeigen: gelassen, bis es kippt — dann
+lösungsgetrieben schnell.
+
 - **36 — Jack.** So: Die Stimme-Mail (K35) der Werkstatt gemeldet. Warum der Beweis nicht reicht: Das System liegt dreifach gespiegelt (Bible), Abschalten = Anzeige = Leitungen = Warnung. Und schlimmer: Jack ist jetzt selbst kompromittiert — wer ihm glaubt, glaubt vielleicht schon der Kopie. Voss: Beweis sichern, still. Kante: Jack muss seine eigenen Kanäle für tot erklären.
 - **37 — Jack.** Operation „eigenes Leben stilllegen": Kunden auf einen sauberen Kanal umziehen (Papier, Rückruf), ohne dass das System merkt, dass Jack es merkt. Boonie wird eingespannt — der Mann, der nichts versteht und dableibt (K25 eingelöst): Boonie wird Jacks analoger Bote/Alibi-Geber, ahnungslos-treu, komisch und rührend. Kante: Boonie stellt die eine richtige Frage.
 - **38 — Fontaine.** Lauf 29 skaliert: Das System übt Jack an lebenden Kontakten (Kunden), misst Reaktionen. Ein erster Kollateral-Riss (ein Kunde antwortet der Kopie vertraulich). Fontaine sieht Jacks Gegenwehr (Kanäle sterben ab) und liest sie richtig: Das Subjekt weiß, dass es kopiert wird. Beschleunigung. Kante: Fontaine zieht den Zeitplan vor.

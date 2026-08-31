@@ -35,6 +35,10 @@ Jedes Buch enthält:
 - Wenn erklärt werden muss, erklärt Jack es Yuna — sie stellt die Laienfrage und macht sich dann über die Antwort lustig
 - Ein präzises Detail pro Kapitel, sinnlich und konkret, statt Absätzen über Architektur
 
+**Spannungsdramaturgie:** Der Leser soll ständig überrascht werden — Berechenbarkeit ist der Feind. Tabubrüche werden angetestet und im allerletzten Moment abgefangen: Das Undenkbare wird sichtbar, bevor es diesmal noch abgewendet wird, und jedes „Gerade noch" erhöht den Preis des nächsten Mals. Extremer Nervenkitzel und Gänsehaut sind Pflicht; dazwischen die Entspannungsinseln in Natur und Familie. Im letzten Drittel des zweiten Akts geht es Schlag auf Schlag: kürzere Szenen, härtere Schnitte, alles offen, jederzeit mit allem rechnen — das Buch darf nicht weglegbar sein. Verzweiflung ist erlaubt, Stillstand nie.
+
+**Politische Ebene:** Der Fall darf auf die große Bühne steigen — Behörden, EU, Staaten; Action und Highlights auf hoher Ebene. Regeln: niemals spaltend, keine Parteipolitik, politisch einwandfrei, logisch sauber. Sensible Themen (z. B. Rassismus) sind für spätere Bände vorgemerkt und werden dann mit derselben Sorgfalt behandelt.
+
 **Gefühlsführung:** Der Leser muss mitfühlen können — mitleiden, sich freuen, traurig sein und bis zum Schluss hoffen müssen, dass alles gut geht. Diese Emotion entsteht nie durch Pathos, sondern durch Figuren, Situationen und Fallhöhe. Der neutrale, coole Stil und die Abwechslung sind kein Gegensatz dazu, sondern der Träger: Gerade weil der Erzähler nicht drückt, kommt das Gefühl beim Leser an — bei allen Lesern, nicht nur bei denen, die gern gerührt werden.
 
 **Romantik und Liebe:** Extrem wichtig — bekommt in jedem Band ihren Platz. Der Leser soll sich durchgehend wünschen, dass Jack nach dem Verlust der letzten Liebe die Liebe seines Lebens wiederfindet. Jack ist über Thea hinweg, wünscht sich aber insgeheim wieder eine funktionierende Familie mit einer Frau an seiner Seite — das wird nur angedeutet, nie zu tief ausgespielt. Zunächst trägt die Romantik selbst: Begegnungen, Flirts, Möglichkeiten, Wärme. Ab Band 2 kommt Lucie, die neue große Liebe mit dem langen Bogen (siehe Figuren).
@@ -71,7 +75,11 @@ Getauft nach dem französischen Großvater, holländischer Familienname vom Vate
 
 **Sprachen:** Deutsch, Englisch, Französisch fließend. Spanisch im Aufbau. Ein wenig Koreanisch von Thea und deren Familie.
 
+**Temperament:** Jack bleibt meist ruhig und gelassen. Bringt man ihn aus der Fassung, kippt er nicht in Panik, sondern in Aktivität: sehr schnell, sehr lösungsgetrieben, das Adrenalin als Treibstoff.
+
 **Sport:** Kitesurfen, Surfen, Mountainbike, Skateboard, Joggen, Basketball.
+
+**Kampfkunst:** Über zwanzig Jahre asiatische Kampfkunst — Fundament Karate seit Studententagen, auf Reisen ergänzt um Pencak-Silat-Einflüsse aus Indonesien (zahlt später auf Band 4 ein). Er kann bis heute Spagat. Mit den Mädchen trainiert er manchmal spielerisch — er will, dass sie stark werden und sich selbst verteidigen können. **Vorgemerkte Reihen-Karte:** Irgendwann rettet Nele oder Yuna Jack mit dem Gelernten aus einer lebensbedrohlichen Situation — die heldenhafte Umkehrung des Trainings.
 
 **Risiko:** Jack riskiert. Er geht ans Limit und gern darüber — der Sprung, den man nicht mehr machen sollte, die eine Welle zu viel, der Trail im Dunkeln. Der Leser soll auch dann den Atem anhalten, wenn kein Gegner in der Nähe ist. (Verwandt mit der Lebensgefahr-Regel in der Grundformel: Überleben nie souverän, immer knapp.)
 
@@ -229,7 +237,9 @@ Warum Südschwarzwald statt Mitte:
 
 **Sainte-Anne (Guadeloupe) und die Küste danach:** Jacks altes Revier. Vom Kitestrand führt der lange Strandspaziergang in die Mangroven, über kleine Holzbrücken, dann auf schmalen Pfaden an Felsen und Klippen entlang zu einem einsamen Traumstrand — feiner weißer Sand, Palmen, kleine Felsnischen (Band 1: der Ort mit Solène). Wer weitergeht, erreicht die große Klippe, an der eine Welle perfekt in eine Bucht aus Stein- und Sandstrand bricht: der Surfstrand, mit kleinen mobilen Surfschulen und einer Community, die am Strand Barbecue macht und Lagerfeuer. (Vorgemerkt für später — Kandidat: Voss spricht Jack an einem dieser Lagerfeuer an.)
 
-**Scheveningen (Den Haag) — Jacks Nordsee-Spot:** Er kitet gern draußen in Monster oder direkt in der Bucht am Leuchtturm; am Leuchtturm gibt es Wellen, dort surft er auch mal mit dem „normalen" Surfboard, wie zu guten alten Zeiten. Das Longboard dient zum Cruisen auf der Strandpromenade, vom Camper zum Café. Übernachtet wird immer im VW Bus am Strand. Strandbars und -cafés (Morgen-Café-Routine), abends romantische Lagerfeuer unter Sternenhimmel, die Brandung rauscht. Praktisch für die Reihe: Die Werkstatt sitzt in Den Haag — Treffen mit Voss können an diesem Strand stattfinden, zwischen Session, Feuerkorb und Bus. (Vorgemerkt für viel später: Jack bringt Lucie hierher, um ihr Kitesurfen beizubringen, im VW California Beach.)
+**Scheveningen (Den Haag) — Jacks Nordsee-Spot:** Er kitet gern draußen in Monster oder direkt in der Bucht am Leuchtturm; am Leuchtturm gibt es Wellen, dort surft er auch mal mit dem „normalen" Surfboard, wie zu guten alten Zeiten. Das Longboard dient zum Cruisen auf der Strandpromenade, vom Camper zum Café. Übernachtet wird immer im VW Bus am Strand. Strandbars und -cafés (Morgen-Café-Routine), abends romantische Lagerfeuer unter Sternenhimmel, die Brandung rauscht.
+
+Jack fährt bei kurzfristigem Meer-weh spontan hin — übers Wochenende oder unter der Woche für zwei Nächte. Das Büro ist dann mobil dabei: Laptop am kleinen Tisch im Bus, Kaffeemaschine, Kocher — gemütlich, urig, natürlich. Der Ort, um zu sich zu finden; seine Form von Meditation. In den Bars, Cafés und am Strand lernt er nette Menschen kennen, mit denen man auch mal gemeinsam surft oder einen trinkt. Longboard und Ukulele sind immer dabei. Praktisch für die Reihe: Die Werkstatt sitzt in Den Haag — Treffen mit Voss können an diesem Strand stattfinden, zwischen Session, Feuerkorb und Bus. (Vorgemerkt für viel später: Jack bringt Lucie hierher, um ihr Kitesurfen beizubringen, im VW California Beach.)
 
 **Wiederkehrende Regionen:**
 - Französische Karibik: Guadeloupe, Martinique
