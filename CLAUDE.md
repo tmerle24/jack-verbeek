@@ -93,3 +93,15 @@ Ersetzt keine Planung, überbrückt Sessionwechsel.
 - Keine Co-Authored-By-Zeile, keine Attribution, kein Tool-Hinweis.
 - Format: kap(001): kurzbeschreibung
 - Ein Commit pro Kapitel, ein zusätzlicher für den Arbeitsstand.
+
+## Kapitelgewicht
+
+Bei der Blockplanung bekommt jedes Kapitel ein Gewicht:
+
+- schwer  = Wendepunkt, tragendes Argument, emotionaler Höhepunkt,
+            erste Szene einer neuen Figur
+- normal  = führt aus, was im Outline steht
+
+Das Gewicht steht im Frontmatter und wird in der Blockplanung
+mit angegeben. Es sagt nichts über die Qualität aus, nur darüber,
+wie teuer ein Fehlschlag wäre.

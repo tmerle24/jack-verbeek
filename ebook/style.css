@@ -1,0 +1,70 @@
+@page {
+    /* Wieder das ursprüngliche Buchformat */
+    size: 6in 9in;
+    /* Ränder überall halbiert (vorher 0.6in, jetzt 0.3in) */
+    margin: 0.3in;
+
+    /* Seitenzahlen unten rechts aktivieren */
+    @bottom-right {
+        content: counter(page);
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 10pt;
+        color: #777777;
+        padding-right: 0.1in;
+        padding-bottom: 0.1in;
+    }
+}
+
+/* Auf der Titelseite (Seite 1) blenden wir die Seitenzahl aus */
+@page :first {
+    @bottom-right {
+        content: "";
+    }
+}
+
+body {
+    /* Schrift um 80% vergrößert (vorher 14pt * 1.8 = ca. 25pt) */
+    font-size: 25pt;
+    line-height: 1.5;
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #111111;
+}
+
+/* --- TITELSEITE (UNVERÄNDERT WIE VORHER) --- */
+
+body > h1:first-of-type {
+    font-size: 32pt;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    padding-top: 150pt;
+    margin-bottom: 10pt;
+    font-weight: bold;
+}
+
+body > h1:first-of-type + p {
+    font-size: 18pt;
+    color: #555555;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    page-break-after: always; /* Umbruch zu Seite 2 */
+}
+
+/* --- AB HIER DIE NORMALE FORMATIERUNG FÜR KAPITEL --- */
+
+h1 {
+    page-break-before: always;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 34pt; /* Kapitelüberschriften mitskaliert */
+    margin-top: 0;
+    margin-bottom: 15pt;
+}
+
+h1, h2, h3 {
+    page-break-after: avoid;
+}
+
+p {
+    margin-bottom: 1em;
+    text-align: justify;
+}

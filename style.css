@@ -1,0 +1,61 @@
+@page {
+    /* Typisches eReader/Tablet Seitenverhältnis (6 x 9 Zoll) */
+    size: 6in 9in;
+    /* Kleine Ränder, damit der Text den Bildschirm gut ausfüllt */
+    margin: 0.6in;
+}
+
+body {
+    /* Größere, auf Bildschirmen leicht lesbare Schrift */
+    font-size: 14pt;
+    line-height: 1.6;
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #111111;
+}
+
+/* --- SEITE 1: TITEL & UNTERTITEL --- */
+.title-page {
+    display: block !important; /* Erzwingt die Sichtbarkeit im PDF */
+    page-break-after: always;  /* Erzwingt, dass Kapitel 1 auf Seite 2 startet */
+    text-align: center;
+    padding-top: 150pt;
+    height: 100%;
+}
+
+/* Spezifisches Design für den Buchtitel */
+h1.book-title {
+    font-size: 28pt;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin-bottom: 20pt;
+    font-weight: bold;
+    page-break-before: avoid; /* Verhindert ungewollten Umbruch */
+}
+
+/* Design für den Untertitel */
+h2.book-subtitle {
+    font-size: 18pt;
+    font-family: "Georgia", serif;
+    font-weight: normal;
+    color: #555555;
+    margin-top: 0;
+}
+
+/* --- AB HIER DIE NORMALE FORMATIERUNG FÜR KAPITEL --- */
+
+/* Jedes Kapitel beginnt auf einer neuen Seite */
+h1 {
+    page-break-before: always;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin-top: 0;
+}
+
+/* Verhindert, dass Überschriften alleine am Seitenende stehen */
+h1, h2, h3 {
+    page-break-after: avoid;
+}
+
+/* Blocksatz mit sauberem Abstand für eReader */
+p {
+    margin-bottom: 1em;
+    text-align: justify;
+}
