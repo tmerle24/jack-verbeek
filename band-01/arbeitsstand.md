@@ -37,7 +37,7 @@ Kante), knapp dahinter **K73** (Architektur-Erklärung im Voss-POV).
   dritte „Verbeek hätte gelacht"-Nennung K84 gestrichen, Poesie-Budget K71/K74
   reduziert, Zwei-Finger/„wohnte hier"/„länger als nötig"/Bank-Motiv gekappt,
   Falter-Inventar in K78 raus, „Nicht X. Y."-Figur in K69/K77 aufgelöst.
-- **K80** von 2210 auf rund 2000 Wörter gekürzt.
+- **K80** von 2210 auf rund 2100 Wörter gekürzt (bleibt der längste Text des Blocks).
 - **Gewehr-Setzung K85:** „glaubte dabei" statt „wusste", damit K88 frei ist.
 
 **Bewusst gelassen:**
