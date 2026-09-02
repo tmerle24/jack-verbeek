@@ -246,6 +246,8 @@ Warum Südschwarzwald statt Mitte:
 
 Jack fährt bei kurzfristigem Meer-weh spontan hin — übers Wochenende oder unter der Woche für zwei Nächte. Das Büro ist dann mobil dabei: Laptop am kleinen Tisch im Bus, Kaffeemaschine, Kocher — gemütlich, urig, natürlich. Der Ort, um zu sich zu finden; seine Form von Meditation. In den Bars, Cafés und am Strand lernt er nette Menschen kennen, mit denen man auch mal gemeinsam surft oder einen trinkt. Longboard und Ukulele sind immer dabei. Praktisch für die Reihe: Die Werkstatt sitzt in Den Haag — Treffen mit Voss können an diesem Strand stattfinden, zwischen Session, Feuerkorb und Bus. (Vorgemerkt für viel später: Jack bringt Lucie hierher, um ihr Kitesurfen beizubringen, im VW California Beach.)
 
+**Cayenne, Band 1 (ab K68):** Jacks „Hütte" ist die Werkswohnung des Wasserwerks — ein Bungalow mit Blechdach, Bett, Tisch, Stuhl, Klimagerät, Gecko — an der Seeseite des Geländes am Fuß eines bewaldeten Hügels; ein Pfad durch Seegrape führt in zehn Minuten zur Plage de Montjoly (braunes Meer, Fischer mit Netzen, Hunde). Rituale: morgens Joggen am Strand, abends Spazieren; Grill aus einer halben Tonne vor der Hütte. Tiere: der Leguan auf dem Pfad, die Scharlachsichler bei Dämmerung, und der **Riesenfalter**, der Jack beim Türöffnen und beim Feuermachen ins Gesicht fliegt — Running Gag (Jack öffnet Türen seither nur noch spaltweise, mit Blick nach oben). Weitere Orte des Bandes: Place des Palmistes (Bar mit Domino), Station Kourou, Pointe des Roches, Îles du Salut (Agutis, Bagno, Haigewässer), Kaimane im Straßengraben bei Nacht.
+
 **Wiederkehrende Regionen:**
 - Französische Karibik: Guadeloupe, Martinique
 - Südamerika: Französisch-Guayana, Surinam, Brasilien, Peru, Bolivien
