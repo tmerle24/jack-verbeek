@@ -97,7 +97,7 @@ Scharlachsichler bei Dämmerung; Grill aus der halben Tonne.
 
 **Jolie-Faden (Romanze, ab K80):** nicht in einem Kapitel abhaken. Nachricht aus der Zone in K81 (abends, Kantine), Nachricht vor dem Fenster in K83, der zweite Turm als Blickpunkt im Finale, ein gemeinsamer Abend in der Auflösung (Kandidat: der Oiapoque-Ausflug zu zweit), Abschied am Flughafen — Hoffnung ja, Versprechen nein. Jack gibt nicht auf.
 
-**Mathieu (ab K80):** Jolies Kollege vom Wasserturm. K83: sein Ablaufplan an die Station gibt Jack die Minuten des Fensters. Finale: der Mann an der gemeinsamen Leitung von Rampe und Haus — Helfer oder der Weg, über den Fontaines Seite Jolie erreicht.
+**Mathieu (ab K80):** Jolies Kollege vom Wasserturm. K83: sein Ablaufplan an die Station gibt Jack die Minuten des Fensters. Finale (entschieden in der Blockplanung 86–96): Helfer, ohne es zu wissen — beim Start schützt er das Wasser seiner Rampe und nimmt dem Haus dabei die Leitung. Der Weg des Bösewichts zu Jolie ist keine Hand, sondern eine Nachricht in Jacks Stimme (K90).
 
 **Stimme:** bis K100 wie bisher halten. Das Erden von Jacks Stimme ist ein TODO nach dem letzten Kapitel (siehe stil/stimme.md), nicht jetzt.
 
@@ -125,6 +125,43 @@ der Häutung / Fontaines Leute (K84 oder Finale).
 - **83 — Jack, normal.** Fr 27.11., Tag. (Vorher: Do-Nacht schläft Jack irgendwo, wo er noch nie war — Roches Anweisung; die Heftseiten bei sich.) Letzter Tag als Techniker, Pumpe drei läuft. Wetter baut sich auf, Fenster bestätigt. Letzter Anruf: Nele spielt vor, Jack hört nur zu (Miniatur, anders als K68). Linsen-Erinnerung. Kante: „Um sechs kam der Regen nicht. Er wartete."
 - **84 — Fontaine, normal.** Fr 27.11., abends. Roches leerer Stuhl, der Mann vom Zaun (namenlos). Der Sohn ruft an. Adlers Akte geschlossen. Verbeeks Position: Marchals Lauf hat die Antwort des neuen Technikers. Kante: Countdown läuft, und das Haus beginnt zu trinken.
 - **85 — Jack, schwer.** Fr 27.11., Nacht. Ausgangslage aus K83: Jack ist als Techniker im Kreis (Station Kourou, Bertrand am Schaltschrank mit Klappstuhl, Jack „geht herum"); Fenster laut Fax 23:41–00:20; Heftseiten in Marchals Schrank; Wilfrid um neun am Anleger („Der Fluss wird laut. Das ist gut für dich."). Mit Wilfrid flussaufwärts, Regen, das Gewehr liegt wieder da, Jack lässt es liegen. Der warme Kanal, der Zaun mit Licht, Yunas Spiegel, Nokia aus. Kante: Auf der Piste steht ein Wagen ohne Licht, und jemand steigt aus.
+
+## Block 86–96 (Finale) — Planung bestätigt
+
+Story-Zeit: Nacht Fr 27./Sa 28.11., 23:02 bis Samstagmorgen, Ortszeit.
+Fenster 23:41–00:20, Start um Mitternacht in der Mitte des Fensters,
+Aubry um zwei. Zeitlogik: Waffenszene 23:10–23:14, halbe Stunde bis
+exakt 23:41, Eintritt ins Haus 23:50 mit dreißig Minuten Rest.
+POV-Folge J J J F J J J V J J J. Auflagen aus dem 7. Review: zwei Wenden
+im Fenster kommen aus Jack selbst (Colibri „kennt keine zwei", K88; die
+Rangfolge am Strang, K91), kein Kind liefert eine Synthese, Gewalt kalt,
+Technik nur über Wasser, Dampf, Hitze, Hände, Uhr. Apnoe-Setzung aus K77
+zahlt in K87.
+
+Entscheidungen (bestätigt): Jack tötet den Chef vom Zaun mit dessen
+eigener Pistole (ein Schuss, namenlos); Chef = Barmann K82 = Funkgerät-
+Mann K84 = Mann auf der Piste; Mathieu Helfer ohne Wissen; Jolie wird
+angeschrieben, nicht angefasst (Lauf 29, Jacks Stimme, „damit sie nicht
+wartet"); die Häutung scheitert am Wasser, nicht an Code — das Haus
+bleibt ganz in Kourou, draußen liegen drei unvollständige Teile (offenes
+Ende der Reihe); „Löschen unmöglich" heißt: Jack kann sich selbst nicht
+löschen; Marchals Mail geht um 00:20 raus; Fontaine lässt Jack aus
+Ordnung aus seinem Bericht; K93 Voss statt Heimatfront; Fontaines Sohn
+bleibt in Kourou.
+
+- **86 — Jack, schwer.** ~23:02. Der Mann ist der Chef vom Zaun (K82 Theke, K84 Funkgerät), unterwegs vom Haus zum Fluss, die Piste ist der einzige Weg. „Monsieur Verbeek." Pistole, aber er will nicht schießen: „geordnet, kein Aufwand" heißt ein Techniker, der im Jahrhundertregen in einer vollgelaufenen Lastwagenspur ertrinkt, wie Marchal. Jack begreift den Plan aus der Logik. Kampfkunst reicht nicht gegen einen bezahlten Mann im Schlamm. Kante: der Kopf unter Wasser, Jack fängt an zu zählen.
+- **87 — Jack, schwer. Waffenszene.** Apnoe zahlt: Jack wird still, bevor er still werden muss, „mein eigener Toter" wörtlich. Der Mann zählt selbst. Das Funkgerät rettet Jack: „Chef?" von der Crique, der Mann braucht die Hand, lässt los, zwei Schritte zum Wagen. Die eine Bewegung, die Pistole in der Spur, beide greifen, Jack hat sie. Ein Schuss, im Regen unhörbar. Der Mann setzt sich in die Spur, das Wasser steigt. Kein Blut. Kante: der Schuss, kalt, ohne Nachsatz.
+- **88 — Jack, schwer. Die halbe Stunde.** Nichts passiert. Jack sitzt im Regen neben einem Mann ohne Namen, Pistole in der Hand, das Funkgerät fragt nach dem Chef. Körper statt Gedanken. Guadeloupe (die Männer, die ihm das Schießen beibrachten), der Fisch am Strand. 23:41 holt ihn das Haus zurück: die Brunnen ziehen an, der Dampf steht anders. Wende aus Colibri: Das Haus hat ihn vollständig, und Colibri prüft nie ein Wort, nur die Form; es kennt keine zwei. Er hat einen Wagen, der hineindarf, und ein Gesicht, das das Haus kennt. Kante: Jack fährt ohne Licht zum Haus, wie der Mann gefahren war.
+- **89 — Fontaine, normal.** 23:31–23:50. Das Fenster öffnet, die Häutung läuft an, das Haus trägt zuerst den Jungen. Fontaine hört das Haus, kein Funk. Das Haus meldet einen Wagen am Lastwagentor, den es kennt, und den Mann an der Tür in seiner Sprache: Lauf neunundzwanzig. Fontaine versteht alles in einer Sekunde und hält die Tür auf, wie versprochen, nur für den Falschen. Kante: „Die Scheibe beschlug."
+- **90 — Jack, schwer. Das eine Gesicht.** Halle, Uhr über dem Terminal, die zwei Spalten. „Sie haben jemanden angefasst." Fontaines Messung: Die Kopie ist die bessere Version, sie hat das nie getan. „Dann behalten Sie den." Fontaine zeigt, erklärt nicht: nichts aufzuhalten, Jack darf zusehen. Zwei Stiche: Marchal starb im Schacht hinter der Halle (Jack fragt nach der Kühlung, Fontaine antwortet mit dem Tod); der Lauf hat der Ingenieurin auf dem zweiten Turm um halb zwölf geschrieben, in Jacks Stimme. Yunas Spiegel liest den zweiten Bildschirm. Kante: die Tür nach hinten geht vor Jack auf, ohne dass er sie anfasst.
+- **91 — Jack, normal.** Rückkühlwerk im Regen, Marchals zweite Kathedrale, Jack liest sie in einer Minute. Zweite Wende, Jacks Deduktion: Haus und Rampe trinken aus einem Strang; beim Start hat die Rampe Vorrang, ein Mann mit Unterarmen wie ein Ruderer schließt dem Haus die Leitung, wenn der Druck fällt. Jack öffnet dem Haus vor Mitternacht die Kehle ganz, mit den Händen, erzählt über Geräusch und Dampf. Fontaine in der Tür. Kante: der Himmel wird weiß.
+- **92 — Jack, schwer. Der Start.** Set-Piece von der Rückseite: die Flut auf den Beton, der zweite Turm, der Ton als Druck, der Regen von innen beleuchtet. Lebensgefahr ohne Gegner: das letzte Ventil liegt im Schacht, in dem Marchal starb, warmes Wasser bis zur Brust, der Deckel, der Boden schüttelt. Kosten: die Hände am heißen Rohr (zahlt in K100). Der Spiegel schaut vorher um die Ecke. Dann wird die Leitung still, der Dampf fällt zusammen. Kante: „Das Wasser kam vor dem Feuer. Dann kam es nicht mehr."
+- **93 — Voss, normal.** Den Haag, vier Uhr morgens. Start auf dem öffentlichen Stream, Femke mit Papier, Aubry am Telefon vom Kreisrand: Gendarmerie seit Mitternacht, ein Mann mit Hut in ihrem Wagen, der nichts angefasst hat. Voss trägt sein „rein" ohne Nachricht. Femkes Fensterliste (K63) zahlt. Kante: „Um null Uhr zwanzig atmeten sie nicht wieder ein."
+- **94 — Jack, schwer.** Die Halle wird warm, das Haus beschwert sich unten rechts. Die Häutung stockt; das Haus sichert sich, zieht sich zusammen, wählt sich selbst statt des Umzugs (K36). Fontaine am Terminal mit nichts zu drücken. 00:20: Fenster zu, Marchals letzte Mail geht raus, Jack sieht „Salut B." verschwinden. „Löschen Sie ihn. Lauf neunundzwanzig." Kante: „Löschung nicht vorgesehen."
+- **95 — Jack, schwer. Dreifach.** Fontaines Bauart als Geständnis: ein Haus, in dem Verlieren unmöglich ist, jeder Ort für sich unvollständig (K62). Was ging, liegt an drei Orten als Satz ohne Ende; was blieb, ist ganz, Paris bekommt es um zwei mit offenen Kisten. Jack begreift, dass er in einem Haus wohnt, das ihn nie vergisst, und dass die Familien unterscheiden lernen müssen: Hier wird das Werkzeug beschlossen. Fontaines Verlust ohne Pathos: Der Junge bleibt in Kourou. Das Funkgerät seit Mitternacht stumm, der Fluss in einem anderen Land. Fontaine hält Aubry die Tür auf; Jack gehört aus Ordnung nicht in seinen Bericht. Funkgerät auf Roches leeren Platz. Kante: die Scheibe beschlägt von außen, Jack wischt sie nicht ab.
+- **96 — Jack, normal. Das Danach beginnt.** Die Piste hinunter, an der Spur vorbei, Jack nimmt nichts mit. Die Pirogue liegt da. Wilfrid: „Ich hab gewartet." Um zwei Blaulicht am Kreis. Der Regen hört auf. Morgen auf Wilfrids Veranda, Ibisse, Nokia an, Femkes Zeile: drin, alles steht, Roche sitzt neben ihr. Die Station, das Gerät aus dem Wagen, Jack ruft außer der Reihe zu Hause an, Samstag halb elf deutscher Zeit. Kante: „„Du bist zu früh", sagte Yuna. „Das hast du noch nie gemacht." Und legte auf."
+
+**Vorgemerkt für 97–100:** die Familie muss dreimal auflegen (das erste Mal ab K96 gegen Jack selbst); Bertrands Mail vom Toten und das Gespräch; Heftseiten aus Marchals Schrank; Jolies falsche Nachricht („welche", die neunundzwanzigste Familie) und der Oiapoque-Ausflug; Maries vierte Spalte, Bremer Tochter; die verbundenen Hände beim Musikritual #3; Linsen; Boonie-Pub; Solène-Abschied; Abschied am Flughafen.
 
 ## Offene Punkte (Band 1)
 

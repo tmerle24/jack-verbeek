@@ -68,15 +68,15 @@ Kante), knapp dahinter **K73** (Architektur-Erklärung im Voss-POV).
 | Oiapoque-Ausflug, Kaw, Goldmine, Brasilien | plot.md | Auflösung, als Rückzug im Wortsinn |
 | Wilfrid wartet, bis die Rakete weg ist | K85 | Finale |
 
-## Nächster Block: Kapitel 86–96 (Finale)
+## Laufender Block: Kapitel 86–96 (Finale) — Planung bestätigt
 
-Groblinie (plot.md): 86–88 Piste im Regen, Waffenszene ~88; 89 Jack eine
-halbe Stunde nicht ansprechbar; 90–95 das Fenster 23:41–00:20; 96 das System
-liegt dreifach, Löschen unmöglich. **Erst Blockplanung vorlegen, dann
-schreiben.** Auflage aus dem 7. Review: Mindestens eine Wende im Fenster muss
-aus Jacks Lückenliste kommen, nicht von einem Informanten (Roche, Mathieu,
-Wilfrid liefern in 80–85 fast alles Taktische). Zeitlogik klären: Waffenszene
-vor 23:41, halbe Stunde, Eintritt ins Haus innerhalb des Fensters.
+Detailplanung in band-01/plot.md („Block 86–96"). Zeitlogik: Waffenszene
+23:10–23:14 (K87), halbe Stunde bis exakt 23:41 (K88), Eintritt 23:50 (K89),
+Start um Mitternacht (K92), Fenster zu 00:20 (K94), Aubry um zwei. POV
+J J J F J J J V J J J. Die Wenden im Fenster kommen aus Jack: Colibri „kennt
+keine zwei" (K88/89) und die Rangfolge am Strang (K91). Apnoe zahlt in K87.
+
+Geschrieben: — (K86 als Nächstes).
 
 ## Laufende Listen
 
