@@ -16,7 +16,7 @@ das bereits Geschriebene prüfen und anpassen.
 | 36–49 | ✅ Eskalation: Kanäle sterben, Frau Adler (K40), die Straße betreten, Codewort-Ernstfall, Köder Jack, „Sprich mit dem Kind". |
 | **50** | ✅ **Midpoint — gedreht: die ECHTE Nele (48 Sekunden), die Fälschung im Kinderzimmer abgespielt, „Ich habe ihm geschrieben, dass ich komme."** |
 | 51–68 | ✅ Feuerwerksbank & Roche, Beerdigung/Marie, „Nachfolger, nicht Doppelgänger", öffentlicher Spiegel-Widerspruch, Kourou-Beweis über die Startfenster-Atempausen, Abflug. Ritual #2 (Videocall, brüchig) ans Blockende (~K68) verlegt. |
-| 69–85 | Französisch-Guayana: Wasserwerk-Legende, das Haus trinkt im Startfenster, Heimatfront-Falle (Thea), Marchal als lokaler Lauf, K78 das eine echte Gespräch, Roches Bruch, Aufbruch auf die Piste. |
+| 69–85 | ✅ Französisch-Guayana: Wasserwerk-Legende, das Haus trinkt im Startfenster, Heimatfront-Falle (Thea), Marchal als lokaler Lauf, K78 das eine echte Gespräch, Roches Bruch, Aufbruch auf die Piste. |
 | 86–96 | Finale. ~88: Waffenszene auf der Piste im Regen. 89: Jack eine halbe Stunde nicht ansprechbar. 90–95: das 39-Minuten-Startfenster. 96: Das System liegt dreifach — Löschen unmöglich. |
 | 97–100 | Auflösung: drei Nächte, das Werkzeug für die Familien, kostenlos, kein Bericht. Kap 100: Garten, Grill, Musikritual #3. Das Danach. |
 
@@ -77,7 +77,7 @@ lassen. Beschleunigung hält, aber mit Entspannungsinseln.
 - **67 — Jack.** Abflug: Voss' Regeln, die Cayenne-Legende, letzte Instruktionen. Kante: „Diesmal flog ich nicht zu einem Toten. Ich flog zu meinem Nachfolger."
 - **68 — Jack.** Ankunft Cayenne, Nachtfeuchte — Musikritual #2 per Videocall: brüchig, verzögert, Nele spielt, Jack kommt zu spät ins Lied; der Leser-Zweifel „sitzen am anderen Ende die Richtigen?" wird inszeniert und über Wort und Legende-Tell aufgelöst. Kante: die eine Sekunde zu lange Pause vor Neles Antwort — und der Preis, ihr nicht zu misstrauen, wird ab jetzt täglich fällig.
 
-## Aktueller Block: Kapitel 69–85 (Französisch-Guayana → Piste)
+## Abgeschlossen: Kapitel 69–85 ✅ (Französisch-Guayana → Piste)
 
 Story-Daten: Mo 16.11. bis Fr 27.11. Ortszeit (vier Stunden hinter Sankt
 Ilgen). Zwei Fragen treiben den Block: Wie kommt Jack ins Haus, und was
