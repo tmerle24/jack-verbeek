@@ -30,6 +30,24 @@ und hoffen, ohne dass der Text ihm je sagt, was er fühlen soll.
 - Zahlen meist als Wörter. Ausrufezeichen fast nie. Keine Kraftausdrücke —
   die Härte kommt aus der Logik.
 
+## Jack denkt wie ein Mensch, nicht wie ein Philosoph (Auflage, Sept. 2026)
+
+Jack darf denken und fühlen und das beschreiben. Aber reell: wie ein
+normaler Mensch, wie Alex Cross, nicht wie ein Essayist. So, wie Jack in
+den Kapiteln 69–80 denkt, denkt man vielleicht mal gelegentlich, nicht die
+ganze Zeit; das ist anstrengend zu lesen.
+
+- Ein Gedanke pro Absatz, dann wieder Handlung, Dialog, Körper.
+- Weisheitssätze, „Man"-Sätze, Abstraktionen über das Leben: höchstens
+  einer pro Kapitel, oft keiner. Im Zweifel den klugen Satz streichen.
+- Gefühle konkret: Hunger, Müdigkeit, Schweiß, ein Bier, ein Blick aufs
+  Display. Nicht „das ist der Fehler in meinem Leben".
+- Dialog trägt mehr als Reflexion. Wenn Jack etwas begreift, zeigt es sich
+  daran, was er als Nächstes tut oder sagt.
+
+**Offen:** Vermutlich braucht das gesamte Buch dafür ein Refactoring.
+Noch nichts anfassen; der Autor liest erst.
+
 ## Fremd-POV (3. Person personal)
 
 - **Fontaine:** kühl, geordnet, ohne Häme. Er misst, was andere fühlen.
