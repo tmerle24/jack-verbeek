@@ -97,6 +97,8 @@ Scharlachsichler bei Dämmerung; Grill aus der halben Tonne.
 
 **Jolie-Faden (Romanze, ab K80):** nicht in einem Kapitel abhaken. Nachricht aus der Zone in K81 (abends, Kantine), Nachricht vor dem Fenster in K83, der zweite Turm als Blickpunkt im Finale, ein gemeinsamer Abend in der Auflösung (Kandidat: der Oiapoque-Ausflug zu zweit), Abschied am Flughafen — Hoffnung ja, Versprechen nein. Jack gibt nicht auf.
 
+**Mathieu (ab K80):** Jolies Kollege vom Wasserturm. K83: sein Ablaufplan an die Station gibt Jack die Minuten des Fensters. Finale: der Mann an der gemeinsamen Leitung von Rampe und Haus — Helfer oder der Weg, über den Fontaines Seite Jolie erreicht.
+
 **Stimme (Auflage ab K81):** Jack redet weniger wie ein Philosoph. Weniger Weisheitssätze, weniger Abstraktion, mehr Dialog, Untertreibung, konkrete Dinge. Im Zweifel den klugen Satz streichen.
 
 **Vorgemerkt für den Finale-/Auflösungsblock (86–100):** Oiapoque-Ausflug als
