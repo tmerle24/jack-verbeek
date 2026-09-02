@@ -301,6 +301,11 @@ Nicht blutrünstig. Zutiefst falsch.
 
 Jacks große Insel-Liebe der Guadeloupe-Jahre — die Beziehung ging damals zu Ende, leider; kurz danach kam Thea. Heute der Romantik-Faden von Band 1: warm, offen, ohne Zukunft; das Wiedersehen weckt Jacks stillen Wunsch nach einer Frau an seiner Seite, ohne dass er ihn ausspricht. Damals Projektkollegin bei der Bank in Pointe-à-Pitre (sie kennt Colibri aus erster Hand und ist Jacks sozial getarnter Weg zur Verkaufskette). Ihre Familie führt seit Jahrzehnten ein Restaurant am alten Hafen, Festnetz inklusive. Aus ihrem Kreis stammt Jacks alter Spitzname **ti-colibri**. Sie sagt Sätze wie Diagnosen und hat das Handtuch über der Schulter, wenn etwas ihre volle Aufmerksamkeit verlangt.
 
+### Nebenfiguren Band 1 (laufend ergänzt)
+
+- **Ernst Pichler** — Messtechnik-Unternehmer in Graz, kleiner Kunde Jacks seit neun Jahren; drei Angestellte, Hallendach mit eigenem Regen-Rhythmus. Firma kränkelt; bat (K38, ohne es zu wissen an die Kopie) um schonende Übergabe an seinen „noch grünen" Nachfolger. Der echte Jack sagt Hilfe persönlich zu (K59); sein ahnungsloses Urteil über die Kopie: „tadellos … wie Sie an einem Sonntag. Frisch gebügelt."
+- **Bertrand** — Betriebsleiter des Wasserwerks bei Cayenne (Betreibergruppe wie Le Marin), Jacks Legenden-Arbeitgeber im dritten Akt (ab K68). Rund, müde, freundlich; fasst das Lenkrad nur mit zwei Fingern an; breites, singendes Französisch. Dauerthemen: Pumpe drei (spinnt seit August), die Steuerung eines „Genies von der schlimmen Sorte".
+
 ### Handlungsverlauf
 
 **Auslöser:** Ein Kunde von Jack, Ingenieur aus Karlsruhe, ist seit Wochen in einem Projekt auf Martinique und schreibt täglich. Bei einem Videocall stimmt etwas nicht. Jack schiebt es auf die Leitung. Zwei Tage später ruft die Tochter des Mannes an.
