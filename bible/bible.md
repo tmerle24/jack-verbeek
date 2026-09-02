@@ -310,6 +310,9 @@ Jacks große Insel-Liebe der Guadeloupe-Jahre — die Beziehung ging damals zu E
 
 - **Ernst Pichler** — Messtechnik-Unternehmer in Graz, kleiner Kunde Jacks seit neun Jahren; drei Angestellte, Hallendach mit eigenem Regen-Rhythmus. Firma kränkelt; bat (K38, ohne es zu wissen an die Kopie) um schonende Übergabe an seinen „noch grünen" Nachfolger. Der echte Jack sagt Hilfe persönlich zu (K59); sein ahnungsloses Urteil über die Kopie: „tadellos … wie Sie an einem Sonntag. Frisch gebügelt."
 - **Bertrand** — Betriebsleiter des Wasserwerks bei Cayenne (Betreibergruppe wie Le Marin), Jacks Legenden-Arbeitgeber im dritten Akt (ab K68). Rund, müde, freundlich; fasst das Lenkrad nur mit zwei Fingern an; breites, singendes Französisch. Dauerthemen: Pumpe drei (spinnt seit August), die Steuerung eines „Genies von der schlimmen Sorte".
+- **Wilfrid** — Bertrands Schwager, Fischer und Jäger am Fluss Kourou, hat eine Pirogue und ein Jagdgewehr (ab K74). Wortkarg, kennt den Wald und die Streifen am Zaun. Führt Jack flussaufwärts (K74, K85). Das Gewehr in der Pirogue: zweimal abgelehnt, Setzung für die Waffenszene K88.
+- **Loïc Marchal** — Bertrands Vorgänger am Wasserwerk, „ein Genie von der schlimmen Sorte", baute die Steuerung, wechselte vor zwei Jahren zum Rechenzentrum bei Kourou (Kühlung) und schreibt Bertrand noch immer Mails mit Tipps. Ist tot; das Haus hält seinen eigenen Kühlungstechniker als Lauf am Leben (Enthüllung K77). Bertrands Kummer: Kandidat für die Auflösung.
+- **Aubry** — Pariser Verbindungsfrau in der Task-Force (K73). Souverän, korrekt, in Paris' eigenem Tempo; besteht auf dem offiziellen Zugriff nach dem Startfenster. Vorname beim Schreiben.
 
 ### Handlungsverlauf
 
@@ -355,4 +358,4 @@ Das ist der Schluss. Nicht der Sieg — das Danach.
 - Name für Jacks Bruder
 - Name der befreundeten Familie in der ersten vermieteten Wohnung
 - Sind die Waldkönigin-Fotos ein wiederkehrender Running Gag oder eine einmalige Sache?
-- Wie viel weiß Thea über die Werkstatt, und ab wann?
+- Wie viel weiß Thea über die Werkstatt, und ab wann? → Band 1 (K75): nichts Offizielles, aber die Regeln — und sie handelt danach, ohne zu fragen. Mehr erst in späteren Bänden.
