@@ -76,7 +76,13 @@ Start um Mitternacht (K92), Fenster zu 00:20 (K94), Aubry um zwei. POV
 J J J F J J J V J J J. Die Wenden im Fenster kommen aus Jack: Colibri „kennt
 keine zwei" (K88/89) und die Rangfolge am Strang (K91). Apnoe zahlt in K87.
 
-Geschrieben: K86–K88 (ungereviewt). Nächstes: K89 (Fontaine).
+Geschrieben: K86–K89 (ungereviewt). Nächstes: K90.
+
+Korrektur an K84 (Zeitlogik, beim Schreiben von K89 gefunden): Der Chef vom
+Zaun verlässt die Halle jetzt um zehn vor elf (vorher stand er um 23:31 noch
+neben Fontaine, traf Jack aber laut K85/86 um 23:00 auf der Piste). Und der
+Regen fällt in K84 seit neun wie in K85; was um elf „nicht kommt", ist die
+Wand dahinter, nicht der Regen.
 
 ## Laufende Listen
 
