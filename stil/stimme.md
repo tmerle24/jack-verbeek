@@ -30,23 +30,19 @@ und hoffen, ohne dass der Text ihm je sagt, was er fühlen soll.
 - Zahlen meist als Wörter. Ausrufezeichen fast nie. Keine Kraftausdrücke —
   die Härte kommt aus der Logik.
 
-## Jack denkt wie ein Mensch, nicht wie ein Philosoph (Auflage, Sept. 2026)
+## TODO Buchende: Jacks Stimme erden (Autorenhinweis, Sept. 2026)
 
-Jack darf denken und fühlen und das beschreiben. Aber reell: wie ein
-normaler Mensch, wie Alex Cross, nicht wie ein Essayist. So, wie Jack in
-den Kapiteln 69–80 denkt, denkt man vielleicht mal gelegentlich, nicht die
-ganze Zeit; das ist anstrengend zu lesen.
+Kritik nach Block 69–80: Jack denkt zu oft wie ein Philosoph, zu wenig
+wie ein Mensch (Vorbild Alex Cross). Weisheitssätze, „Man"-Sätze und
+Abstraktionen über das Leben sind zu dicht; das ist anstrengend zu lesen.
+So denkt man gelegentlich, nicht die ganze Zeit.
 
-- Ein Gedanke pro Absatz, dann wieder Handlung, Dialog, Körper.
-- Weisheitssätze, „Man"-Sätze, Abstraktionen über das Leben: höchstens
-  einer pro Kapitel, oft keiner. Im Zweifel den klugen Satz streichen.
-- Gefühle konkret: Hunger, Müdigkeit, Schweiß, ein Bier, ein Blick aufs
-  Display. Nicht „das ist der Fehler in meinem Leben".
-- Dialog trägt mehr als Reflexion. Wenn Jack etwas begreift, zeigt es sich
-  daran, was er als Nächstes tut oder sagt.
-
-**Offen:** Vermutlich braucht das gesamte Buch dafür ein Refactoring.
-Noch nichts anfassen; der Autor liest erst.
+**Entscheidung:** Jetzt nichts ändern, die Stimme bis Kapitel 100 wie
+bisher halten, damit das Buch einheitlich bleibt. Nach dem letzten
+Kapitel ein Refactoring über das gesamte Buch in einem eigenen Durchgang:
+pro Kapitel höchstens ein Weisheitssatz, Gefühle konkret (Hunger,
+Müdigkeit, Schweiß, ein Blick aufs Display), Dialog statt Reflexion,
+den klugen Satz im Zweifel streichen. Der Autor liest vorher selbst.
 
 ## Fremd-POV (3. Person personal)
 

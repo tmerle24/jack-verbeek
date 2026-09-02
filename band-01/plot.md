@@ -99,7 +99,7 @@ Scharlachsichler bei Dämmerung; Grill aus der halben Tonne.
 
 **Mathieu (ab K80):** Jolies Kollege vom Wasserturm. K83: sein Ablaufplan an die Station gibt Jack die Minuten des Fensters. Finale: der Mann an der gemeinsamen Leitung von Rampe und Haus — Helfer oder der Weg, über den Fontaines Seite Jolie erreicht.
 
-**Stimme (Auflage ab K81):** Jack redet weniger wie ein Philosoph. Weniger Weisheitssätze, weniger Abstraktion, mehr Dialog, Untertreibung, konkrete Dinge. Im Zweifel den klugen Satz streichen.
+**Stimme:** bis K100 wie bisher halten. Das Erden von Jacks Stimme ist ein TODO nach dem letzten Kapitel (siehe stil/stimme.md), nicht jetzt.
 
 **Vorgemerkt für den Finale-/Auflösungsblock (86–100):** Oiapoque-Ausflug als
 Jacks Rückzug im Wortsinn nach dem Fenster (Kaw-Dorf im Sumpf, Gendarmerie-
