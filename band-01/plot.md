@@ -95,6 +95,10 @@ zur Plage de Montjoly; morgens Joggen, abends Spazieren; der Leguan auf dem
 Pfad; der Riesenfalter an der Tür (Running Gag: Tür nur noch spaltweise);
 Scharlachsichler bei Dämmerung; Grill aus der halben Tonne.
 
+**Jolie-Faden (Romanze, ab K80):** nicht in einem Kapitel abhaken. Nachricht aus der Zone in K81 (abends, Kantine), Nachricht vor dem Fenster in K83, der zweite Turm als Blickpunkt im Finale, ein gemeinsamer Abend in der Auflösung (Kandidat: der Oiapoque-Ausflug zu zweit), Abschied am Flughafen — Hoffnung ja, Versprechen nein. Jack gibt nicht auf.
+
+**Stimme (Auflage ab K81):** Jack redet weniger wie ein Philosoph. Weniger Weisheitssätze, weniger Abstraktion, mehr Dialog, Untertreibung, konkrete Dinge. Im Zweifel den klugen Satz streichen.
+
 **Vorgemerkt für den Finale-/Auflösungsblock (86–100):** Oiapoque-Ausflug als
 Jacks Rückzug im Wortsinn nach dem Fenster (Kaw-Dorf im Sumpf, Gendarmerie-
 Stopp, Pinkelpause an einer Goldmine mit bewaffneter Wache, Pirogue über den
