@@ -30,6 +30,20 @@ und hoffen, ohne dass der Text ihm je sagt, was er fühlen soll.
 - Zahlen meist als Wörter. Ausrufezeichen fast nie. Keine Kraftausdrücke —
   die Härte kommt aus der Logik.
 
+## TODO Buchende: Jacks Stimme erden (Autorenhinweis, Sept. 2026)
+
+Kritik nach Block 69–80: Jack denkt zu oft wie ein Philosoph, zu wenig
+wie ein Mensch (Vorbild Alex Cross). Weisheitssätze, „Man"-Sätze und
+Abstraktionen über das Leben sind zu dicht; das ist anstrengend zu lesen.
+So denkt man gelegentlich, nicht die ganze Zeit.
+
+**Entscheidung:** Jetzt nichts ändern, die Stimme bis Kapitel 100 wie
+bisher halten, damit das Buch einheitlich bleibt. Nach dem letzten
+Kapitel ein Refactoring über das gesamte Buch in einem eigenen Durchgang:
+pro Kapitel höchstens ein Weisheitssatz, Gefühle konkret (Hunger,
+Müdigkeit, Schweiß, ein Blick aufs Display), Dialog statt Reflexion,
+den klugen Satz im Zweifel streichen. Der Autor liest vorher selbst.
+
 ## Fremd-POV (3. Person personal)
 
 - **Fontaine:** kühl, geordnet, ohne Häme. Er misst, was andere fühlen.

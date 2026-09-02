@@ -1,86 +1,105 @@
 # Band 1 „Zwölf Tage tot" — Arbeitsstand
 
-Stand: nach Kapitel 68 (Ende Block 51–68) und dem sechsten Kaltleser-Review.
-Fortschritt: 68 von ~100 Kapiteln geschrieben, alle reviewt (sechs
-Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68).
+Stand: nach Kapitel 85 (Ende Block 69–85) und dem siebten Kaltleser-Review.
+Fortschritt: 85 von ~100 Kapiteln geschrieben, alle reviewt (sieben
+Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85).
 
 ---
 
-## Ergebnis des 6. Reviews (Kapitel 51–68)
+## Ergebnis des 7. Reviews (Kapitel 69–85)
 
-**Urteil:** Der Block trägt deutlich. Beschleunigung ab K61 funktioniert,
-die zwei Uhren greifen ineinander und zahlen planmäßig in K64 ein, die
-Kanten sind ehrlich (kein Cliffhanger betrügt). Stärkstes Kapitel **K56**
-(Beerdigung mit der Doppelgänger-Kollision live am Grab), dazu **K62**
-(Adlers Zweittod als kalter K40-Payoff) und **K68** (brüchiges Videoritual,
-Vertrauensvergiftung als täglicher Preis). Schwächstes **K67** (Voss-Briefing,
-funktional-flach — bewusst gelassen).
+**Urteil:** Der Block trägt. Die drei Erkenntnisse kommen aus Jack (Körper
+K74, Lückenliste K77, Deduktion K78), die Heimatfront-Falle K70→K75 schlägt
+sauber ein, Roches Bruch ist über K79/81/82 vorbereitet und eingelöst, keine
+Kante betrügt, kein Faden verpufft. Stärkstes Kapitel **K79** (Fontaines
+Prüfung, „Die Wahrheit hatte einen Flur", Roches Nein), dazu **K75** (Thea)
+und **K82** (Roche in der Bar). Schwächstes **K80** (vier Szenen, blasseste
+Kante), knapp dahinter **K73** (Architektur-Erklärung im Voss-POV).
 
 **Behoben (committet):**
-- **Hanne-Logikloch (K55/58):** Der Kranz trägt jetzt den erfundenen Namen
-  **„Grete"** statt des echten „Hanne". Damit bleibt die „reine
-  Erfindung"-Waffe aus K24 intakt (das System kennt den echten Namen nicht)
-  und Fontaines Gebotsbruch („wir fügen nichts hinzu") wird geschärft.
-  Fest: erfundene Ehefrau = Grete, echte tote Ehefrau = Hanne (in plot.md
-  fixiert).
-- **Datumsfehler K65:** „vierzehn Tage" → „gut zwei Wochen" (10.11. + 17 =
-  27.11.; Häutung Nacht 27./28.11.).
-- **Schlusssekunde K68:** über die etablierte 1,5-Sekunden-Latenz gehoben,
-  Zahlenkollision beseitigt (die verdächtige Pause überschreitet jetzt die Norm).
-- **man-Satz-Dichte:** K51 und K60 je einen Weisheitssatz entschärft;
-  „man erkennt X nicht an A, sondern an B"-Zwilling in K61 umgebaut (K63
-  behält das Muster als Heureka-Träger).
-- **Manierismen:** Henkel-in-eine-Richtung (K57, 3. Nennung) gestrichen;
-  Femke „flache Ruhe/Art" (K57/59) getrimmt (bleibt nur als Payoff in K61);
-  Fontaine-Gesicht-in-der-Scheibe (K58) ersetzt.
-- **K60 Gewicht** normal → schwer (Neles Reisebedingung, emotionaler Träger).
+- **Kontinuität:** Tagesabstände (K79 „fünf Tage", K82 „zwei Abende
+  später", K84 „am Dienstag"), Zaun-Leute auf elf gesamt (K84: fünf/vier/zwei),
+  Listenarithmetik K84 (achtzehn + neun + Lauf 29), Ibis-Richtung K77,
+  Theas „ein Monat" statt sechs Wochen (K75), Maries Ordner „im Herbst"
+  (K80), Encore-Chronologie K79, Funkstille K72 zwanzig Minuten, Rakete
+  „vor einer Woche" K83, Markttelefon Dienstag gekauft (K78), Packliste K80,
+  Roches Alter aus Jacks Mund „über fünfzig" (K81), Jack jagte „mit Anfang
+  zwanzig" (K85, Bible), Eltern-Wohnort (K75, Bible).
+- **Wissensstände:** Jack kennt nur das Magazin-Zitat (K78 umgestellt);
+  Frau Adler bei Jack mit Quelle (Femke, K77); Voss' „Er weiß, wo Sie
+  schlafen" durch Jacks Meldung an Femke gedeckt (K80).
+- **Samstagsanruf:** Lücke in K74 geschlossen (Gerät ohne Netz, Yunas
+  Ausnahme im Heft).
+- **POV-Leaks:** K73 ohne Jacks „Bedauern auf Vorrat" und Leitungs-Beschluss,
+  ohne Fontaines Raketen-Formel; K84 „seit Roche gegangen war"; K75/K79
+  „klein und alles" nur noch bei Fontaine.
+- **Manierismen:** Man-Satz-Paare (K70, K73, K78), „Das Erste"-Häufung K79,
+  dritte „Verbeek hätte gelacht"-Nennung K84 gestrichen, Poesie-Budget K71/K74
+  reduziert, Zwei-Finger/„wohnte hier"/„länger als nötig"/Bank-Motiv gekappt,
+  Falter-Inventar in K78 raus, „Nicht X. Y."-Figur in K69/K77 aufgelöst.
+- **K80** von 2210 auf rund 2100 Wörter gekürzt (bleibt der längste Text des Blocks).
+- **Gewehr-Setzung K85:** „glaubte dabei" statt „wusste", damit K88 frei ist.
 
 **Bewusst gelassen:**
-- K64-Kante „Fontaine konnte nicht mehr warten." — die blasseste des Blocks,
-  betrügt aber nicht; getragen von Jacks Deduktion davor.
-- K67 als funktionales Briefing; drei weichere Kapitel (66/67/68) am Stück
-  sind der gewollte Heimat-/Übergang-Atem vor Akt 3.
-- **Muster im Blick behalten:** Kinder lösen zwei Großwenden (K50 Nele /
-  K63 Yuna). In Akt 3 kein drittes „Kind liefert die Synthese", damit Jacks
-  eigene Agency nicht schrumpft.
+- K72 Wasserturm-Erklärung (Raumfahrt, nicht der Fall) und K73 Voss' Rede an
+  Aubry (plot-nötig; einziger Vorlesungsmoment).
+- K81 Hai-Gefahr ohne Kosten für Jack (Wilfrids Schnitt trägt sie).
+- Die Grundsatzkritik an Jacks Philosophenton ist **TODO fürs Buchende**
+  (stil/stimme.md), nicht in diesem Block behandelt.
 
-## Offene Fäden für Akt 3 (nicht verpuffen lassen)
+## Offene Fäden für das Finale (86–100)
 
 | Faden | Zuletzt | Einplanung |
 |---|---|---|
-| „Es hat den Umschlag gesehen … deine Adresse" | K61 | Heimatfront-Drohung — muss in Akt 3 zahlen |
-| Ungewählte Nummer auf Roches Karte | K44 | das eine echte Jack/Fontaine-Gespräch ~K78 |
-| Roches Riss (fehl. Bleistift/Einschätzung/Wortlaut) | K58/65 | ~K78, Loyalitätsbruch |
-| Frau Adler | K62 | Kandidatin Auflösung (Werkzeug, K97–100) |
-| Maries ECHT/NICHT-ECHT-Ordner | K55 | Familien-Werkzeug, K97–100 |
-| Marie als Auflösungs-Partnerin | K56 | Auflösung |
-| Linsen im Gefrierschrank („zuerst, wenn du zurück bist") | K66 | Rückkehr, K100 |
-| Yunas Zahnarztspiegel (Talisman) | K67 | Finale, nach Bedarf |
+| Der Mann auf der Piste („Er heißt nicht Fontaine") | K82/85 | K86–88, Waffenszene im Regen; die Waffe kommt von ihm, Wilfrids Gewehr liegt in der Pirogue |
+| Voss' „rein" / Paris um zwei / Aubry | K73/74/83 | K90–96; Roche geht um zwei zu Aubry |
+| Heftseiten in Marchals Schrank (Station Kourou) | K83 | Abholen im Finale/Auflösung; Beweise für die Familien |
+| Marchals letzte Mail an Bertrand 00:20 | K84 | Bertrands Kummer, Auflösung |
+| Mathieu an der gemeinsamen Leitung | K80/83 | Finale: Helfer oder Weg zu Jolie (Entscheidung Planung) |
+| Jolie, zweiter Turm | K80/81/83 | Finale-Blick, Abend danach (Kandidat Oiapoque zu zweit), Abschied am Flughafen |
+| Fontaine hält Aubry die Tür auf; Zaun-Leute über den Maroni | K84 | K96 |
+| Lauf 29 ruft morgen um halb neun die Küche an | K84 | Finale/Auflösung: die Familie muss dreimal auflegen |
+| Frau Adler / Bremer Tochter „welche" | K80/84 | Werkzeug K97–100 |
+| Maries vierte Spalte „Woran erkannt" | K80 | Werkzeug K97–100, Marie als Partnerin |
+| Linsen ganz vorn | K83 | K100 |
+| Zahnarztspiegel | K85 (über dem Herzen) | Finale nach Bedarf |
+| Solène | K81 (Postkarte) | ein Abschied in der Auflösung |
+| Boonie-Pub (Hirschen) | — | Heimkehr, K97–100 |
+| Oiapoque-Ausflug, Kaw, Goldmine, Brasilien | plot.md | Auflösung, als Rückzug im Wortsinn |
+| Wilfrid wartet, bis die Rakete weg ist | K85 | Finale |
 
-## Nächster Block: Kapitel 69–85 (Französisch-Guayana)
+## Nächster Block: Kapitel 86–96 (Finale)
 
-Groblinie (plot.md): Cayenne, Dschungel, Vorbereitung. ~K78 das eine echte
-Jack/Fontaine-Gespräch (löst die ungewählte Nummer ein). **Erst Blockplanung
-vorlegen, dann schreiben.**
-Story-Uhr: Ankunft So 15.11. → Häutung Nacht Fr 27./Sa 28.11. = knapp zwei
-Wochen Vorbereitung. Natur/Ortsgefühl aktiv ausspielen (Dschungel, Fluss,
-Nachtfeuchte); Balance-Regel beachten.
+Groblinie (plot.md): 86–88 Piste im Regen, Waffenszene ~88; 89 Jack eine
+halbe Stunde nicht ansprechbar; 90–95 das Fenster 23:41–00:20; 96 das System
+liegt dreifach, Löschen unmöglich. **Erst Blockplanung vorlegen, dann
+schreiben.** Auflage aus dem 7. Review: Mindestens eine Wende im Fenster muss
+aus Jacks Lückenliste kommen, nicht von einem Informanten (Roche, Mathieu,
+Wilfrid liefern in 80–85 fast alles Taktische). Zeitlogik klären: Waffenszene
+vor 23:41, halbe Stunde, Eintritt ins Haus innerhalb des Fensters.
 
 ## Laufende Listen
 
-- **Codeworte** (bis Jacks Rückkehr fest, keine Rotation): Nele „Nebelmeer",
-  Thea „Waldkönigin", Yuna „Quietschekäse". Eltern: kein Wort („Genuschel").
-- **Neue Namen im Block** (alle in Bible/plot eingetragen): Ernst Pichler
-  (Graz-Kunde, K59), Bertrand (Betriebsleiter Wasserwerk Cayenne, K68),
-  „Grete" (erfundene Ehefrau, K55/58).
-- **Kalender:** Block 51–68 = Mi 28.10.–So 15.11. (Wochentage geprüft,
-  intern konsistent gegen Anker Di 22.9.). Häutung 27./28.11. = Fr/Sa.
-  Zeitverschiebung Cayenne 4 h hinter Deutschland.
+- **Codeworte** (bis Jacks Rückkehr fest): Nele „Nebelmeer", Thea
+  „Waldkönigin", Yuna „Quietschekäse". Eltern/Jack: „Genuschel".
+- **Jacks Inventar in der Nacht 27./28.:** Voss' Stiefel, Yunas Spiegel
+  (Brusttasche), sonst nichts. Werkstatt-Gerät und Markttelefon im Wagen an
+  der Station, Nokia aus, Heft mit beiden Nummern beim Gerät, Ukulele bei
+  Wilfrid.
+- **Neue Namen im Block** (alle in Bible/plot): Wilfrid, Loïc Marchal, Aubry,
+  Jolie, Mathieu, „Lemaire" (Deckname), die Leute vom Zaun (Chef namenlos).
+- **Kalender:** Block 69–85 = Mo 16.11.–Fr 27.11. (Wochentage geprüft).
+  Fenster 23:41–00:20 Ortszeit. Cayenne 4 h hinter Deutschland.
 
 ## Entscheidungen abweichend vom Plot (mit Begründung)
 
-- **K64 POV Jack statt Voss** — sonst zwei Fremd-POVs (64/65) in Folge;
-  außerdem ist es Jacks Falle. In plot.md vermerkt.
-- **Häutungsdatum Nacht 27./28.11.** gesetzt — bindet das 39-Minuten-Fenster
-  des Finales. In plot.md vermerkt.
-- **K60 Gewicht schwer** (statt normal, Blockplanung) — Neles Reisebedingung.
+- **Thea als POV (K75)** — Heimatfront braucht Erwachsene, nicht Kinder;
+  beantwortet den Bible-Punkt „Wie viel weiß Thea" (nichts Offizielles, aber
+  die Regeln).
+- **Roches Bruch on-page in K79** (Fontaine-POV) statt als Überraschung —
+  dramatische Ironie, Jack trifft ihn erst K81.
+- **Voss' „rein" (K73)** und Küsten-Schlupflücke (K80) — Voss bricht seine
+  eigene Regel vier; prägt ihn für die Reihe.
+- **Piste statt Wasser (K85)** — Roches Dienstplan macht die Crique
+  unmöglich; Apnoe-Setzung (K77) bleibt für das Finale offen.
+- **Stimme:** Kritik am Philosophenton vermerkt, Änderung erst nach K100.

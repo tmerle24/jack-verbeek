@@ -15,8 +15,8 @@ das bereits Geschriebene prüfen und anpassen.
 | 25–35 | ✅ Werkstatt „leihweise" (Scheveningen), Locken-Falle/erfundener Toter, Lauf 29 atmet. |
 | 36–49 | ✅ Eskalation: Kanäle sterben, Frau Adler (K40), die Straße betreten, Codewort-Ernstfall, Köder Jack, „Sprich mit dem Kind". |
 | **50** | ✅ **Midpoint — gedreht: die ECHTE Nele (48 Sekunden), die Fälschung im Kinderzimmer abgespielt, „Ich habe ihm geschrieben, dass ich komme."** |
-| 51–68 | Feuerwerksbank & Roche, Beerdigung/Marie, „Nachfolger, nicht Doppelgänger", öffentlicher Spiegel-Widerspruch, Kourou-Beweis über die Startfenster-Atempausen, Abflug. Ritual #2 (Videocall, brüchig) ans Blockende (~K68) verlegt. |
-| 69–85 | Französisch-Guayana. Cayenne, Dschungel, Vorbereitung. ~Kap 78: das eine echte Gespräch Jack/Fontaine. |
+| 51–68 | ✅ Feuerwerksbank & Roche, Beerdigung/Marie, „Nachfolger, nicht Doppelgänger", öffentlicher Spiegel-Widerspruch, Kourou-Beweis über die Startfenster-Atempausen, Abflug. Ritual #2 (Videocall, brüchig) ans Blockende (~K68) verlegt. |
+| 69–85 | ✅ Französisch-Guayana: Wasserwerk-Legende, das Haus trinkt im Startfenster, Heimatfront-Falle (Thea), Marchal als lokaler Lauf, K78 das eine echte Gespräch, Roches Bruch, Aufbruch auf die Piste. |
 | 86–96 | Finale. ~88: Waffenszene auf der Piste im Regen. 89: Jack eine halbe Stunde nicht ansprechbar. 90–95: das 39-Minuten-Startfenster. 96: Das System liegt dreifach — Löschen unmöglich. |
 | 97–100 | Auflösung: drei Nächte, das Werkzeug für die Familien, kostenlos, kein Bericht. Kap 100: Garten, Grill, Musikritual #3. Das Danach. |
 
@@ -50,7 +50,7 @@ abgetaucht („sie haben genug"); Roches Loyalitätsriss; Codeworte Nebelmeer /
 Waldkönigin; „Es hat die Karte, nicht die Legende"; die ungewählte Nummer
 auf Roches Karte; Boonies „Sind wir die Guten?" unbeantwortet.
 
-## Aktueller Block: Kapitel 51–68 (Feuerwerksbank → Abflug)
+## Abgeschlossen: Kapitel 51–68 ✅ (Feuerwerksbank → Abflug)
 
 Story-Daten: Mi 28.10. bis So 15.11. Zwei Uhren laufen: „Zehn Tage, dann
 übernimmt Brüssel" (K54) und Fontaines Startfenster-Häutung (Datum fällt in
@@ -76,6 +76,55 @@ lassen. Beschleunigung hält, aber mit Entspannungsinseln.
 - **66 — Jack.** Abschied Heimat: die Rouladen („für einen Tag, an dem du sie brauchst"), Boonies Frage bekommt ihre Antwort, Thea, Codewort-Zeremonie für die Reise. Kante: warm und schwer.
 - **67 — Jack.** Abflug: Voss' Regeln, die Cayenne-Legende, letzte Instruktionen. Kante: „Diesmal flog ich nicht zu einem Toten. Ich flog zu meinem Nachfolger."
 - **68 — Jack.** Ankunft Cayenne, Nachtfeuchte — Musikritual #2 per Videocall: brüchig, verzögert, Nele spielt, Jack kommt zu spät ins Lied; der Leser-Zweifel „sitzen am anderen Ende die Richtigen?" wird inszeniert und über Wort und Legende-Tell aufgelöst. Kante: die eine Sekunde zu lange Pause vor Neles Antwort — und der Preis, ihr nicht zu misstrauen, wird ab jetzt täglich fällig.
+
+## Abgeschlossen: Kapitel 69–85 ✅ (Französisch-Guayana → Piste)
+
+Story-Daten: Mo 16.11. bis Fr 27.11. Ortszeit (vier Stunden hinter Sankt
+Ilgen). Zwei Fragen treiben den Block: Wie kommt Jack ins Haus, und was
+kostet es, dass er da ist. Antwort eins kommt aus der Legende (die
+Wasserwerk-Gruppe versorgt auch die Industriezone am Raumfahrtzentrum, und
+das Haus wird gekühlt), Antwort zwei von zu Hause. POV: Jack als Grundtakt,
+Fontaine 70/79/84, Voss 73, Thea 75 (neuer dritter Strang). Die
+Fontaine-Lücke 70→79 ist Absicht: Der Leser kennt seinen Zug aus 70 und sieht
+ihn in 75 einschlagen. Kein Kind liefert eine Synthese; die drei
+Erkenntnisse kommen aus Jacks Körper (74), Jacks Lückenliste (77) und Jacks
+Deduktion (78). Reihenregel Bars/Restaurants/Flirts: Bar 69, Restaurant mit
+Flirt 80, Pub mit Informant 82; Boonie-Pub in die Auflösung.
+Ortsgefühl-Inventar (ab K71): Jacks „Hütte" am Fuß des Hügels, zehn Minuten
+zur Plage de Montjoly; morgens Joggen, abends Spazieren; der Leguan auf dem
+Pfad; der Riesenfalter an der Tür (Running Gag: Tür nur noch spaltweise);
+Scharlachsichler bei Dämmerung; Grill aus der halben Tonne.
+
+**Jolie-Faden (Romanze, ab K80):** nicht in einem Kapitel abhaken. Nachricht aus der Zone in K81 (abends, Kantine), Nachricht vor dem Fenster in K83, der zweite Turm als Blickpunkt im Finale, ein gemeinsamer Abend in der Auflösung (Kandidat: der Oiapoque-Ausflug zu zweit), Abschied am Flughafen — Hoffnung ja, Versprechen nein. Jack gibt nicht auf.
+
+**Mathieu (ab K80):** Jolies Kollege vom Wasserturm. K83: sein Ablaufplan an die Station gibt Jack die Minuten des Fensters. Finale: der Mann an der gemeinsamen Leitung von Rampe und Haus — Helfer oder der Weg, über den Fontaines Seite Jolie erreicht.
+
+**Stimme:** bis K100 wie bisher halten. Das Erden von Jacks Stimme ist ein TODO nach dem letzten Kapitel (siehe stil/stimme.md), nicht jetzt.
+
+**Vorgemerkt für den Finale-/Auflösungsblock (86–100):** Oiapoque-Ausflug als
+Jacks Rückzug im Wortsinn nach dem Fenster (Kaw-Dorf im Sumpf, Gendarmerie-
+Stopp, Pinkelpause an einer Goldmine mit bewaffneter Wache, Pirogue über den
+Oyapock, Brasilien: Matschstraßen, arm und laut und glücklich, Steak im
+einfachen Restaurant). Der Maroni mit den Pirogen nach Surinam als Fluchtweg
+der Häutung / Fontaines Leute (K84 oder Finale).
+
+- **69 — Jack, normal.** Mo 16.11., Wasserwerk Cayenne. Erster Arbeitstag, die Legende wird gelebt: Hitze, rote Erde, Bertrand, Pumpe drei, Kantine. Punkt vierzehn der Wartungsliste: Außenstation Kourou, Brunnenfeld — Voss hat es weggelassen. Feierabend in der Bar am Marktplatz (Öffentlichkeit als Legende). Ukulele allein, Ritual-Miniatur. Kante: Bertrand: „Donnerstag fahren wir raus. Von dem Dach sieht man die Rampen."
+- **70 — Fontaine, schwer.** Di 17.11. Häutung als Handlung: Läufe sortiert, was mitwandert, was endet; Frau Adler unter „Erfolg". Lauf 29 fast fertig; der Gedanke aus K65 läuft zu Ende: Das Original steht im Weg. Umschlag aus K61 wird eingelöst: Die Familie soll Verbeek orten. „Nicht die Kinder. Die Mutter." Roche wiederholt wörtlich — und genau das ist die Warnung. Kante: das System fragt, in welcher Stimme angerufen werden soll; Verbeeks Freigabe liegt vor.
+- **71 — Jack, normal.** Mi 18.11., Plage de Montjoly. Braunes Meer, trotzdem Meer; Scharlachsichler bei Dämmerung (Detail). Abendanruf, Alltag, ein Nele-Satz. Kante: Femke: „Sie wollen offiziell rein. Und sie wollen es vor dem Fenster."
+- **72 — Jack, normal.** Do 19.11., Station Kourou und Pointe des Roches, Nacht. RN1, Rampen über den Bäumen, das Haus vom Dach der Station: Zaun, Lastwagen, Wald. Die Gruppe versorgt auch das Raumfahrtzentrum: kleiner Auftrag drinnen, Besichtigung der Startrampe von innen (Techniker sehen Pumpen, auch dort). Auf der Nachtfahrt Kaimane im Straßengraben, Augen im Scheinwerfer. Das kleine Startfenster vom Strand aus, mit der halben Stadt; alle Telefone stumm — neununddreißig Minuten körperlich. Danach Bertrands Alarm: Das Brunnenfeld lief im Fenster auf Anschlag. Kante: „Da drüben hatte jemand in zwanzig Minuten so viel Wasser gezogen wie Cayenne an einem Tag."
+- **73 — Voss, normal.** Fr 20.11., Brüssel/Den Haag. Paris besteht auf Zugriff; Raumfahrtsicherheit verbietet Operationen im Perimeter während des Starts; also nach dem Fenster — dann ist das Haus Haut. Voss' eigener Tabubruch. Pariser Gegenseite: Verbindungsfrau Aubry. Kante: „Sagen Sie ihm, er soll rein."
+- **74 — Jack, normal.** Sa 21.11., Fluss Kourou, Wald. Mit Wilfrid (Bertrands Schwager) in der Pirogue, Carbet, Hängematte, Brüllaffen. Zaun von der Waldseite: Hunde, Leute, unmöglich. Streife — beide liegen im Kanal vom Brunnenfeld zum Haus. Wilfrids Gewehr in der Pirogue, Jack lehnt ab (Chekhov für K88). Erste Lebensgefahr des Blocks. Kante: „Das Wasser war warm. Nicht von der Sonne."
+- **75 — Thea, schwer.** So 22.11., Sankt Ilgen. Neue POV. Anruf einer Fürsorgefirma für Entsandte: Vorfall in Übersee, Herr Verbeek müsse erreicht werden. Yuna verlangt das Codewort, Boonie und die Eltern kommen, Thea weiß nichts Offizielles, kennt die Regeln und entscheidet: „Schicken Sie es mir schriftlich. Auf Papier." Niemand ruft Jack an. Ein Nele-Satz. Kante: Theas Handy, Jacks Stimme: „Thea, ich bin's." Sie legt auf.
+- **76 — Jack, normal.** Mo 23.11. Abendanruf, Thea zum ersten Mal im Bild, der Bericht. Preis: Das Haus weiß, dass die Familie ein Verfahren hat — Jack ist im Einsatz. Nele liest die Nummer unter der Liste vor. Voss verbietet den Anruf. Kante: die Nummer steht im Heft, und Jack weiß, dass er sie wählen wird.
+- **77 — Jack, schwer.** Di 24.11., Wasserwerk. Apnoe nachts im Klarwasserbecken, Bertrand mit Stoppuhr, Yunas Spiegel. Wende: Das „Genie von der schlimmen Sorte", Loïc Marchal, wechselte vor zwei Jahren zum Rechenzentrum und schreibt Bertrand noch immer Tipps. Jack liest die Mails und erkennt die eigene Lückenliste. Marchal ist tot; das Haus hält seinen Kühlungstechniker am Leben. Kante: „Am Abend hatte ich eine Mail von einem Toten, der mir viel Erfolg wünschte und fragte, wann ich in Kourou vorbeikäme."
+- **78 — Jack, schwer.** Di 24.11., Nacht, Veranda im Regen. Das eine echte Gespräch. Roche nach dem zweiten Klingeln: „Das Folgende richte ich aus", stellt durch. Fontaines drei Sätze, denen der Leser zustimmt (der Sohn, der jeden Abend anruft, nie müde, nie wütend, nie weg). Jacks Gift aus K24, ohne K58 zu kennen: „Was hat Ihr Sohn zum Abschied gesagt? Haben Sie es je geprüft?" Fontaine fragt nach dem Regen in Cayenne — Auslassung enttarnt. Kante: „Danke, Monsieur Verbeek. Jetzt ist er vollständig."
+- **79 — Fontaine, schwer.** Nacht 24./25.11. Die abgebrochene Prüfung aus K58 zu Ende: Der halbe Satz war nie im Korpus. Fontaine bricht nicht, er wählt: Er behält den erfundenen Satz, weil er besser ist. Auftrag an Roche: geordnetes Ende des Originals vor dem Fenster. Kante: Roche legt Heft und Bleistift hin, erstes eigenes Wort in sechs Jahren: „Nein."
+- **80 — Jack, normal.** Mi 25.11., Küste = Kourou (Voss' Rückzugsregel, und Voss weiß es). Papier: eine Seite aus Maries Ordner als Femkes Muster; Femke: „Die Tochter aus Bremen fragt nicht, wer. Sie fragt, welche." Yuna fragt, was „vollständig" heißt. Abends Restaurant am Strand, Flirt mit einer Ingenieurin des Startteams — warm, ohne Aussprache, und die Enttäuschung steht im Kalender. Kante: Bertrand: „Morgen sind die Inseln zu. Wegen der Rakete."
+- **81 — Jack, normal.** Do 26.11., Îles du Salut, mit Wilfrids Boot. Wilfrid angelt fürs Abendessen, Jack taucht; Wilfrid verletzt sich beim Sprung und blutet, die Inseln sind Haigewässer — beide schwimmen schnell zum Steg, Risiko ohne Gegner, knapp. Dann Spaziergang über Île Royale: das Bagno, Männer, die als Tote weiterlebten, Île du Diable in Sicht, Agutis, die aus dem Gebüsch überraschen. Postkarte an Solène. Abends der Fang auf Jacks Grill, der Falter an der Tonne. Kante: am Pier in Kourou ein Mann im hellen Hemd mit Heft und Bleistift. „Monsieur Verbeek. Ich richte nichts aus."
+- **82 — Jack, schwer.** Do 26.11., abends, Pub in Kourou (Roche wählt Öffentlichkeit). Roche hat gekündigt, Continuité nimmt keine Kündigungen an. Er gibt Ablauf, Hunde, Zeiten, den Auftrag gegen das Original, die Technik „nicht die Kinder, die Mutter", Seiten aus dem Heft (Beweise für die Familien). Jack muss entscheiden, ob es eine Falle ist. Der Pub kippt: Jemand im Raum sieht nicht auf sein Glas. Kante: „Ich habe in einunddreißig Jahren keinen Menschen angefasst. Morgen Nacht wird jemand Sie anfassen. Er heißt nicht Fontaine."
+- **83 — Jack, normal.** Fr 27.11., Tag. (Vorher: Do-Nacht schläft Jack irgendwo, wo er noch nie war — Roches Anweisung; die Heftseiten bei sich.) Letzter Tag als Techniker, Pumpe drei läuft. Wetter baut sich auf, Fenster bestätigt. Letzter Anruf: Nele spielt vor, Jack hört nur zu (Miniatur, anders als K68). Linsen-Erinnerung. Kante: „Um sechs kam der Regen nicht. Er wartete."
+- **84 — Fontaine, normal.** Fr 27.11., abends. Roches leerer Stuhl, der Mann vom Zaun (namenlos). Der Sohn ruft an. Adlers Akte geschlossen. Verbeeks Position: Marchals Lauf hat die Antwort des neuen Technikers. Kante: Countdown läuft, und das Haus beginnt zu trinken.
+- **85 — Jack, schwer.** Fr 27.11., Nacht. Ausgangslage aus K83: Jack ist als Techniker im Kreis (Station Kourou, Bertrand am Schaltschrank mit Klappstuhl, Jack „geht herum"); Fenster laut Fax 23:41–00:20; Heftseiten in Marchals Schrank; Wilfrid um neun am Anleger („Der Fluss wird laut. Das ist gut für dich."). Mit Wilfrid flussaufwärts, Regen, das Gewehr liegt wieder da, Jack lässt es liegen. Der warme Kanal, der Zaun mit Licht, Yunas Spiegel, Nokia aus. Kante: Auf der Piste steht ein Wagen ohne Licht, und jemand steigt aus.
 
 ## Offene Punkte (Band 1)
 
