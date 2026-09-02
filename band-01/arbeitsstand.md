@@ -76,7 +76,7 @@ Start um Mitternacht (K92), Fenster zu 00:20 (K94), Aubry um zwei. POV
 J J J F J J J V J J J. Die Wenden im Fenster kommen aus Jack: Colibri „kennt
 keine zwei" (K88/89) und die Rangfolge am Strang (K91). Apnoe zahlt in K87.
 
-Geschrieben: K86, K87 (ungereviewt). Nächstes: K88.
+Geschrieben: K86–K88 (ungereviewt). Nächstes: K89 (Fontaine).
 
 ## Laufende Listen
 
