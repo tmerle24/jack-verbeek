@@ -163,7 +163,30 @@ bleibt in Kourou.
 
 **Abweichungen beim Schreiben:** K84 korrigiert (Chef geht um zehn vor elf zum Fluss, Regen seit neun). Fontaine gab Lauf 29 die Türen, weil er ihn als Verwalter des Hauses an den neuen Orten vorsah (K90, neu). Die Scheibe beschlägt am Ende von innen, weil die Halle warm ist (K95). Jack schläft drei Stunden bei Wilfrid, bevor er zur Station geht (K96).
 
-**Vorgemerkt für 97–100:** die Familie muss dreimal auflegen (das erste Mal ab K96 gegen Jack selbst); Bertrands Mail vom Toten und das Gespräch; Heftseiten aus Marchals Schrank; Jolies falsche Nachricht („welche", die neunundzwanzigste Familie) und der Oiapoque-Ausflug; Maries vierte Spalte, Bremer Tochter; die verbundenen Hände beim Musikritual #3; Linsen; Boonie-Pub; Solène-Abschied; Abschied am Flughafen.
+**Vorgemerkt für 97–101:** siehe den ausgearbeiteten Block unten.
+
+## Block 97–101 (Auflösung und Schluss) — Planung bestätigt
+
+Story-Zeit: Sa 28.11.2026 sieben Uhr Ortszeit bis Advent in Sankt Ilgen.
+Cayenne 4 h hinter Deutschland. K97 endet Sa 16:00 Ortszeit = 20:00 in
+Deutschland; der Anruf auf halb neun deutscher Zeit lässt dem Block
+dreißig Minuten Anlauf. POV-Folge J T J J J.
+
+Entscheidungen (bestätigt): Band 1 endet mit **K101**, nicht mit K100.
+Die Schlussszene der Bible (Garten, Grill, offene Terrassentür) wird in
+den Dezember übersetzt — Nebel, Kälte, warme Küche gegen kalte Luft; das
+Bild bleibt, die Jahreszeit ändert sich. Der Boonie-Pub (Hirschen) fällt
+aus dem Band heraus und wandert nach Band 2; Boonie bekommt stattdessen
+das Finale (er singt falsch). K98 wird aus Theas Sicht erzählt, als
+Auszahlung von K75 und einziger Fremd-POV des Blocks. Linsen wandern von
+K100 nach K101. Die drei unvollständigen Stücke an drei Orten bleiben
+liegen — offenes Ende der Reihe, nicht dieses Bandes.
+
+- **97 — Jack, schwer.** ✅ geschrieben. Sa 28.11., sieben bis sechzehn Uhr, Station Kourou. Bertrand wacht vom Fax auf, liest Marchals letzte Mail, lacht, sieht Jacks Hände. Er öffnet den Schrank, den Jack nicht öffnen kann, und liest Roches Seiten bis zum Namen. Der Kummer über die erfundene Tochter; das Dach, Vorschrift, seine. Dann seine Frage aus Bremen: welche. Das Betriebsbuch als einziger Bericht, in dem Jack steht, und er stimmt. Femke einmal: Aubry drin, Fontaine hält die Tür auf, Roche hat nichts angefasst, „Sie stehen in keinem Bericht", das Haus hält seit null Uhr zwanzig die Luft an. Verband mit der ganzen Hand. Kante: Jolies Antwort — die neunundzwanzigste Familie fragt welche.
+- **98 — Thea, schwer. „Der dritte Hörer."** Sa 28.11., halb neun abends, Sankt Ilgen. Klammer zu K75. Samstagabend, das Haus voll: Yuna, Nele, Jacks Eltern von oben, Boonie mit Bier im Flur. Das Handy bleibt dunkel, wie Roche es angekündigt hat (nicht die Kinder, die Mutter, die schlechte Leitung drüben) — es klingelt das Gerät, das nach Festnetz riecht. Jacks Stimme, warm, vollständig, der Fehler an der richtigen Stelle. Thea verlangt „Genuschel", es antwortet falsch, aber plausibel falsch, und drei Sekunden lang glaubt sie ihm. Nele hat mitgehört und sagt den einen Satz, der die Szene entscheidet. Thea legt auf — das dritte und letzte Mal im Buch, diesmal mit vollem Wissen. Zwei Minuten später klingelt das Handy doch, und er ist es. Jacks Zustand zum ersten Mal von außen: Man hört die Hände am Telefon. Kante: Sein erster Satz ist keine Erklärung, sondern eine Frage nach dem Zaun.
+- **99 — Jack, schwer. „Drei Nächte, fremde Hände."** So 29.11. bis Di 1.12., Cayenne. Das Werkzeug, und das Problem wird nicht weggeschrieben: Er kann nicht tippen. Also diktiert er drei Nächte lang, und die Hände gehören anderen — Femke am anderen Ende, Bertrand mit zwei Fingern, ein Knöchel für das, was sonst niemand schreiben darf. Kein Verfahren, nur Wirkung. Maries vierte Spalte aus K80 wird die Form: nicht wer, sondern welche, Datum für Datum. Die Tochter aus Bremen ist die erste, die es benutzt. Kostenlos, kein Bericht, kein Name darauf. Dazwischen der Solène-Abschied: ein Telefonat ans Restaurant am alten Hafen, Handtuch über der Schulter, ti-colibri, ein Satz wie eine Diagnose. Kante: die erste Antwort einer Familie, und sie ist nicht dankbar.
+- **100 — Jack, normal. „Der Oyapock."** Mi 2.12., der Rückzug im Wortsinn und der Jolie-Abschluss. Kaw-Sumpf, Gendarmerie-Stopp, Pinkelpause an der Goldmine mit bewaffneter Wache, Pirogue über den Fluss, Brasilien: Matschstraßen, arm und laut und glücklich, Steak im einfachen Restaurant. Jolie hat zwei Nachrichten in Jacks Stimme bekommen und eine von ihm; er beantwortet „welche" nicht mit Technik, sondern mit einem Tag. Dann der Flughafen: Hoffnung, kein Versprechen, der Leser enttäuscht und hoffend zugleich. Kante: etwas, das sie ihm mitgibt und das er mit verbundenen Händen nicht halten kann.
+- **101 — Jack, schwer. „Das Danach." (Schlusskapitel Band 1.)** Do 3./Fr 4.12., Sankt Ilgen, erster Advent liegt hinter ihnen. Nebel im Tal, kalt. Die Eltern haben aufgeräumt, eingefroren, datiert; der Vater hat gekocht, es gibt Linsen; der Zaun ist immer noch nicht gemacht. Yunas Spiegel kommt zurück, ganz. Nele hat den ganzen Nachmittag gezeichnet und zeigt es niemandem. Boonie steht mit Bier im Garten. Grill bei fünf Grad, offene Terrassentür, warme Küche gegen kalte Luft. Musikritual #3: Nele am Piano, Jack an der Ukulele mit Verband — er kann nicht greifen, spielt, was mit zwei Fingern geht, und es ist wenig und es reicht. Boonie singt falsch und laut, Yuna tanzt auf dem nassen Rasen etwas, das sie später nicht wird erklären können. Kein Orden, kein Bericht, außer einer Zeile in einem feuchten Heft in Kourou. Kante: kein Cliffhanger, der letzte Satz des Buches.
 
 ## Offene Punkte (Band 1)
 

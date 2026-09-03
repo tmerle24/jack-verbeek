@@ -1,7 +1,7 @@
 # Band 1 „Zwölf Tage tot" — Arbeitsstand
 
-Stand: nach Kapitel 96 (Ende Block 86–96, Finale) und dem achten Kaltleser-Review.
-Fortschritt: 96 von ~100 Kapiteln geschrieben, alle reviewt (acht
+Stand: nach Kapitel 97, Block 97–101 (Auflösung) geplant und bestätigt.
+Fortschritt: 97 von 101 Kapiteln geschrieben, 1–96 reviewt (acht
 Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85, 86–96).
 
 ---
@@ -53,11 +53,11 @@ schon bekannt), **K95** die Vorlesung des Blocks.
 - Die Zählung als Bauform von K87 direkt danach.
 - K93 als Atempause mit bekannter Kante — der dritte Strang muss die
   Nacht einmal von außen zeigen; Aubry, Roche und Femkes Liste sind neu.
-- Fontaines Sohn-Geständnis (K95) gibt Jack Wissen aus K79; in 97–100
+- Fontaines Sohn-Geständnis (K95) gibt Jack Wissen aus K79; in 98–101
   nicht mehr verhandeln.
-- Philosophenton-Refactoring bleibt TODO nach K100 (stil/stimme.md).
+- Philosophenton-Refactoring bleibt TODO nach K101 (stil/stimme.md).
 
-## Offene Fäden für die Auflösung (97–100)
+## Offene Fäden für die Auflösung (98–101)
 
 | Faden | Zuletzt | Einplanung |
 |---|---|---|
@@ -76,13 +76,34 @@ schon bekannt), **K95** die Vorlesung des Blocks.
 | Abschied am Flughafen (Jolie), Musikritual #3 im Garten | plot.md | K99/100 |
 | Drei unvollständige Stücke an drei Orten | K95 | offenes Ende der Reihe, nicht auflösen |
 
-## Nächster Block: Kapitel 97–100 (Auflösung)
+## Nächster Block: Kapitel 98–101 (Auflösung und Schluss)
 
-Groblinie (plot.md): drei Nächte, das Werkzeug für die Familien, kostenlos,
-kein Bericht; Oiapoque-Ausflug mit Jolie als Rückzug im Wortsinn; Abschied
-am Flughafen; K100 Garten, Grill, Musikritual #3, Nele zeigt niemandem ihre
-Zeichnung, Boonie singt falsch, Yuna tanzt. **Erst Blockplanung vorlegen,
-dann schreiben.** Am Ende bleibt ein positives Gefühl.
+**Planung bestätigt, ausgearbeitet in plot.md.** K97 ist geschrieben,
+K98 ist das nächste Kapitel. POV-Folge des Blocks: J T J J J.
+
+- **98 — Thea, schwer.** Sa 28.11., halb neun abends, Sankt Ilgen. Der
+  dritte und letzte Hörer, Klammer zu K75. Neles Satz entscheidet.
+- **99 — Jack, schwer.** So 29.11.–Di 1.12. Das Werkzeug in drei Nächten,
+  diktiert, weil die Hände fehlen. Bremer Tochter. Solène-Abschied.
+- **100 — Jack, normal.** Mi 2.12. Oyapock, Brasilien, Jolie, Flughafen.
+- **101 — Jack, schwer.** Do 3./Fr 4.12. Sankt Ilgen im Advent. Linsen,
+  Yunas Spiegel, Neles Zeichnung, Grill in der Kälte, Musikritual #3 mit
+  Verband. Letzter Satz des Buches.
+
+**Bestätigte Entscheidungen für den Block:**
+
+- Band 1 endet mit **K101**, nicht mit K100.
+- Die Schlussszene wird in den **Dezember** übersetzt (Nebel, Kälte,
+  warme Küche gegen kalte Luft). Das Bild der Bible bleibt, die
+  Jahreszeit ändert sich.
+- **Boonie-Pub (Hirschen) fällt aus Band 1** und wandert nach Band 2.
+  Boonie bekommt dafür das Finale (er singt falsch).
+- **K98 aus Theas Sicht** — einziger Fremd-POV des Blocks, zahlt K75 aus.
+- **Linsen** wandern von K100 nach K101.
+- Die drei unvollständigen Stücke an drei Orten bleiben liegen: offenes
+  Ende der Reihe, nicht dieses Bandes.
+
+Am Ende bleibt ein positives Gefühl.
 
 ## Laufende Listen
 
