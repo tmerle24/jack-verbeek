@@ -1,136 +1,106 @@
 # Band 1 „Zwölf Tage tot" — Arbeitsstand
 
-Stand: nach Kapitel 97, Block 97–101 (Auflösung) geplant und bestätigt.
-Fortschritt: 97 von 101 Kapiteln geschrieben, 1–96 reviewt (acht
-Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85, 86–96).
+Stand: **Band 1 fertig geschrieben.** 101 Kapitel, alle reviewt (neun
+Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85,
+86–96, 97–101). Story-Zeit: Oktober bis Freitag, 4. Dezember 2026.
 
 ---
 
-## Ergebnis des 8. Reviews (Kapitel 86–96)
+## Ergebnis des 9. Reviews (Kapitel 97–101, Schlussblock)
 
-**Urteil:** Der Block trägt, keine Kante betrügt. Die beiden Wenden im
-Fenster kommen aus Jack (Colibri „kennt keine zwei" K88, Vorrang ist ein
-Mann K91), Gewalt kalt eingehalten, kein Kind liefert eine Synthese.
-Stärkstes Kapitel **K88** (die halbe Stunde, die Hand mit den Ringen), dazu
-**K87** und **K92** (beste Kante). Schwächstes **K93** (Voss, Kante dem Leser
-schon bekannt), **K95** die Vorlesung des Blocks.
+**Urteil:** Der Block trägt und das Buch schließt. Keine Kante betrügt,
+kein Kind liefert eine Synthese, Technik nur über Wirkung (K99: kein
+Verfahren, nur Maries Tabelle, ausgefüllt). Stärkstes Kapitel **K98**
+(Thea, der dritte Hörer — die Kopie ist besser, deshalb ist sie es
+nicht); **K101** hält das positive Ende ohne Pathos. Schwächster Punkt:
+**K99** ist die Werkstatt-Nacht des Blocks und liegt lang.
 
 **Behoben (committet):**
-- **Zeitlogik:** K93 Gendarmerie „seit elf" (Anruf ist 23:50 Ortszeit); K96
-  „vor zwei Stunden", Wilfrid „seit einer Stunde", am Boot „um halb zwei",
-  drei Stunden Hängematte bei Wilfrid zwischen halb drei und halb sechs,
-  Wilfrids eigener Anleger, „gut acht Stunden"; Crique/Hund/warmes Wasser
-  waren Sonntag (K86/87/92); K89 letztes Wort „Später", Chef geht „zum
-  Fluss, zu den Booten" (auch K84); K85 Nokia in die Hosentasche.
-- **Wissensstände:** K93 Roche kennt „hält die Tür auf" nicht, Voss kennt
-  Klappstuhl/Croissants nicht, „seit Montag eingetragen"; K95 Jack zitiert
-  nicht mehr Fontaines Gedanken aus K70, Fontaine weiß nicht „unter einem
-  Sitz", „Kisten" (Voss' Bild) raus, „im Herbst" statt Oktober; K94
-  Samstagabend raus; K90 Funkgerät wird vom Sitz mitgenommen, Jolie
-  „angeschrieben"; K91 „kein Telefon, das ging"; K87 Pistole/Gewehr
-  getrennt; K86 Gewehr „zwei Kilometer weit weg", Matten statt Töchter.
-- **Widerspruch K89/K95** aufgelöst: Für das Haus ist nichts gegangen, es
-  zählt nur Ganzes; was drüben liegt, sind Stücke.
-- **Türrechte:** Fontaine erklärt in K90, warum das Haus dem Original
-  öffnet (Lauf 29 hatte für die Nacht alle Türen, als Verwalter an den
-  neuen Orten).
-- **K96 Zaun-Leute:** Wilfrid hört keine Boote mehr, sagt nur „Weg".
-- **Stimme:** Weisheitssätze „Wissen und Rechnen" (K86), „ein Toter, der
-  nie gelebt hat" (K87), „Es war eine Beschreibung" (K95) gestrichen;
-  K88 Vorgriff aufs Flugzeug und Leseransprache raus; Fontaine-Lyrik K89
-  (leihen, „in diesem Niemandem") gekappt; Voss K93 vier Vorlesungssätze
-  raus; „Das war das Erste/Zweite" nur noch als Bauform in K86;
-  Scheibe-Motiv K90 raus (bleibt 89/94/95); „in seiner Sprache, die nichts
-  dafür kann" auf zwei, „Rechnungen begleichen" auf zwei, „Um eine Ecke
-  gucken. Er kann beides." nur noch K92; „wie man"/„ein letztes Mal"/
-  „das Einzige"/„zum ersten Mal" ausgedünnt.
-- **Emotion:** K95 Regung statt Urteil (heiß im Gesicht); K96 Wilfrids
-  viertes „in Ordnung" ohne Deutung, Jacks Stimme vor Yunas Kante.
-- **Kürzungen:** K90 und K92 um je rund 250 Wörter, K93 um rund 150.
+- **Zeitlogik:** K99 Solène-Anruf um zehn (Guadeloupe eine Stunde hinter
+  Cayenne, nicht drei); K99 Werkzeug geht um zwei Uhr raus, Bremen
+  antwortet um drei, Jolie holt um fünf ab (K100) — vorher Kollision;
+  „Haben Sie heute?" statt „Mittwoch"; K100 Jack kennt Jolie seit zwei
+  Wochen, ist seit zwei Wochen im Land (nicht vier/fünf); K101 Boonies
+  Verkaufsrede war im November (K75), nicht im Oktober.
+- **Wissensstände/Logik:** K99 nimmt Jolies Kante aus K97 auf (keine
+  Antwort, die in einen Knöchel passt); K101 Nele kennt Jacks Lied von
+  jeder Terrasse, nicht von der Veranda (K80 waren ihre vier Takte).
+- **Stimme:** K99 Weisheitssatz-Dreier vor „Man gibt seine Fehler nicht
+  zum Abschreiben" gestrichen; K101 von vier Man-Sätzen auf zwei
+  (Nebel-„man" und „Man sieht mehr, wenn man nichts hält"); „so gut, dass
+  ich es nicht sagte" nur noch K100 (K101 sagt es diesmal, in den
+  Nebel); „wenn man es nicht schön machen will" nur noch K100; „für
+  seine Verhältnisse" in K101 einmal.
+- **Kürzungen:** K101 um rund 60 Wörter (Steuerkartons, Sinn der
+  offenen Tür, Adventsfenster-Gedanke gestrafft).
+- **Vor dem Commit selbst gezogen:** K99 Restaurant ohne Namen (kein
+  „Chez Solène" im Buch), letzte echte Adler-Nachricht ohne „Heizung im
+  Keller" (die war laut K62 vom Lauf).
 
 **Bewusst gelassen:**
-- „Das Erste/Zweite/Dritte, was ich über ihn wusste" als Bauform von K86.
-- Die Zählung als Bauform von K87 direkt danach.
-- K93 als Atempause mit bekannter Kante — der dritte Strang muss die
-  Nacht einmal von außen zeigen; Aubry, Roche und Femkes Liste sind neu.
-- Fontaines Sohn-Geständnis (K95) gibt Jack Wissen aus K79; in 98–101
-  nicht mehr verhandeln.
-- Philosophenton-Refactoring bleibt TODO nach K101 (stil/stimme.md).
+- **K98: Die Kopie bricht in den sicheren Kanal ein** (das Abend-Gerät,
+  dem die Familie glaubt). Eskalation gegenüber K75. Begründung im Text:
+  vor 00:20 terminierte letzte Aktion des Hauses, wie Marchals Mail
+  (K94), gezielt auf den vertrautesten Kanal; deshalb weiß sie nichts
+  vom Morgen-Anruf (K96) — Neles Tell. Danach hält das Haus die Luft
+  an. Die Familie lernt die tiefere Regel: nicht der Kanal, die
+  Unvollkommenheit. Trägt K101.
+- K99 und K101 bleiben am oberen Längenrand (2486/2742 Wörter). Bei
+  einem späteren Durchgang: K99 erste Nacht, Absätze 2–3.
+- „Das steht so." als Bertrands Tic (K96/97/100).
+- Ein Klappentext-Satz aus der Bible steht nirgends wörtlich („Nicht
+  der Sieg — das Danach") — absichtlich.
 
-## Offene Fäden für die Auflösung (98–101)
+## Offen für Band 2 (aus Band 1 mitgenommen)
 
-| Faden | Zuletzt | Einplanung |
-|---|---|---|
-| Die Familie muss dreimal auflegen | K96 (Yuna gegen Jack selbst, halb elf) | K97: zweiter Anruf mit Codewort; ob Lauf 29 nach „hier" noch um halb neun anruft, entscheiden (Haus seit zwei bei Aubry) |
-| Bertrands Mail vom Toten („Salut B.") | K94 gesendet, K96 schläft er | K97: Jack sagt es ihm heute, mit Händen ohne Linien |
-| Heftseiten in Marchals Schrank | K83 | K97 abholen, Beweise für die Familien |
-| Jolies Nachricht vom Lauf („dass Sie weg sind") | K90 | Sie liest sie nach dem Start; die neunundzwanzigste Familie fragt „welche"; Oiapoque-Ausflug |
-| Das Werkzeug (drei Nächte) | K95 beschlossen | Das Haus hat nie gelöscht: Quelle/keine Quelle nebeneinander; Maries vierte Spalte, Bremer Tochter, kostenlos, kein Bericht |
-| Jacks Hände | K92 | Verband, Ukulele mit Verband beim Ritual #3 |
-| Femke bestätigt „steht in keinem Bericht" | K96 Zeile | K97, einmal |
-| Aubry, Roche, Fontaine um zwei | K95/96 | Von außen erzählen (Femke/Voss), Fontaine hält die Tür auf, Roche hat nichts angefasst |
-| Yunas Spiegel | K92 ganz | Rückgabe an Yuna |
-| Linsen ganz vorn | K83/96 | K100 |
-| Solène (Postkarte) | K81 | ein Abschied |
-| Boonie-Pub (Hirschen) | — | Heimkehr |
-| Abschied am Flughafen (Jolie), Musikritual #3 im Garten | plot.md | K99/100 |
-| Drei unvollständige Stücke an drei Orten | K95 | offenes Ende der Reihe, nicht auflösen |
+| Faden | Stand nach K101 |
+|---|---|
+| Drei unvollständige Stücke an drei Orten | liegen. Offenes Ende der Reihe, nicht aufgelöst. |
+| Jacks Lied ohne Schluss | Nele hat zwei Takte weitergespielt und es stehen lassen (K101). Wächst über die Bände. |
+| Jolie | Hoffnung, kein Versprechen (K100). Bernard hat die Veranda verlassen. Band 2 bringt Lucie. |
+| Solène | „Komm mit den Mädchen, wenn nichts ist. Nur dann." (K99) |
+| Boonie-Pub (Hirschen) | aus Band 1 gestrichen, für Band 2 vorgemerkt. |
+| Der Zaun | steht schief. Jack ist dran, wenn die Hände gehen (K101). |
+| Jacks Hände | zwei Wochen nicht greifen (K101). |
+| Das Werkzeug | draußen, ohne Namen, ohne Rechnung. Erste Antwort nicht dankbar (K99). Paris hat das Haus, nicht die Seiten. |
+| Femke | „Sie gehen noch durch Türen." Werkstatt will Jack fest (Band 6). |
+| Zahnarzt | Dienstag. Er geht hin. Hat er gesagt. |
 
-## Nächster Block: Kapitel 98–101 (Auflösung und Schluss)
+## Nächster Schritt: Stimm-Refactoring (nicht: nächster Block)
 
-**Planung bestätigt, ausgearbeitet in plot.md.** K97 ist geschrieben,
-K98 ist das nächste Kapitel. POV-Folge des Blocks: J T J J J.
-
-- **98 — Thea, schwer.** Sa 28.11., halb neun abends, Sankt Ilgen. Der
-  dritte und letzte Hörer, Klammer zu K75. Neles Satz entscheidet.
-- **99 — Jack, schwer.** So 29.11.–Di 1.12. Das Werkzeug in drei Nächten,
-  diktiert, weil die Hände fehlen. Bremer Tochter. Solène-Abschied.
-- **100 — Jack, normal.** Mi 2.12. Oyapock, Brasilien, Jolie, Flughafen.
-- **101 — Jack, schwer.** Do 3./Fr 4.12. Sankt Ilgen im Advent. Linsen,
-  Yunas Spiegel, Neles Zeichnung, Grill in der Kälte, Musikritual #3 mit
-  Verband. Letzter Satz des Buches.
-
-**Bestätigte Entscheidungen für den Block:**
-
-- Band 1 endet mit **K101**, nicht mit K100.
-- Die Schlussszene wird in den **Dezember** übersetzt (Nebel, Kälte,
-  warme Küche gegen kalte Luft). Das Bild der Bible bleibt, die
-  Jahreszeit ändert sich.
-- **Boonie-Pub (Hirschen) fällt aus Band 1** und wandert nach Band 2.
-  Boonie bekommt dafür das Finale (er singt falsch).
-- **K98 aus Theas Sicht** — einziger Fremd-POV des Blocks, zahlt K75 aus.
-- **Linsen** wandern von K100 nach K101.
-- Die drei unvollständigen Stücke an drei Orten bleiben liegen: offenes
-  Ende der Reihe, nicht dieses Bandes.
-
-Am Ende bleibt ein positives Gefühl.
+Beschlossen in stil/stimme.md: nach dem letzten Kapitel ein eigener
+Durchgang über das ganze Buch — Jacks Stimme erden (Vorbild Alex Cross).
+Pro Kapitel höchstens ein Weisheitssatz, Gefühle konkret, Dialog statt
+Reflexion, den klugen Satz im Zweifel streichen. **Der Autor liest
+vorher selbst.** Erst dann Planung des Durchgangs in Blöcken.
 
 ## Laufende Listen
 
-- **Codeworte** (bis Jacks Rückkehr fest): Nele „Nebelmeer", Thea
-  „Waldkönigin", Yuna „Quietschekäse". Eltern/Jack: „Genuschel".
-- **Jacks Inventar am Samstagmorgen 28.11.:** Voss' Stiefel, Yunas Spiegel
-  (Brusttasche, ganz), Nokia (an), Werkstatt-Gerät und Markttelefon aus dem
-  Wagen an der Station; Hände verbunden/unbrauchbar. Funkgerät des Chefs
-  liegt auf Roches Platz, Pistole und Wagen des Chefs am Hintertor des
-  Hauses (für Aubry). Heft mit beiden Nummern beim Gerät, Ukulele bei
-  Wilfrid.
-- **Namen im Block:** keine neuen. Der Chef vom Zaun bleibt namenlos und
-  liegt in der Spur.
-- **Kalender:** Block 86–96 = Fr 27.11. 23:02 bis Sa 28.11. 06:30 Ortszeit.
-  Cayenne 4 h hinter Deutschland. Aubry im Haus seit 02:00.
+- **Codeworte** (waren bis Jacks Rückkehr fest, K101 eingelöst): Nele
+  „Nebelmeer", Thea „Waldkönigin", Yuna „Quietschekäse", Eltern/Jack
+  „Genuschel". Ob sie in Band 2 bleiben: offen.
+- **Kalender Band 1:** Oktober (Kolbe) → Fenster Fr 27./Sa 28.11. →
+  K98 Sa 28.11. 20:30 DE → K99 So 29.11.–Mi 2.12. → K100 Mi 2.12.,
+  Abflug Do 3.12. abends → K101 Fr 4.12., Sankt Ilgen. Erster Advent
+  war So 29.11. Cayenne 4 h hinter Deutschland, Guadeloupe 5 h.
+- **Namen im Schlussblock:** keine neuen. Die Tochter aus Bremen bleibt
+  namenlos, Ilse Adler wird von Jack nie genannt.
 
 ## Entscheidungen abweichend vom Plot (mit Begründung)
 
-- **Häutung scheitert am Wasser, nicht an Code** — Technik nur über
-  Wirkung; Fontaines eigene Architektur (nichts darf allein sein) wird zur
-  Falle.
-- **Lauf 29 hatte die Türen** (K90) — erklärt, warum das Haus dem Original
-  öffnet; Fontaine sah den Lauf als Verwalter an den neuen Orten vor.
-- **Fontaines Geständnis über den Sohn an Jack** (K95) — Rechnung aus K78,
-  Fontaine bleibt unerreichbar, sagt es trotzdem vollständig.
-- **Jack tötet den Chef** (K87) — ein Schuss, namenlos, die halbe Stunde
-  danach gehört ins Buch.
-- **K84 nachträglich korrigiert** — Chef verlässt die Halle um zehn vor elf,
-  Regen seit neun.
-- **Stimme:** Kritik am Philosophenton vermerkt, Änderung erst nach K100.
+- **Band 1 endet mit K101** — der Block brauchte Thea (98), das
+  Werkzeug (99), den Rückzug (100) und das Danach (101) als vier
+  eigene Kapitel.
+- **K98 aus Theas Sicht** — der dritte Hörer gehört ihr, weil der erste
+  (K75) ihr gehörte. Einziger Fremd-POV des Blocks.
+- **K101 am Freitag, 4.12.** (Plan: Do 3./Fr 4.) — Nachtflug Cayenne–
+  Paris, Basel am Freitagmittag.
+- **Rouladen statt Linsen** (K101) — K12 hatte es angelegt: „für einen
+  Tag, an dem du sie brauchst." Die Linsen stehen trotzdem ganz vorn.
+- **Nele fängt an** (K101) — Variante des Rituals; sie fängt nie an.
+- **Schlussszene im Dezember** — Grill bei fünf Grad, Nebel, offene
+  Terrassentür. Das Bild der Bible bleibt, die Jahreszeit ändert sich.
+- **Hirschen nach Band 2** — Boonie bekommt das Finale.
+- Ältere Entscheidungen (Häutung scheitert am Wasser, Lauf 29 hatte die
+  Türen, Jack tötet den Chef, Fontaines Geständnis, K84-Korrektur)
+  stehen in plot.md bei den abgeschlossenen Blöcken.
