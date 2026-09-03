@@ -76,7 +76,68 @@ Start um Mitternacht (K92), Fenster zu 00:20 (K94), Aubry um zwei. POV
 J J J F J J J V J J J. Die Wenden im Fenster kommen aus Jack: Colibri „kennt
 keine zwei" (K88/89) und die Rangfolge am Strang (K91). Apnoe zahlt in K87.
 
-Geschrieben: K86–K96, alle elf Kapitel des Blocks, ungereviewt. Nächstes: Review über den ganzen Block (8. Kaltleser-Durchgang), dann Korrekturen, dann Arbeitsstand und Vormerkungen für 97–100.
+Geschrieben: K86–K96, alle elf Kapitel. 8. Kaltleser-Durchgang liegt vor
+(zwei unabhängige Leser plus Kontinuitätspass). Nächstes: Korrekturen
+einarbeiten, dann Arbeitsstand und Vormerkungen für 97–100.
+
+### 8. Review (Kapitel 86–96) — Befunde, Korrekturen noch offen
+
+**Urteil:** Der Block trägt, keine Kante betrügt. Stärkstes Kapitel K88 (die
+halbe Stunde, die Hand mit den Ringen), dazu K87 und K92 (beste Kante).
+Schwächstes K93 (Recap, Kante dem Leser schon bekannt), K95 die Vorlesung
+des Blocks. Gewalt kalt eingehalten. Die zwei Wenden aus Jack (Colibri
+„kennt keine zwei", Vorrang ist ein Mann) sind für Laien nachvollziehbar.
+
+**Logikbrüche (zu beheben):**
+- K93: Aubry sagt um 23:50 Ortszeit „seit Mitternacht"; Roche kann „hält
+  die Tür auf" nicht kennen (Satz fällt erst K84, Roche ging K79); Voss
+  kennt weder Klappstuhl noch Croissants; „im Kreis seit Montag" → seit
+  Montag eingetragen.
+- K96: Zaun-Leute „vor zwölf" mit Booten weg widerspricht K91/K95 (Funk
+  bis Mitternacht); Wilfrid kann sie oberhalb der Crique nicht hören.
+  Wilfrid „seit drei Stunden" → eine; Jack am Boot „um ein Uhr" → halb
+  zwei; 02:00 bis 05:30 unerklärt auf dem Fluss → Veranda/Hängematte;
+  Anleger ist Wilfrids eigener (K83/85), nicht „unterhalb der Station".
+- K86: „zwanzig Jahre … mit zwei Mädchen auf einer Matte" (Nele ist 13).
+- K86/87/92: Crique, Hund, warmes Wasser waren Sonntag (K74), nicht Samstag.
+- K89: „das Letzte, was gesprochen wurde" war „Später", nicht „geordnet";
+  Chef geht „an den Fluss, zu den Booten" (Crique-Posten sind innen).
+- K95: Jack zitiert Fontaines Gedanken aus K70 („der Einzige … verstanden"),
+  nie gesagt; Fontaine kann „unter einem Sitz" nicht wissen; „Kisten" ist
+  Voss' Bild (K73), weder Fontaine noch Jack kennen es; „im Oktober in
+  Karlsruhe" → im Herbst. Widerspruch K89 „was nicht ganz ging, ging nicht"
+  vs. K95 „liegt dort, unvollständig" → in K95 auflösen (das Haus zählt
+  nur Ganzes; Stücke liegen trotzdem dort).
+- K94: „Samstagabend im November" — Jack kennt den Wochentag nicht.
+- K90: Funkgerät ohne Übergang am Gürtel (K88 lag es auf dem Sitz); „gewählt"
+  → geschrieben; Türrechte des Laufs mit einem Fontaine-Satz erklären.
+- K91 „kein Telefon" → keins, das ging; K87 Pistole „beide Hände, wie
+  beigebracht" (gelernt war das Gewehr); K86 „Viertelstunde flussabwärts"
+  → zwei Kilometer; K96 „neun Stunden" → acht; K85 Nokia einstecken.
+- K88: Vorgriff „Tage später, in einem Flugzeug" und Leseransprache raus.
+
+**Stimme und Manierismen:** „wie man" 29× im Block (K86 6×), „Ein Mann,
+der" 14×, „Nicht X. Y." 18×, „Das war das Erste/Zweite" 7× (K86 als
+Bauform behalten, in K90/91/92 streichen), „vollständig" 17× (K88 6×),
+„das Einzige" 13×, „Ich weiß nicht(, warum)" 10×, „in seiner Sprache, die
+nichts dafür kann" 5×, „zum ersten Mal" 14× (K95 4×), „Rechnungen
+begleichen" 3×, „auf keiner Karte blinken" 3×, „Hügel aus Beton" 3×,
+„ein letztes Mal" 3×. Schlimmste Weisheitssätze: K86 „Wissen und Rechnen",
+K87 „ein Toter, der nie gelebt hat", K95 „Es war eine Beschreibung".
+Fontaine zu lyrisch K89 (leihen-Absatz, „in diesem Niemandem"). Voss K93
+vier Vorlesungssätze. Scheibe-Motiv viermal (89/90/94/95) → K90 raus.
+
+**Emotion:** Wilfrids viertes „in Ordnung" wird totgedeutet; K95 Jack
+antwortet auf den Sohn mit Urteil statt Regung; Yuna-Kante braucht eine
+halbe Sekunde von Jacks Gesicht.
+
+**Kürzungen:** K90 (1883) und K92 (1807) um je ~250 Wörter, K93 und K95 um
+je ~150.
+
+**Vormerken für 97–100:** Lauf 29s angekündigter Anruf halb neun — nach
+„hier" (K94) klären, ob das Haus noch anruft. Fontaines Marchal-Notizen
+(K94) in die Bible. Femke bestätigt einmal „steht in keinem Bericht".
+
 
 Korrektur an K84 (Zeitlogik, beim Schreiben von K89 gefunden): Der Chef vom
 Zaun verlässt die Halle jetzt um zehn vor elf (vorher stand er um 23:31 noch
