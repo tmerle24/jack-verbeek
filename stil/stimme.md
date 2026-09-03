@@ -37,9 +37,10 @@ wie ein Mensch (Vorbild Alex Cross). Weisheitssätze, „Man"-Sätze und
 Abstraktionen über das Leben sind zu dicht; das ist anstrengend zu lesen.
 So denkt man gelegentlich, nicht die ganze Zeit.
 
-**Entscheidung:** Jetzt nichts ändern, die Stimme bis Kapitel 100 wie
-bisher halten, damit das Buch einheitlich bleibt. Nach dem letzten
-Kapitel ein Refactoring über das gesamte Buch in einem eigenen Durchgang:
+**Entscheidung:** Jetzt nichts ändern, die Stimme bis zum letzten
+Kapitel (101) wie bisher halten, damit das Buch einheitlich bleibt.
+**Stand Dezember 2026: Band 1 ist fertig, der Durchgang ist jetzt fällig.**
+Ein Refactoring über das gesamte Buch in einem eigenen Durchgang:
 pro Kapitel höchstens ein Weisheitssatz, Gefühle konkret (Hunger,
 Müdigkeit, Schweiß, ein Blick aufs Display), Dialog statt Reflexion,
 den klugen Satz im Zweifel streichen. Der Autor liest vorher selbst.
