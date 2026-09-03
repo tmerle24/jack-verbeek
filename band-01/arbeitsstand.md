@@ -1,105 +1,115 @@
 # Band 1 „Zwölf Tage tot" — Arbeitsstand
 
-Stand: nach Kapitel 85 (Ende Block 69–85) und dem siebten Kaltleser-Review.
-Fortschritt: 85 von ~100 Kapiteln geschrieben, alle reviewt (sieben
-Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85).
+Stand: nach Kapitel 96 (Ende Block 86–96, Finale) und dem achten Kaltleser-Review.
+Fortschritt: 96 von ~100 Kapiteln geschrieben, alle reviewt (acht
+Kaltleser-Durchgänge: 1–10 zweimal, 11–21, 22–35, 36–50, 51–68, 69–85, 86–96).
 
 ---
 
-## Ergebnis des 7. Reviews (Kapitel 69–85)
+## Ergebnis des 8. Reviews (Kapitel 86–96)
 
-**Urteil:** Der Block trägt. Die drei Erkenntnisse kommen aus Jack (Körper
-K74, Lückenliste K77, Deduktion K78), die Heimatfront-Falle K70→K75 schlägt
-sauber ein, Roches Bruch ist über K79/81/82 vorbereitet und eingelöst, keine
-Kante betrügt, kein Faden verpufft. Stärkstes Kapitel **K79** (Fontaines
-Prüfung, „Die Wahrheit hatte einen Flur", Roches Nein), dazu **K75** (Thea)
-und **K82** (Roche in der Bar). Schwächstes **K80** (vier Szenen, blasseste
-Kante), knapp dahinter **K73** (Architektur-Erklärung im Voss-POV).
+**Urteil:** Der Block trägt, keine Kante betrügt. Die beiden Wenden im
+Fenster kommen aus Jack (Colibri „kennt keine zwei" K88, Vorrang ist ein
+Mann K91), Gewalt kalt eingehalten, kein Kind liefert eine Synthese.
+Stärkstes Kapitel **K88** (die halbe Stunde, die Hand mit den Ringen), dazu
+**K87** und **K92** (beste Kante). Schwächstes **K93** (Voss, Kante dem Leser
+schon bekannt), **K95** die Vorlesung des Blocks.
 
 **Behoben (committet):**
-- **Kontinuität:** Tagesabstände (K79 „fünf Tage", K82 „zwei Abende
-  später", K84 „am Dienstag"), Zaun-Leute auf elf gesamt (K84: fünf/vier/zwei),
-  Listenarithmetik K84 (achtzehn + neun + Lauf 29), Ibis-Richtung K77,
-  Theas „ein Monat" statt sechs Wochen (K75), Maries Ordner „im Herbst"
-  (K80), Encore-Chronologie K79, Funkstille K72 zwanzig Minuten, Rakete
-  „vor einer Woche" K83, Markttelefon Dienstag gekauft (K78), Packliste K80,
-  Roches Alter aus Jacks Mund „über fünfzig" (K81), Jack jagte „mit Anfang
-  zwanzig" (K85, Bible), Eltern-Wohnort (K75, Bible).
-- **Wissensstände:** Jack kennt nur das Magazin-Zitat (K78 umgestellt);
-  Frau Adler bei Jack mit Quelle (Femke, K77); Voss' „Er weiß, wo Sie
-  schlafen" durch Jacks Meldung an Femke gedeckt (K80).
-- **Samstagsanruf:** Lücke in K74 geschlossen (Gerät ohne Netz, Yunas
-  Ausnahme im Heft).
-- **POV-Leaks:** K73 ohne Jacks „Bedauern auf Vorrat" und Leitungs-Beschluss,
-  ohne Fontaines Raketen-Formel; K84 „seit Roche gegangen war"; K75/K79
-  „klein und alles" nur noch bei Fontaine.
-- **Manierismen:** Man-Satz-Paare (K70, K73, K78), „Das Erste"-Häufung K79,
-  dritte „Verbeek hätte gelacht"-Nennung K84 gestrichen, Poesie-Budget K71/K74
-  reduziert, Zwei-Finger/„wohnte hier"/„länger als nötig"/Bank-Motiv gekappt,
-  Falter-Inventar in K78 raus, „Nicht X. Y."-Figur in K69/K77 aufgelöst.
-- **K80** von 2210 auf rund 2100 Wörter gekürzt (bleibt der längste Text des Blocks).
-- **Gewehr-Setzung K85:** „glaubte dabei" statt „wusste", damit K88 frei ist.
+- **Zeitlogik:** K93 Gendarmerie „seit elf" (Anruf ist 23:50 Ortszeit); K96
+  „vor zwei Stunden", Wilfrid „seit einer Stunde", am Boot „um halb zwei",
+  drei Stunden Hängematte bei Wilfrid zwischen halb drei und halb sechs,
+  Wilfrids eigener Anleger, „gut acht Stunden"; Crique/Hund/warmes Wasser
+  waren Sonntag (K86/87/92); K89 letztes Wort „Später", Chef geht „zum
+  Fluss, zu den Booten" (auch K84); K85 Nokia in die Hosentasche.
+- **Wissensstände:** K93 Roche kennt „hält die Tür auf" nicht, Voss kennt
+  Klappstuhl/Croissants nicht, „seit Montag eingetragen"; K95 Jack zitiert
+  nicht mehr Fontaines Gedanken aus K70, Fontaine weiß nicht „unter einem
+  Sitz", „Kisten" (Voss' Bild) raus, „im Herbst" statt Oktober; K94
+  Samstagabend raus; K90 Funkgerät wird vom Sitz mitgenommen, Jolie
+  „angeschrieben"; K91 „kein Telefon, das ging"; K87 Pistole/Gewehr
+  getrennt; K86 Gewehr „zwei Kilometer weit weg", Matten statt Töchter.
+- **Widerspruch K89/K95** aufgelöst: Für das Haus ist nichts gegangen, es
+  zählt nur Ganzes; was drüben liegt, sind Stücke.
+- **Türrechte:** Fontaine erklärt in K90, warum das Haus dem Original
+  öffnet (Lauf 29 hatte für die Nacht alle Türen, als Verwalter an den
+  neuen Orten).
+- **K96 Zaun-Leute:** Wilfrid hört keine Boote mehr, sagt nur „Weg".
+- **Stimme:** Weisheitssätze „Wissen und Rechnen" (K86), „ein Toter, der
+  nie gelebt hat" (K87), „Es war eine Beschreibung" (K95) gestrichen;
+  K88 Vorgriff aufs Flugzeug und Leseransprache raus; Fontaine-Lyrik K89
+  (leihen, „in diesem Niemandem") gekappt; Voss K93 vier Vorlesungssätze
+  raus; „Das war das Erste/Zweite" nur noch als Bauform in K86;
+  Scheibe-Motiv K90 raus (bleibt 89/94/95); „in seiner Sprache, die nichts
+  dafür kann" auf zwei, „Rechnungen begleichen" auf zwei, „Um eine Ecke
+  gucken. Er kann beides." nur noch K92; „wie man"/„ein letztes Mal"/
+  „das Einzige"/„zum ersten Mal" ausgedünnt.
+- **Emotion:** K95 Regung statt Urteil (heiß im Gesicht); K96 Wilfrids
+  viertes „in Ordnung" ohne Deutung, Jacks Stimme vor Yunas Kante.
+- **Kürzungen:** K90 und K92 um je rund 250 Wörter, K93 um rund 150.
 
 **Bewusst gelassen:**
-- K72 Wasserturm-Erklärung (Raumfahrt, nicht der Fall) und K73 Voss' Rede an
-  Aubry (plot-nötig; einziger Vorlesungsmoment).
-- K81 Hai-Gefahr ohne Kosten für Jack (Wilfrids Schnitt trägt sie).
-- Die Grundsatzkritik an Jacks Philosophenton ist **TODO fürs Buchende**
-  (stil/stimme.md), nicht in diesem Block behandelt.
+- „Das Erste/Zweite/Dritte, was ich über ihn wusste" als Bauform von K86.
+- Die Zählung als Bauform von K87 direkt danach.
+- K93 als Atempause mit bekannter Kante — der dritte Strang muss die
+  Nacht einmal von außen zeigen; Aubry, Roche und Femkes Liste sind neu.
+- Fontaines Sohn-Geständnis (K95) gibt Jack Wissen aus K79; in 97–100
+  nicht mehr verhandeln.
+- Philosophenton-Refactoring bleibt TODO nach K100 (stil/stimme.md).
 
-## Offene Fäden für das Finale (86–100)
+## Offene Fäden für die Auflösung (97–100)
 
 | Faden | Zuletzt | Einplanung |
 |---|---|---|
-| Der Mann auf der Piste („Er heißt nicht Fontaine") | K82/85 | K86–88, Waffenszene im Regen; die Waffe kommt von ihm, Wilfrids Gewehr liegt in der Pirogue |
-| Voss' „rein" / Paris um zwei / Aubry | K73/74/83 | K90–96; Roche geht um zwei zu Aubry |
-| Heftseiten in Marchals Schrank (Station Kourou) | K83 | Abholen im Finale/Auflösung; Beweise für die Familien |
-| Marchals letzte Mail an Bertrand 00:20 | K84 | Bertrands Kummer, Auflösung |
-| Mathieu an der gemeinsamen Leitung | K80/83 | Finale: Helfer oder Weg zu Jolie (Entscheidung Planung) |
-| Jolie, zweiter Turm | K80/81/83 | Finale-Blick, Abend danach (Kandidat Oiapoque zu zweit), Abschied am Flughafen |
-| Fontaine hält Aubry die Tür auf; Zaun-Leute über den Maroni | K84 | K96 |
-| Lauf 29 ruft morgen um halb neun die Küche an | K84 | Finale/Auflösung: die Familie muss dreimal auflegen |
-| Frau Adler / Bremer Tochter „welche" | K80/84 | Werkzeug K97–100 |
-| Maries vierte Spalte „Woran erkannt" | K80 | Werkzeug K97–100, Marie als Partnerin |
-| Linsen ganz vorn | K83 | K100 |
-| Zahnarztspiegel | K85 (über dem Herzen) | Finale nach Bedarf |
-| Solène | K81 (Postkarte) | ein Abschied in der Auflösung |
-| Boonie-Pub (Hirschen) | — | Heimkehr, K97–100 |
-| Oiapoque-Ausflug, Kaw, Goldmine, Brasilien | plot.md | Auflösung, als Rückzug im Wortsinn |
-| Wilfrid wartet, bis die Rakete weg ist | K85 | Finale |
+| Die Familie muss dreimal auflegen | K96 (Yuna gegen Jack selbst, halb elf) | K97: zweiter Anruf mit Codewort; ob Lauf 29 nach „hier" noch um halb neun anruft, entscheiden (Haus seit zwei bei Aubry) |
+| Bertrands Mail vom Toten („Salut B.") | K94 gesendet, K96 schläft er | K97: Jack sagt es ihm heute, mit Händen ohne Linien |
+| Heftseiten in Marchals Schrank | K83 | K97 abholen, Beweise für die Familien |
+| Jolies Nachricht vom Lauf („dass Sie weg sind") | K90 | Sie liest sie nach dem Start; die neunundzwanzigste Familie fragt „welche"; Oiapoque-Ausflug |
+| Das Werkzeug (drei Nächte) | K95 beschlossen | Das Haus hat nie gelöscht: Quelle/keine Quelle nebeneinander; Maries vierte Spalte, Bremer Tochter, kostenlos, kein Bericht |
+| Jacks Hände | K92 | Verband, Ukulele mit Verband beim Ritual #3 |
+| Femke bestätigt „steht in keinem Bericht" | K96 Zeile | K97, einmal |
+| Aubry, Roche, Fontaine um zwei | K95/96 | Von außen erzählen (Femke/Voss), Fontaine hält die Tür auf, Roche hat nichts angefasst |
+| Yunas Spiegel | K92 ganz | Rückgabe an Yuna |
+| Linsen ganz vorn | K83/96 | K100 |
+| Solène (Postkarte) | K81 | ein Abschied |
+| Boonie-Pub (Hirschen) | — | Heimkehr |
+| Abschied am Flughafen (Jolie), Musikritual #3 im Garten | plot.md | K99/100 |
+| Drei unvollständige Stücke an drei Orten | K95 | offenes Ende der Reihe, nicht auflösen |
 
-## Nächster Block: Kapitel 86–96 (Finale)
+## Nächster Block: Kapitel 97–100 (Auflösung)
 
-Groblinie (plot.md): 86–88 Piste im Regen, Waffenszene ~88; 89 Jack eine
-halbe Stunde nicht ansprechbar; 90–95 das Fenster 23:41–00:20; 96 das System
-liegt dreifach, Löschen unmöglich. **Erst Blockplanung vorlegen, dann
-schreiben.** Auflage aus dem 7. Review: Mindestens eine Wende im Fenster muss
-aus Jacks Lückenliste kommen, nicht von einem Informanten (Roche, Mathieu,
-Wilfrid liefern in 80–85 fast alles Taktische). Zeitlogik klären: Waffenszene
-vor 23:41, halbe Stunde, Eintritt ins Haus innerhalb des Fensters.
+Groblinie (plot.md): drei Nächte, das Werkzeug für die Familien, kostenlos,
+kein Bericht; Oiapoque-Ausflug mit Jolie als Rückzug im Wortsinn; Abschied
+am Flughafen; K100 Garten, Grill, Musikritual #3, Nele zeigt niemandem ihre
+Zeichnung, Boonie singt falsch, Yuna tanzt. **Erst Blockplanung vorlegen,
+dann schreiben.** Am Ende bleibt ein positives Gefühl.
 
 ## Laufende Listen
 
 - **Codeworte** (bis Jacks Rückkehr fest): Nele „Nebelmeer", Thea
   „Waldkönigin", Yuna „Quietschekäse". Eltern/Jack: „Genuschel".
-- **Jacks Inventar in der Nacht 27./28.:** Voss' Stiefel, Yunas Spiegel
-  (Brusttasche), sonst nichts. Werkstatt-Gerät und Markttelefon im Wagen an
-  der Station, Nokia aus, Heft mit beiden Nummern beim Gerät, Ukulele bei
+- **Jacks Inventar am Samstagmorgen 28.11.:** Voss' Stiefel, Yunas Spiegel
+  (Brusttasche, ganz), Nokia (an), Werkstatt-Gerät und Markttelefon aus dem
+  Wagen an der Station; Hände verbunden/unbrauchbar. Funkgerät des Chefs
+  liegt auf Roches Platz, Pistole und Wagen des Chefs am Hintertor des
+  Hauses (für Aubry). Heft mit beiden Nummern beim Gerät, Ukulele bei
   Wilfrid.
-- **Neue Namen im Block** (alle in Bible/plot): Wilfrid, Loïc Marchal, Aubry,
-  Jolie, Mathieu, „Lemaire" (Deckname), die Leute vom Zaun (Chef namenlos).
-- **Kalender:** Block 69–85 = Mo 16.11.–Fr 27.11. (Wochentage geprüft).
-  Fenster 23:41–00:20 Ortszeit. Cayenne 4 h hinter Deutschland.
+- **Namen im Block:** keine neuen. Der Chef vom Zaun bleibt namenlos und
+  liegt in der Spur.
+- **Kalender:** Block 86–96 = Fr 27.11. 23:02 bis Sa 28.11. 06:30 Ortszeit.
+  Cayenne 4 h hinter Deutschland. Aubry im Haus seit 02:00.
 
 ## Entscheidungen abweichend vom Plot (mit Begründung)
 
-- **Thea als POV (K75)** — Heimatfront braucht Erwachsene, nicht Kinder;
-  beantwortet den Bible-Punkt „Wie viel weiß Thea" (nichts Offizielles, aber
-  die Regeln).
-- **Roches Bruch on-page in K79** (Fontaine-POV) statt als Überraschung —
-  dramatische Ironie, Jack trifft ihn erst K81.
-- **Voss' „rein" (K73)** und Küsten-Schlupflücke (K80) — Voss bricht seine
-  eigene Regel vier; prägt ihn für die Reihe.
-- **Piste statt Wasser (K85)** — Roches Dienstplan macht die Crique
-  unmöglich; Apnoe-Setzung (K77) bleibt für das Finale offen.
+- **Häutung scheitert am Wasser, nicht an Code** — Technik nur über
+  Wirkung; Fontaines eigene Architektur (nichts darf allein sein) wird zur
+  Falle.
+- **Lauf 29 hatte die Türen** (K90) — erklärt, warum das Haus dem Original
+  öffnet; Fontaine sah den Lauf als Verwalter an den neuen Orten vor.
+- **Fontaines Geständnis über den Sohn an Jack** (K95) — Rechnung aus K78,
+  Fontaine bleibt unerreichbar, sagt es trotzdem vollständig.
+- **Jack tötet den Chef** (K87) — ein Schuss, namenlos, die halbe Stunde
+  danach gehört ins Buch.
+- **K84 nachträglich korrigiert** — Chef verlässt die Halle um zehn vor elf,
+  Regen seit neun.
 - **Stimme:** Kritik am Philosophenton vermerkt, Änderung erst nach K100.
