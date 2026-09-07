@@ -1,4 +1,16 @@
-# Stimme v2 — Testfassung (nicht gültig, bis der Autor sie bestätigt)
+# Stimme v2 — Testprotokoll (übernommen)
+
+**Übernommen in stil/stimme.md am 8. September 2026.** Der Autor hat
+K69 und K77 in v2 gelesen und bestätigt: die beiden besten Kapitel des
+Buches bisher. Diese Datei bleibt als Protokoll des Tests — Diagnose,
+Messwerte, die Entstehung der Regeln. Gültig ist stimme.md.
+
+Entscheidung zu „Stimmen trennen": angenommen. Fontaine darf
+philosophieren, nur über den eigenen Fall, und jede seiner Erklärungen
+muss einleuchten — dort wird beim Durchgang am schärfsten geprüft.
+
+---
+
 
 Stand: September 2026, nach Abschluss von Band 1 (101 Kapitel).
 Gilt nur für den Test an ein bis zwei Kapiteln. `stil/stimme.md` bleibt
@@ -180,6 +192,34 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
       Flirt": Dort geht es allein darum, wann eine **neue Frau den
       Kindern vorgestellt** wird — erst, wenn es ernst ist. Ob in einem
       Flirt-Kapitel ein Videocall vorkommt, ist davon unberührt.
+
+17. **Rückgriffe bekommen ihren Anker — oder sie fallen.** Ein
+    Auszahlungskapitel wie K77 greift auf ein Dutzend Pflanzungen aus
+    früheren Kapiteln zurück. Als Chiffre gesetzt („am Schirm", „das
+    Gerät der Gruppe", „Paris", „Lauf neunundzwanzig", „der
+    Zahnarztspiegel", „die Crique", „jeder Mann mit Hund") sind sie für
+    den Leser Rätsel, und v2 ohne die tragende Prosa macht sie nackt.
+    Regel: Im selben Satz steht, wer, was, woher — „Yunas
+    Zahnarztspiegel, den sie mir beim Abschied in die Brusttasche
+    gesteckt hatte". Wer den Anker nicht verdient, fliegt.
+    - Fachbegriffe des Buches einmal mit dem Alltagswort koppeln, damit
+      der Laie etwas lernt (Crichton-Prinzip): „Es erfindet, wo es
+      nichts weiß. Es halluziniert."
+    - **Der Mechanismus wird gesagt, nicht vorausgesetzt.** K77 lebt
+      davon, dass ein kluges System Fehler würfelt statt Gewohnheiten
+      nachzubauen — weil es dafür Jacks altes Programm benutzt. Das
+      steht seit K5 an, aber das Auszahlungskapitel muss es in zwei
+      einfachen Sätzen selbst sagen.
+
+**Offene Punkte für den Durchgang (aus K77):**
+- Gecko in 9, Falter in 11 Kapiteln (K68–K101). Je höchstens zweimal
+  im Buch.
+- Die Apnoe-Litanei („Lunge stellt Fragen … Nele, die zweimal
+  klettert … blieb") steht fast wortgleich in K74, K77, K87. Einmal.
+- „Lauf neunundzwanzig" in Jack-POV (K77 Original): Jack kann die
+  Nummer nicht kennen, sie fällt nur in Fontaine-Kapiteln.
+- Marie in K77 ohne Anker gestrichen; prüfen, ob sie dort gebraucht
+  wird.
 
 ## Was sich nicht ändert
 
