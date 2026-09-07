@@ -143,6 +143,22 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
     geschrieben hatte" → „mein Programm nach diesem Vogel benannt.
     Colibri." Wenn der Leser den Namen kennt, ist die Umschreibung
     kein Wiedererkennen, sondern ein Rätsel.
+15. **Die Kinder dürfen normal reden.** Yuna und Nele sollen nicht bei
+    jedem Auftritt abliefern. Wer immer pointiert, ist keine Figur
+    mehr, sondern ein Running Gag — und der Leser sieht die
+    Kinder-Szene kommen und ist genervt, bevor sie anfängt.
+    - **Zielkonflikt mit der Bible.** „Höchstens ein Nele-Satz pro
+      Szene, aber der sitzt" heißt: pro Szene *höchstens* einer, nicht
+      *mindestens* einer. Das Budget bleibt, die Ablieferpflicht fällt
+      weg. Nele darf auch nur dasitzen und lesen. Yuna darf auch
+      einfach etwas fragen.
+    - **Die Erzählung kündigt nie an.** „…und sagte, als alle fertig
+      waren, **ihren einen Satz**" — damit zeigt der Text seine eigene
+      Mechanik und stellt der Pointe einen Trommelwirbel voran. Die
+      Figur sagt etwas, fertig.
+    - Cool ist besser als witzig. Ein trockener, normaler Satz von
+      einem Kind trägt weiter als ein guter Gag, und er lässt Raum für
+      den einen, der wirklich kommt.
 
 ## Was sich nicht ändert
 
