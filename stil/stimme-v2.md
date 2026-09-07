@@ -76,9 +76,13 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
 9. **Bilder und Vergleiche.** Jack denkt sachlich. Ein Vergleich alle
    zwei bis drei Sätze zwingt den Leser, sich ständig ein neues Bild zu
    bauen, und dabei verliert er den Faden — der Faden ist das
-   Wichtigere. Höchstens **zwei** Vergleiche pro Kapitel, und nur
+   Wichtigere. **Null bis zwei** Vergleiche pro Kapitel, und nur
    solche, die beim ersten Lesen sitzen. Wer erst überlegen muss, was
    gemeint ist, legt das Buch weg.
+   - Ein Bild in dieser Dosis muss **diskret und logisch** sein. Dann
+     wirkt es lapidar, spontan, ironisch — das ist der erlaubte Ton.
+     Auffällig, kunstvoll oder erklärungsbedürftig ist es das nicht
+     mehr, und dann gehört es weg, egal wie schön es ist.
    - Weg damit, wenn der Vergleich nur schmückt: „wie zu einer
      schwierigen Verwandten", „wie mit dem Lineal abgeschnitten".
    - Statt eines schiefen Bildes eine kurze, einfache Begründung: nicht
