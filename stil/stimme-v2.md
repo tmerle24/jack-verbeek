@@ -215,8 +215,23 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
   21 Wörter pro Satz, der höchste Wert im Buch. Zeigt, ob v2 auch ein
   Gewichtskapitel trägt, ohne die Wärme zu verlieren.
 
-Alternative für ein „schweres" Kapitel: **K95** (laut Review 8 „die
-Vorlesung des Blocks").
+**Statt K101 gewählt: K77** (Jack, schwer). Der Autor will das
+Schlusskapitel nicht ausfasern. K77 ist der höchste Satzwert unter den
+schweren Jack-Kapiteln, der nicht aus Action kommt (15,9 Wörter/Satz,
+fünf Deutungs-Landungen, neun Bilder), hat dasselbe Personal wie K69
+(Bertrand, Pumpe drei, Marchal) und enthält genau das, was v2
+gefährdet: Jack allein unter Wasser, Wärme mit Bertrand, dann die kalte
+Wende. Weitere Alternative: **K95** (laut Review 8 „die Vorlesung des
+Blocks").
+
+**Wichtig für K77:** Bertrands „Hat sich verbessert" aus K69 ist
+Fontaines Wort (K2: „Es hatte Kolbe verbessert") und zahlt auf den
+Angelpunkt in K77 ein: „Marchal hatte sich nicht verbessert. Marchal
+war verbessert worden." In der v2-Fassung von K69 steht die Pflanzung
+nicht mehr, weil sie unverständlich war. Der Payoff trägt trotzdem, weil
+der Leser das Wort aus Fontaines Kapiteln kennt. Offen: ob K69 auf „Ist
+weg. Verdient das Dreifache." geändert wird — verständlich und
+derselbe Fakt wie in K77.
 
 ## Referenztext für v2
 
