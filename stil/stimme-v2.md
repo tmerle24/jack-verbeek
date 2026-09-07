@@ -159,6 +159,19 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
     - Cool ist besser als witzig. Ein trockener, normaler Satz von
       einem Kind trägt weiter als ein guter Gag, und er lässt Raum für
       den einen, der wirklich kommt.
+16. **Die Kinder kommen nicht in jedem Kapitel vor.** Wenn eine
+    Kinderszene da ist, darf und soll ein Satz sitzen — aber nicht in
+    jedem Kapitel eine Kinderszene. Sonst nutzt sich beides ab, die
+    Figuren und der Satz.
+    - **Jack telefoniert nicht jeden Abend nach Hause**, schon gar
+      nicht in einer Thea-Woche. Der Abendanruf ist ein Ereignis, kein
+      Kapitelbaustein.
+    - **Kein Widerspruch zu K66** („und jeden Abend Musik"): Das ist ein
+      Versprechen der Familie, keine Erzählpflicht. Es gilt in der Welt
+      weiter, auch an den Abenden, die nicht erzählt werden. Erzählt
+      wird der Abend, an dem etwas passiert.
+    - Prüffrage vor jeder Videocall-Szene: Steht sie im Plot? Stand im
+      Kapitel davor schon eine? Wenn ja, streichen.
 
 ## Was sich nicht ändert
 
