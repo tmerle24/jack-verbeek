@@ -138,6 +138,11 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
     Bild* auf, grau, grob, dann die Küche. In K69 stand „baute sich die
     Küche auf" — eine Küche baut sich nicht auf. Der Leser hat das
     frühere Kapitel nicht danebenliegen.
+    Dasselbe gilt für Dinge, die einen Namen haben: „einen Vogel zum
+    Namen gemacht, für etwas, das ich an einem Freitagabend
+    geschrieben hatte" → „mein Programm nach diesem Vogel benannt.
+    Colibri." Wenn der Leser den Namen kennt, ist die Umschreibung
+    kein Wiedererkennen, sondern ein Rätsel.
 
 ## Was sich nicht ändert
 
