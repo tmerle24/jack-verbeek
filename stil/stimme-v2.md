@@ -176,10 +176,10 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
       nicht hier.
     - Prüffrage vor jeder Videocall-Szene: Steht sie im Plot? Stand im
       Kapitel davor schon eine? Wenn ja, streichen.
-    - **Flirt-Kapitel sind kinderfrei.** Ausgeschrieben in der Bible
-      unter „Der Flirt": Kinder erst, wenn aus einer Begegnung eine
-      Kandidatin wird, höchstens eine Frau pro Band, nicht in jedem
-      Band.
+    - Nicht zu verwechseln mit der Regel in der Bible unter „Der
+      Flirt": Dort geht es allein darum, wann eine **neue Frau den
+      Kindern vorgestellt** wird — erst, wenn es ernst ist. Ob in einem
+      Flirt-Kapitel ein Videocall vorkommt, ist davon unberührt.
 
 ## Was sich nicht ändert
 
