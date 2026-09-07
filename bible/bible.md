@@ -56,6 +56,8 @@ Jedes Buch enthält:
 
 **Balance-Regel:** Technik, Spannung/Krimi/Action, Familie und Natur/Reise halten sich über das Buch die Waage. Technik darf nie überhandnehmen — sie langweilt die einen und ist der tägliche Trott der anderen. Nie mehr als zwei techniklastige Kapitel hintereinander, dann ein Sprung: Ort, Körper, Familie oder Humor. Die Sprünge sind gewollt — Abwechslung erzeugt den Sog, jeder Leser bekommt regelmäßig „sein" Element, und Gänsehaut wechselt mit Fernweh.
 
+**Musik, Kinder, Sorge — die drei Ruhepunkte und ihre Balance.** Sie haben verschiedene Aufgaben und dürfen sich deshalb nie gegenseitig ersetzen: **Musik** bringt die Ruhe — zu sich kommen, die Gedanken schweifen lassen. **Die Kinder** bringen die frische, witzige Gegenkraft zwischen den Sorgen. Beides verbraucht sich, wenn es in jedem Kapitel kommt; beides muss selten genug bleiben, dass der Leser sich darauf freut. Und ab der Mitte kommt das Dritte dazu: **Sorge um die Familie selbst**, wenn sie in Gefahr gerät. Damit ist die Heimat kein garantierter sicherer Hafen mehr — der Leser kann sich an keiner Stelle mehr entspannen, weil alles jederzeit möglich ist.
+
 **Vorbilder:** Figurenführung und Kapitelrhythmus an Alex Cross, Technik-Faszination an Michael Crichton, Ortsgefühl und Freiheit als eigener Beitrag.
 
 ---
@@ -193,6 +195,8 @@ Es passiert abends, wenn der Tag zu laut war oder zu still. Manchmal geplant, me
 - Am falschen Ort: in einem Wartebereich, in einem Bus, in einem Krankenhausflur
 
 **Funktion im Buch:** Das Ritual markiert den Übergang zwischen der Welt des Falls und der Welt zu Hause. Es steht selten am Anfang eines Kapitels und fast immer am Ende. In Band 1 kommt es dreimal vor: einmal früh und unbeschwert, einmal in der Mitte in Jacks Abwesenheit über Videocall — brüchig, verzögert, und der Leser fragt sich, ob am anderen Ende überhaupt noch die Richtigen sitzen — und einmal am Schluss.
+
+**Dosierung: nicht jeden Abend.** Dreimal pro Band ist die Regel, nicht die Untergrenze. Musik ist kein Kapitelbaustein, sondern der Moment, in dem Jack zur Ruhe kommt, zu sich kommt und die Gedanken schweifen lässt. Wenn er das jeden Abend tut, ist es kein Moment mehr, sondern ein Ablauf, und der Leser überblättert ihn. Dasselbe gilt für die Ukulele allein: seltener, als es sich beim Schreiben anfühlt.
 
 **Repertoire:** Alte französische Sachen vom Großvater, karibische Stücke aus den Guadeloupe-Jahren, und ein Lied, das Jack selbst geschrieben hat und nie zu Ende gebracht hat. Das lässt du über die Bände wachsen.
 

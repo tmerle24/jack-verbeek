@@ -166,10 +166,14 @@ pro Kapitel" wurde meist eingehalten. Das Problem sitzt woanders:
     - **Jack telefoniert nicht jeden Abend nach Hause**, schon gar
       nicht in einer Thea-Woche. Der Abendanruf ist ein Ereignis, kein
       Kapitelbaustein.
-    - **Kein Widerspruch zu K66** („und jeden Abend Musik"): Das ist ein
-      Versprechen der Familie, keine Erzählpflicht. Es gilt in der Welt
-      weiter, auch an den Abenden, die nicht erzählt werden. Erzählt
-      wird der Abend, an dem etwas passiert.
+    - **Auch die Musik nicht jeden Abend.** Die Bible nennt drei
+      Ritual-Szenen pro Band, und das ist die Regel, nicht die
+      Untergrenze (siehe „Das Musikritual — Dosierung"). Erzählt wird
+      der Abend, an dem etwas passiert.
+    - **Offener Widerspruch:** In K66 beschließt die Familie in der
+      Codewort-Zeremonie „und jeden Abend Musik". Das steht gegen die
+      Dosierungsregel und ist beim großen Durchgang zu entscheiden —
+      nicht hier.
     - Prüffrage vor jeder Videocall-Szene: Steht sie im Plot? Stand im
       Kapitel davor schon eine? Wenn ja, streichen.
     - **Flirt-Kapitel sind kinderfrei.** Ausgeschrieben in der Bible
