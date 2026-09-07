@@ -66,13 +66,38 @@ nicht); **K101** hält das positive Ende ohne Pathos. Schwächster Punkt:
 | Femke | „Sie gehen noch durch Türen." Werkstatt will Jack fest (Band 6). |
 | Zahnarzt | Dienstag. Er geht hin. Hat er gesagt. |
 
-## Nächster Schritt: Stimm-Refactoring (nicht: nächster Block)
+## Stimm-Test abgeschlossen (8. September 2026)
 
-Beschlossen in stil/stimme.md: nach dem letzten Kapitel ein eigener
-Durchgang über das ganze Buch — Jacks Stimme erden (Vorbild Alex Cross).
-Pro Kapitel höchstens ein Weisheitssatz, Gefühle konkret, Dialog statt
-Reflexion, den klugen Satz im Zweifel streichen. **Der Autor liest
-vorher selbst.** Erst dann Planung des Durchgangs in Blöcken.
+K69 und K77 in Stimme v2 geschrieben (band-01/kapitel-v2/), vom Autor
+gelesen und bestätigt: die beiden besten Kapitel bisher. Die Regeln sind
+in stil/stimme.md übernommen (17 Regeln, Kantinen-Szene als
+Referenztext, K77-v2 als Maßstab für ein schweres Kapitel). Fontaine
+darf philosophieren, nur über den eigenen Fall. Testprotokoll:
+stil/stimme-v2.md.
+
+**Ergebnis K69:** 1386 → 1000 Wörter, 17,5 → 10,2 Wörter/Satz, acht
+Deutungs-Landungen → null, ~14 Bilder → 1. Videocall gestrichen (stand
+nicht im Plot, K68 hatte einen).
+**Ergebnis K77:** 1606 → 1307 Wörter, 15,9 → 10,5 Wörter/Satz, fünf
+Deutungs-Landungen → eine, neun Bilder → null, alle Rückgriffe geankert.
+
+## Nächster Schritt: der Durchgang über alle 101 Kapitel
+
+Neue Session. Erst Blockplanung vorlegen, dann Block für Block:
+72 Jack-Kapitel nach den 17 Regeln, 29 Fremd-POV-Kapitel mit Fontaines
+Ausnahme. Reihenfolge, Blockgröße und ob die v2-Fassungen in
+band-01/kapitel/ zurückwandern: in der Planung entscheiden.
+
+**Offene Punkte für den Durchgang (aus dem Test):**
+- K69: „Hat was Besseres gefunden" vs. „Verdient das Dreifache" (Fakt
+  aus K77). Autor entscheidet.
+- K66: „und jeden Abend Musik" widerspricht der Dosierung (drei
+  Ritual-Szenen pro Band). Eine Zeile Figurenrede, Autor entscheidet.
+- Gecko in 9, Falter in 11 Kapiteln → je höchstens zweimal im Buch.
+- Apnoe-Litanei fast wortgleich in K74, K77, K87 → einmal.
+- „Lauf neunundzwanzig" in Jack-POV: Jack kennt die Nummer nicht.
+- Videocalls zählen (K68, 69, 71, 76, 80 …) — Regel 16.
+- Marie in K77 gestrichen; prüfen, ob sie dort gebraucht wird.
 
 ## Laufende Listen
 
