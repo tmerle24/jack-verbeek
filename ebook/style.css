@@ -15,39 +15,129 @@
     }
 }
 
-/* Auf der Titelseite (Seite 1) blenden wir die Seitenzahl aus */
+/* Cover: volle Seite, kein Rand, kein Seitenzahl */
 @page :first {
+    margin: 0;
+    background-image: url('../assets/cover-band-01.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
     @bottom-right {
         content: "";
     }
 }
 
+/* Unsichtbares Div in titel.md löst den Seitenumbruch aus */
+.cover-page {
+    height: 0.1pt;
+    page-break-after: always;
+}
+
+/* Front Matter: Schmutztitel und Impressum ohne Seitenzahlen */
+@page front {
+    @bottom-right {
+        content: "";
+    }
+}
+
+.schmutztitel {
+    page: front;
+    page-break-after: always;
+    padding-top: 3.8in;
+    text-align: center;
+}
+
+.schmutztitel p {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 22pt;
+    font-weight: bold;
+    letter-spacing: 2pt;
+    color: #111111;
+    margin: 0;
+    text-align: center;
+}
+
+.impressum {
+    page: front;
+    page-break-after: always;
+    padding-top: 7in;
+}
+
+.impressum p {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    color: #555555;
+    line-height: 1.6;
+    margin: 0 0 4pt 0;
+    text-align: left;
+}
+
+.widmung {
+    page: front;
+    page-break-after: always;
+    padding-top: 3.5in;
+    text-align: center;
+}
+
+.widmung p {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 14pt;
+    font-style: italic;
+    color: #333333;
+    margin: 0;
+}
+
+.motto {
+    page: front;
+    page-break-after: always;
+    padding-top: 3.8in;
+    text-align: center;
+}
+
+.motto p {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 13pt;
+    font-style: italic;
+    color: #333333;
+    line-height: 1.7;
+    margin: 0 0 12pt 0;
+}
+
+.motto-quelle {
+    font-style: normal;
+    font-size: 10pt;
+    color: #777777;
+    letter-spacing: 1pt;
+}
+
+.ausblick {
+    page: front;
+    page-break-before: always;
+    padding-top: 3.2in;
+    text-align: center;
+}
+
+.ausblick p {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    letter-spacing: 2pt;
+    color: #111111;
+    margin: 0 0 14pt 0;
+    text-transform: uppercase;
+}
+
+.ausblick .ausblick-sub {
+    font-size: 11pt;
+    font-weight: normal;
+    color: #777777;
+    letter-spacing: 1pt;
+}
+
 body {
-    /* Schrift um 80% vergrößert (vorher 14pt * 1.8 = ca. 25pt) */
     font-size: 25pt;
     line-height: 1.5;
     font-family: "Georgia", "Times New Roman", serif;
     color: #111111;
-}
-
-/* --- TITELSEITE (UNVERÄNDERT WIE VORHER) --- */
-
-body > h1:first-of-type {
-    font-size: 32pt;
-    font-family: "Helvetica Neue", Arial, sans-serif;
-    text-align: center;
-    padding-top: 150pt;
-    margin-bottom: 10pt;
-    font-weight: bold;
-}
-
-body > h1:first-of-type + p {
-    font-size: 18pt;
-    color: #555555;
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 0;
-    page-break-after: always; /* Umbruch zu Seite 2 */
 }
 
 /* --- AB HIER DIE NORMALE FORMATIERUNG FÜR KAPITEL --- */
