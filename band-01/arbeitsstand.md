@@ -81,18 +81,67 @@ nicht im Plot, K68 hatte einen).
 **Ergebnis K77:** 1606 → 1307 Wörter, 15,9 → 10,5 Wörter/Satz, fünf
 Deutungs-Landungen → eine, neun Bilder → null, alle Rückgriffe geankert.
 
-## Nächster Schritt: der Durchgang über alle 101 Kapitel
+## Stimm-Durchgang, Block 1: Fremd-POV (8. September 2026, Fable)
 
-Neue Session. Erst Blockplanung vorlegen, dann Block für Block:
-72 Jack-Kapitel nach den 17 Regeln, 29 Fremd-POV-Kapitel mit Fontaines
-Ausnahme. Reihenfolge, Blockgröße und ob die v2-Fassungen in
-band-01/kapitel/ zurückwandern: in der Planung entscheiden.
+K2 (Fontaine) und K43 (Roche) in v2 geschrieben, vom Autor gelesen,
+committet (band-01/kapitel-v2/). Originale unangetastet.
 
-**Offene Punkte für den Durchgang (aus dem Test):**
+**K2:** 883 → 935 Wörter (Zusätze auf Wunsch: Schwester-Reaktion,
+ältester Fall als Miniatur). Begriffe eingeführt: das System, die
+Grundlinie, ein Lauf, verbessert, die Bibliothek („das fremde
+Programm"). Die Zahl der Läufe fällt nicht mehr.
+**K43:** 876 → 603 Wörter, 19,9 → 9,1 Wörter/Satz. Drei Fassungen
+nötig. Foto-Detail gestrichen, Schlusssatz neu: „Es war der erste Satz
+in all seinen Heften, in dem er selbst vorkam."
+
+**Lehre aus K43 (gilt ab jetzt für jedes Kapitel):** Rätsel des
+Originals werden aufgelöst, nicht geschont. Jeder Satz, an dem der
+Leser anhalten muss, wird umgeschrieben oder fliegt, und die Abweichung
+wird gemeldet. Bauform Spannung: erst Gedanken in längeren Sätzen, dann
+kurze Handlungen, keine Rücknahmen („wenn es einer war"), keine
+Aufzählungen, die der Leser zählen muss. Der Bösewicht ist scharf und
+sicher.
+
+## Auflagen für den Durchgang (aus Block 1)
+
+- **Die 28 als Treppe.** K2 keine Zahl (erledigt). K6 behält „Subjekt
+  elf", die „achtundzwanzig" dort fällt. K10, K22, K32: „seine
+  Menschen" ohne Zahl. Die Zahl fällt zum ersten Mal in K70, wo
+  Fontaine sie selbst zum ersten Mal als Zahl denkt; K73 (Voss)
+  bestätigt sie. Ab da unverändert.
+- **Fälle davor als Miniaturen.** Ein früherer Fall pro
+  Fontaine-Kapitel, jedes Mal kalt, nie derselbe Mechanismus. Erste in
+  K2 (der älteste Lauf, die Nachricht seiner Frau). Vorhanden: K10
+  Witwe, K58 Grete, K77 Bertrands Tochter.
+- **Bible gegen Buch: Töten.** Bible: „Er tötet sie höflich." Buch seit
+  K31: Er wartet, die Welt liefert die Toten. Einziger Tötungsauftrag
+  gilt Jack (K79). Marchal bleibt offen (K90). Autor entscheidet, ob die
+  Bible nachgezogen wird (Empfehlung: ja).
+- **„Drei Wörter"** ist falsch (der Satz hat vier): K44 („drei
+  handgeschriebene Wörter"), K52 (Roche: „drei Wörter notiert"). In K43
+  v2 steht „ein Satz".
+- **Milchkaffee → Café au lait:** K15, K17, K44 angleichen (K43 v2 hat
+  Café au lait).
+- **Roche → Roché?** Vom Autor gefragt. Empfehlung: Roche lassen
+  (gängiger französischer Name, Aussprache wie der Konzern). Falls
+  umbenennen: 30 Kapitel, Bible, Plot, mechanisch.
+- **„Grüßen Sie das Wasser"** bleibt (Jacks eigener Gruß an Kolbe, K1,
+  2, 5, 6, 18, 44, 56, 76, 99; K44: „Der Satz ist von mir"). Autor hat
+  es gefragt, Entscheidung offen.
+- **K2/K44:** Jack und Kolbe schrieben täglich, gesprochen wurde im
+  Call. K2 v2 sagt „seit Wochen jeden Tag von ihm las".
+
+## Nächster Schritt
+
+Neue Session. Blockplanung vorlegen: Reihenfolge und Blockgröße für die
+restlichen 97 Kapitel, ob die v2-Fassungen nach band-01/kapitel/
+zurückwandern, und die Auflagen oben abarbeiten.
+
+**Offene Punkte aus dem Stimm-Test (weiter gültig):**
 - K69: „Hat was Besseres gefunden" vs. „Verdient das Dreifache" (Fakt
   aus K77). Autor entscheidet.
-- K66: „und jeden Abend Musik" widerspricht der Dosierung (drei
-  Ritual-Szenen pro Band). Eine Zeile Figurenrede, Autor entscheidet.
+- K66: „und jeden Abend Musik" widerspricht der Dosierung. Autor
+  entscheidet.
 - Gecko in 9, Falter in 11 Kapiteln → je höchstens zweimal im Buch.
 - Apnoe-Litanei fast wortgleich in K74, K77, K87 → einmal.
 - „Lauf neunundzwanzig" in Jack-POV: Jack kennt die Nummer nicht.
