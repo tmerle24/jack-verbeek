@@ -121,6 +121,30 @@ Ausnahme für Fontaine.
 - **Andere Fremd-POVs (Voss, Thea, Marie, Roche):** eigene Temperatur,
   aber Jacks Regeln ohne Ausnahme.
 
+## Familie: Kinder und Eltern (Auflage für den Durchgang, 8. September 2026)
+
+Die Familie ist witzig, cool, sportlich, musikalisch, fröhlich. Sie ist
+Jacks Halt und sorgt für Frische und Abwechslung. Prüffragen bei jeder
+Familienszene:
+
+- **Nervt es?** Die Kinder wirken nie nervig, die Eltern auch nicht.
+  Ein Witz oder ein Pieksen kommt nur, wenn er sitzt. Wenn er nicht
+  sitzt, fällt er. Lieber ein normaler Satz als ein halber Gag.
+- **Zu spät.** Die Kinder sind selbst zu spät und chaotisch. Sie werfen
+  Jack seine Verspätungen deshalb nicht dauernd vor. Neles Strichliste
+  ist eine Pointe, kein Dauerthema.
+- **Halt, nicht Gegenwind.** Kinder und Eltern unterstützen Jack bei
+  dem, was er tut. Sie tragen mit, sie stehen nicht im Weg. Die
+  Pieksereien der Eltern (Zaun, Steuer, Zahnarzt) sind Zuwendung, kein
+  Vorwurf.
+- **Die Eltern sind jung.** Vater zwanzig, Mutter fünfundzwanzig Jahre
+  älter als Jack, beide berufstätig, gehen gern aus. Keine typischen
+  Großeltern: kein Altersgebrechen, keine Rührseligkeit, kein
+  Belehren. Sie sind schnell, lustig und mitten im Leben.
+- **Frische.** Eine Familienszene bringt Tempo und Luft in den Fall.
+  Wenn sie das Kapitel verlangsamt oder nur Sorge trägt, ist sie zu
+  lang oder am falschen Platz.
+
 ## Dialog
 
 - Kein Adverb-Geländer („sagte er ironisch"). „Sagte" reicht fast immer.

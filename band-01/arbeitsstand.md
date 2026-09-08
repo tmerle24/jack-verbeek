@@ -104,6 +104,12 @@ sicher.
 
 ## Auflagen für den Durchgang (aus Block 1)
 
+- **Familie (Kinder, Eltern):** nie nervig, Witze nur wenn sie
+  sitzen, die Kinder sind selbst zu spät und werfen es Jack nicht
+  dauernd vor, die Eltern sind jung und gehen aus, alle sind Jacks
+  Halt und bringen Frische. Regeln in stil/stimme.md, Abschnitt
+  „Familie: Kinder und Eltern". Gilt für alle 72 Jack-Kapitel und
+  K75/K98 (Thea).
 - **Die 28 als Treppe.** K2 keine Zahl (erledigt). K6 behält „Subjekt
   elf", die „achtundzwanzig" dort fällt. K10, K22, K32: „seine
   Menschen" ohne Zahl. Die Zahl fällt zum ersten Mal in K70, wo
